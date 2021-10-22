@@ -1,0 +1,416 @@
+﻿<users>
+  <user SpeakID="8363" Speaker_First_Name="David" Speaker_last_name="Keyes" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="32856" Speaker_First_Name="Steve" Speaker_last_name="Plimpton" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="35418" Speaker_First_Name="Weichung" Speaker_last_name="Wang" Speaker_company_name="National Taiwan University, Taiwan" STATUS="active" />
+  <user SpeakID="47064" Speaker_First_Name="Raymond" Speaker_last_name="Spiteri" Speaker_company_name="University of Saskatchewan, Canada" STATUS="active" />
+  <user SpeakID="62039" Speaker_First_Name="Karen" Speaker_last_name="Devine" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="63958" Speaker_First_Name="Hidehiko" Speaker_last_name="Hasegawa" Speaker_company_name="University of Tsukuba, Japan" STATUS="active" />
+  <user SpeakID="65840" Speaker_First_Name="Xiaoye " Speaker_last_name="Li" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="76854" Speaker_First_Name="Wilfried" Speaker_last_name="Gansterer" Speaker_company_name="University of Vienna, Austria" STATUS="active" />
+  <user SpeakID="83250" Speaker_First_Name="Daisuke" Speaker_last_name="Takahashi" Speaker_company_name="University of Tsukuba, Japan" STATUS="active" />
+  <user SpeakID="88922" Speaker_First_Name="Brian" Speaker_last_name="Van Straalen" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="89317" Speaker_First_Name="Keita" Speaker_last_name="Teranishi" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="700448" Speaker_First_Name="Masha" Speaker_last_name="Sosonkina" Speaker_company_name="Old Dominion University and Ames Laboratory/DOE, U.S." STATUS="active" />
+  <user SpeakID="700481" Speaker_First_Name="Zhaojun" Speaker_last_name="Bai" Speaker_company_name="University of California, Davis, U.S." STATUS="active" />
+  <user SpeakID="701703" Speaker_First_Name="Tamara" Speaker_last_name="Kolda" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="701749" Speaker_First_Name="Chao" Speaker_last_name="Yang" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="703352" Speaker_First_Name="David" Speaker_last_name="Day" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="703852" Speaker_First_Name="David " Speaker_last_name="Moulton" Speaker_company_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="704203" Speaker_First_Name="Todd" Speaker_last_name="Munson" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="704372" Speaker_First_Name="Connie" Speaker_last_name="Young" Speaker_company_name="SIAM, U.S." STATUS="active" />
+  <user SpeakID="706361" Speaker_First_Name="Michael" Speaker_last_name="Heroux" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="706689" Speaker_First_Name="Jason" Speaker_last_name="Riedy" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="707106" Speaker_First_Name="Edmond" Speaker_last_name="Chow" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="707111" Speaker_First_Name="Miro" Speaker_last_name="Rozloznik" Speaker_company_name="Academy of Sciences of the Czech Republic, Prague, Czech Republic" STATUS="active" />
+  <user SpeakID="708009" Speaker_First_Name="Eric" Speaker_last_name="Phipps" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="708034" Speaker_First_Name="Robert" Speaker_last_name="Falgout" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="709697" Speaker_First_Name="John" Speaker_last_name="Bowman" Speaker_company_name="University of Alberta, Canada" STATUS="active" />
+  <user SpeakID="710829" Speaker_First_Name="Stephen" Speaker_last_name="Thomas" Speaker_company_name="National Renewable Energy Laboratory, U.S." STATUS="active" />
+  <user SpeakID="712582" Speaker_First_Name="Robert" Speaker_last_name="van de Geijn" Speaker_company_name="The University of Texas at Austin, U.S." STATUS="active" />
+  <user SpeakID="712668" Speaker_First_Name="Christian" Speaker_last_name="Engelmann" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="712687" Speaker_First_Name="Jonathan" Speaker_last_name="Hu" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="712761" Speaker_First_Name="Andrew" Speaker_last_name="Canning" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="712771" Speaker_First_Name="Jean-Luc" Speaker_last_name="Fattebert" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="713700" Speaker_First_Name="Ann" Speaker_last_name="Almgren" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="714749" Speaker_First_Name="Donna" Speaker_last_name="Calhoun" Speaker_company_name="Boise State University, U.S." STATUS="active" />
+  <user SpeakID="715772" Speaker_First_Name="Kengo" Speaker_last_name="Nakajima" Speaker_company_name="University of Tokyo, Japan" STATUS="active" />
+  <user SpeakID="715778" Speaker_First_Name="Mikito" Speaker_last_name="Furuichi" Speaker_company_name="JAMSTEC, Japan" STATUS="active" />
+  <user SpeakID="716029" Speaker_First_Name="Siva" Speaker_last_name="Rajamanickam" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="716126" Speaker_First_Name="Sameer" Speaker_last_name="Shende" Speaker_company_name="University of Oregon, U.S." STATUS="active" />
+  <user SpeakID="718023" Speaker_First_Name="Fabrice" Speaker_last_name="Dupros" Speaker_company_name="ARM, France" STATUS="active" />
+  <user SpeakID="718654" Speaker_First_Name="Frederic" Speaker_last_name="Nataf" STATUS="active" />
+  <user SpeakID="719353" Speaker_First_Name="Heidi" Speaker_last_name="Thornquist" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="719692" Speaker_First_Name="Tetsuya" Speaker_last_name="Sakurai" Speaker_company_name="University of Tsukuba, Japan" STATUS="active" />
+  <user SpeakID="719808" Speaker_First_Name="James" Speaker_last_name="Bordner" Speaker_company_name="University of California, San Diego, U.S." STATUS="active" />
+  <user SpeakID="719838" Speaker_First_Name="Matthew" Speaker_last_name="Knepley" Speaker_company_name="State University of New York at Buffalo, U.S." STATUS="active" />
+  <user SpeakID="720131" Speaker_First_Name="Axel" Speaker_last_name="Klawonn" Speaker_company_name="Universitaet zu Koeln, Germany" STATUS="active" />
+  <user SpeakID="720359" Speaker_First_Name="Matthias" Speaker_last_name="Bolten" Speaker_company_name="University of Wuppertal, Germany" STATUS="active" />
+  <user SpeakID="721075" Speaker_First_Name="Douglas" Speaker_last_name="Kothe" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="723261" Speaker_First_Name="Christopher" Speaker_last_name="Siefert" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="723667" Speaker_First_Name="Carsten" Speaker_last_name="Burstedde" Speaker_company_name="Universitaet Bonn, Germany" STATUS="active" />
+  <user SpeakID="723670" Speaker_First_Name="Denis " Speaker_last_name="Ridzal" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="724312" Speaker_First_Name="Luke" Speaker_last_name="Olson" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="726040" Speaker_First_Name="Franz" Speaker_last_name="Franchetti" Speaker_company_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user SpeakID="726271" Speaker_First_Name="Ralf-Peter" Speaker_last_name="Mundani" Speaker_company_name="FHGR, Switzerland" STATUS="active" />
+  <user SpeakID="726311" Speaker_First_Name="Costas" Speaker_last_name="Bekas" Speaker_company_name="IBM Research - Zurich, Switzerland" STATUS="active" />
+  <user SpeakID="726604" Speaker_First_Name="Ilya" Speaker_last_name="Safro" Speaker_company_name="Clemson University, U.S." STATUS="active" />
+  <user SpeakID="727177" Speaker_First_Name="Steve" Speaker_last_name="Plimpton" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="728716" Speaker_First_Name="Jose Manuel" Speaker_last_name="Gonzalez-Vida" Speaker_company_name="University of Malaga, Spain" STATUS="active" />
+  <user SpeakID="729537" Speaker_First_Name="Stanislav" Speaker_last_name="Sedukhin" Speaker_company_name="University of Aizu, Japan" STATUS="active" />
+  <user SpeakID="729722" Speaker_First_Name="Gillian" Speaker_last_name="Queisser" Speaker_company_name="Temple University, U.S." STATUS="active" />
+  <user SpeakID="730729" Speaker_First_Name="Michael" Speaker_last_name="Bader" Speaker_company_name="Technische Universität München, Germany" STATUS="active" />
+  <user SpeakID="730991" Speaker_First_Name="Jackson" Speaker_last_name="Mayo" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="731023" Speaker_First_Name="Richard" Speaker_last_name="Vuduc" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="731061" Speaker_First_Name="Lisandro" Speaker_last_name="Dalcin" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="731156" Speaker_First_Name="Cameron " Speaker_last_name="Smith" Speaker_company_name="Rensselaer Polytechnic Institute, U.S." STATUS="active" />
+  <user SpeakID="731287" Speaker_First_Name="George" Speaker_last_name="Biros" Speaker_company_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user SpeakID="731334" Speaker_First_Name="Barry" Speaker_last_name="White" Speaker_company_name="US Army Engineer Research and Development Center, U.S." STATUS="active" />
+  <user SpeakID="732280" Speaker_First_Name="David" Speaker_last_name="Ham" Speaker_company_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user SpeakID="732378" Speaker_First_Name="Jianlin" Speaker_last_name="Xia" Speaker_company_name="Purdue University, U.S." STATUS="active" />
+  <user SpeakID="732925" Speaker_First_Name="Richard" Speaker_last_name="Mills" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="733175" Speaker_First_Name="Christophe" Speaker_last_name="Calvin" Speaker_company_name="CEA Saclay, France" STATUS="active" />
+  <user SpeakID="734253" Speaker_First_Name="Judith" Speaker_last_name="Hill" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="735115" Speaker_First_Name="Takayuki" Speaker_last_name="Aoki" Speaker_company_name="Tokyo Institute of Technology, Japan" STATUS="active" />
+  <user SpeakID="735132" Speaker_First_Name="Samuel" Speaker_last_name="Williams" STATUS="active" />
+  <user SpeakID="735266" Speaker_First_Name="Albert-Jan" Speaker_last_name="Yzelman" Speaker_company_name="Huawei Technologies, France" STATUS="active" />
+  <user SpeakID="735268" Speaker_First_Name="Eric" Speaker_last_name="Cyr" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="735416" Speaker_First_Name="Rob" Speaker_last_name="Bisseling" Speaker_company_name="Utrecht University, The Netherlands" STATUS="active" />
+  <user SpeakID="735429" Speaker_First_Name="Mark" Speaker_last_name="Adams" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="735477" Speaker_First_Name="Mark" Speaker_last_name="Hoemmen" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="735518" Speaker_First_Name="Hatem" Speaker_last_name="Ltaief" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="735519" Speaker_First_Name="Grey" Speaker_last_name="Ballard" Speaker_company_name="Wake Forest University, U.S." STATUS="active" />
+  <user SpeakID="735541" Speaker_First_Name="Henri" Speaker_last_name="Casanova" Speaker_company_name="University of Hawaii, U.S." STATUS="active" />
+  <user SpeakID="735569" Speaker_First_Name="Michael" Speaker_last_name="Lang" Speaker_company_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="736504" Speaker_First_Name="Giacomo" Speaker_last_name="Nannicini" Speaker_company_name="IBM T.J. Watson Research Center, U.S." STATUS="active" />
+  <user SpeakID="736537" Speaker_First_Name="Travis" Speaker_last_name="Humble" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="739385" Speaker_First_Name="Rolf" Speaker_last_name="Krause" Speaker_company_name="Università della Svizzera italiana, Switzerland " STATUS="active" />
+  <user SpeakID="739488" Speaker_First_Name="Victoria" Speaker_last_name="Stodden" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="739657" Speaker_First_Name="Piotr" Speaker_last_name="Luszczek" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="740134" Speaker_First_Name="Dan" Speaker_last_name="Jiao" Speaker_company_name="Purdue University, U.S." STATUS="active" />
+  <user SpeakID="740407" Speaker_First_Name="Matthew" Speaker_last_name="Bettencourt" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="740566" Speaker_First_Name="Zbigniew" Speaker_last_name="Piotrowski" Speaker_company_name="Institute of Meteorology and Water Management, Poland" STATUS="active" />
+  <user SpeakID="741940" Speaker_First_Name="Laurent" Speaker_last_name="White" Speaker_company_name="ExxonMobil Research and Engineering" STATUS="active" />
+  <user SpeakID="744667" Speaker_First_Name="Noel" Speaker_last_name="Chalmers" Speaker_company_name="AMD Research, U.S." STATUS="active" />
+  <user SpeakID="745084" Speaker_First_Name="Zhang" Speaker_last_name="Yang" Speaker_company_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user SpeakID="747124" Speaker_First_Name="Robert" Speaker_last_name="Speck" Speaker_company_name="Jülich Supercomputing Centre, Germany" STATUS="active" />
+  <user SpeakID="747161" Speaker_First_Name="Mathieu" Speaker_last_name="Faverge" Speaker_company_name="Bordeaux INP, Inria, LaBRI, France" STATUS="active" />
+  <user SpeakID="747195" Speaker_First_Name="Hyesoon" Speaker_last_name="Kim" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="747204" Speaker_First_Name="Eric" Speaker_last_name="Nielsen" Speaker_company_name="NASA Langley Research Center, U.S." STATUS="active" />
+  <user SpeakID="747207" Speaker_First_Name="Kenneth" Speaker_last_name="Jansen" Speaker_company_name="University of Colorado Boulder, U.S." STATUS="active" />
+  <user SpeakID="747239" Speaker_First_Name="Sunita" Speaker_last_name="Chandrasekaran" Speaker_company_name="University of Delaware, U.S." STATUS="active" />
+  <user SpeakID="747244" Speaker_First_Name="George" Speaker_last_name="Bosilca" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="747261" Speaker_First_Name="Samar" Speaker_last_name="Aseeri" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="747345" Speaker_First_Name="Alan" Speaker_last_name="Humphrey" Speaker_company_name="University of Utah, U.S." STATUS="active" />
+  <user SpeakID="747369" Speaker_First_Name="Jérôme" Speaker_last_name="Frisch" Speaker_company_name="RWTH Aachen University, Germany" STATUS="active" />
+  <user SpeakID="747375" Speaker_First_Name="Wissam" Speaker_last_name="Sid-Lakhdar" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="747384" Speaker_First_Name="Hong" Speaker_last_name="Guo" Speaker_company_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user SpeakID="748212" Speaker_First_Name="Daniel" Speaker_last_name="Ruprecht" Speaker_company_name="Hamburg University of Technology, Germany" STATUS="active" />
+  <user SpeakID="748725" Speaker_First_Name="Martyn" Speaker_last_name="Clark" Speaker_company_name="University of Saskatchewan, Canada" STATUS="active" />
+  <user SpeakID="750552" Speaker_First_Name="Andreas" Speaker_last_name="Vogel" Speaker_company_name="Ruhr-University Bochum, Germany&#x9;" STATUS="active" />
+  <user SpeakID="750668" Speaker_First_Name="Salman" Speaker_last_name="Habib" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="751607" Speaker_First_Name="Pat " Speaker_last_name="Quillen " Speaker_company_name="MathWorks, U.S." STATUS="active" />
+  <user SpeakID="751672" Speaker_First_Name="Xiaoying" Speaker_last_name="Dai" Speaker_company_name="Chinese Academy of Sciences, China" STATUS="active" />
+  <user SpeakID="751715" Speaker_First_Name="H. Metin" Speaker_last_name="Aktulga" Speaker_company_name="Michigan State University, U.S." STATUS="active" />
+  <user SpeakID="751754" Speaker_First_Name="Hari" Speaker_last_name="Sundar" Speaker_company_name="University of Utah, U.S." STATUS="active" />
+  <user SpeakID="752008" Speaker_First_Name="Pieter" Speaker_last_name="Maris" Speaker_company_name="Iowa State University, U.S." STATUS="active" />
+  <user SpeakID="752016" Speaker_First_Name="Karl" Speaker_last_name="Rupp" Speaker_company_name="Technische Universität Wien, Austria" STATUS="active" />
+  <user SpeakID="752049" Speaker_First_Name="Ian" Speaker_last_name="Karlin" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="752089" Speaker_First_Name="Takeshi" Speaker_last_name="Fukaya" Speaker_company_name="Hokkaido University, Japan" STATUS="active" />
+  <user SpeakID="752091" Speaker_First_Name="Mark" Speaker_last_name="Gates" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="752105" Speaker_First_Name="Thomas" Speaker_last_name="Herault" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="752486" Speaker_First_Name="Samuel" Speaker_last_name="Thibault" Speaker_company_name="LaBRI, France" STATUS="active" />
+  <user SpeakID="752522" Speaker_First_Name="Johann" Speaker_last_name="Rudi" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="752526" Speaker_First_Name="Tobin" Speaker_last_name="Isaac" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="753661" Speaker_First_Name="Daichi" Speaker_last_name="Mukunoki" Speaker_company_name="RIKEN, Japan" STATUS="active" />
+  <user SpeakID="754574" Speaker_First_Name="Nur " Speaker_last_name="Fadel" Speaker_company_name="Swiss National Supercomputing Center, Switzerland" STATUS="active" />
+  <user SpeakID="755456" Speaker_First_Name="Daniel" Speaker_last_name="Shapero" Speaker_company_name="University of Washington, U.S." STATUS="active" />
+  <user SpeakID="755869" Speaker_First_Name="Andrey" Speaker_last_name="Prokopenko" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="758141" Speaker_First_Name="Clement" Speaker_last_name="Weisbecker" STATUS="active" />
+  <user SpeakID="758224" Speaker_First_Name="Michael" Speaker_last_name="Minion" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="758350" Speaker_First_Name="Huang" Speaker_last_name="Tsung-Ming" Speaker_company_name="National Taiwan Normal University, Taiwan" STATUS="active" />
+  <user SpeakID="758357" Speaker_First_Name="Muthu" Speaker_last_name="Baskaran" Speaker_company_name="Reservoir Labs, U.S." STATUS="active" />
+  <user SpeakID="758374" Speaker_First_Name="Luigi" Speaker_last_name="Genovese" Speaker_company_name="CEA, France" STATUS="active" />
+  <user SpeakID="758447" Speaker_First_Name="Sriram" Speaker_last_name="Krishnamoorthy" Speaker_company_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="758533" Speaker_First_Name="Jeremiah" Speaker_last_name="Wilke" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="759023" Speaker_First_Name="Randall" Speaker_last_name="LeVeque" Speaker_company_name="University of Washington, U.S." STATUS="active" />
+  <user SpeakID="759916" Speaker_First_Name="Alp" Speaker_last_name="Dener" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="760022" Speaker_First_Name="Pieter" Speaker_last_name="Ghysels" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="760044" Speaker_First_Name="Jee" Speaker_last_name="Choi" Speaker_company_name="University of Oregon, U.S." STATUS="active" />
+  <user SpeakID="760197" Speaker_First_Name="Sarah" Speaker_last_name="Knepper" Speaker_company_name="Intel Corporation, U.S." STATUS="active" />
+  <user SpeakID="760440" Speaker_First_Name="Roel" Speaker_last_name="Van Beeumen" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="760910" Speaker_First_Name="Jordan" Speaker_last_name="Musser" Speaker_company_name="National Energy Technology Laboratory, U.S." STATUS="active" />
+  <user SpeakID="760911" Speaker_First_Name="Yuri" Speaker_last_name="Alexeev" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="762655" Speaker_First_Name="Tobias" Speaker_last_name="Weinzierl" Speaker_company_name="Durham University, United Kingdom" STATUS="active" />
+  <user SpeakID="762850" Speaker_First_Name="Stuart" Speaker_last_name="Slattery" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="762851" Speaker_First_Name="Massimiliano" Speaker_last_name="Lupo Pasini" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="762852" Speaker_First_Name="Andrew" Speaker_last_name="Myers" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="762885" Speaker_First_Name="Volker" Speaker_last_name="Blum" Speaker_company_name="Duke University, U.S." STATUS="active" />
+  <user SpeakID="762908" Speaker_First_Name="Anshu" Speaker_last_name="Dubey" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="762930" Speaker_First_Name="Yaohung" Speaker_last_name="Tsai" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="762980" Speaker_First_Name="Delyan" Speaker_last_name="Kalchev" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="763345" Speaker_First_Name="Gerrett" Speaker_last_name="Diamond" Speaker_company_name="Rensselaer Polytechnic Institute, U.S." STATUS="active" />
+  <user SpeakID="763480" Speaker_First_Name="Li" Speaker_last_name="Liao" Speaker_company_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user SpeakID="763637" Speaker_First_Name="Takashi" Speaker_last_name="Shimokawabe" Speaker_company_name="University of Tokyo, Japan" STATUS="active" />
+  <user SpeakID="763738" Speaker_First_Name="James" Speaker_last_name="Chelikowsky" Speaker_company_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user SpeakID="763792" Speaker_First_Name="Oliver" Speaker_last_name="Rheinbach" Speaker_company_name="Technische Universität Bergakademie Freiberg, Germany" STATUS="active" />
+  <user SpeakID="763821" Speaker_First_Name="Samuel" Speaker_last_name="Knight" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="763986" Speaker_First_Name="Hartwig" Speaker_last_name="Anzt" Speaker_company_name="Karlsruhe Institute of Technology, Germany and University of Tennessee, U.S." STATUS="active" />
+  <user SpeakID="767223" Speaker_First_Name="Edgar" Speaker_last_name="Solomonik" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="767240" Speaker_First_Name="Massimiliano" Speaker_last_name="Fasi" Speaker_company_name="University of Manchester, United Kingdom" STATUS="active" />
+  <user SpeakID="767468" Speaker_First_Name="Stefan" Speaker_last_name="Henneking" Speaker_company_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user SpeakID="767488" Speaker_First_Name="Jonas" Speaker_last_name="Thies" Speaker_company_name="German Aerospace Center (DLR), Germany" STATUS="active" />
+  <user SpeakID="767496" Speaker_First_Name="Hannah" Speaker_last_name="Rittich" Speaker_company_name="Jülich Supercomputing Centre, Germany" STATUS="active" />
+  <user SpeakID="768149" Speaker_First_Name="Jiajia" Speaker_last_name="Li" Speaker_company_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="768164" Speaker_First_Name="Xiaohu" Speaker_last_name="Guo" Speaker_company_name="Science and Technology Facilities Council, United Kingdom" STATUS="active" />
+  <user SpeakID="768190" Speaker_First_Name="Stefano" Speaker_last_name="Zampini" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="768198" Speaker_First_Name="Wajih Halim" Speaker_last_name="Boukaram" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="768211" Speaker_First_Name="Camille" Speaker_last_name="Coti" Speaker_company_name="Université Paris 13, France" STATUS="active" />
+  <user SpeakID="768215" Speaker_First_Name="Johannes" Speaker_last_name="Holke" Speaker_company_name="German Aerospace Center (DLR), Germany" STATUS="active" />
+  <user SpeakID="768277" Speaker_First_Name="Tapasya" Speaker_last_name="Patki" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="769246" Speaker_First_Name="Casey" Speaker_last_name="Battaglino" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="769373" Speaker_First_Name="Christoph" Speaker_last_name="Ertl" Speaker_company_name="Technische Universitaet Muenchen, Germany" STATUS="active" />
+  <user SpeakID="769391" Speaker_First_Name="Amanda" Speaker_last_name="Bienz" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="769421" Speaker_First_Name="Olivier" Speaker_last_name="Aumage" Speaker_company_name="Inria, France" STATUS="active" />
+  <user SpeakID="769428" Speaker_First_Name="David" Speaker_last_name="Goudin" Speaker_company_name="CEA/DAM, France" STATUS="active" />
+  <user SpeakID="769510" Speaker_First_Name="Patrick" Speaker_last_name="Zulian" Speaker_company_name="Università della Svizzera italiana, Switzerland " STATUS="active" />
+  <user SpeakID="769524" Speaker_First_Name="George " Speaker_last_name="Turkiyyah" Speaker_company_name="American University of Beirut, Lebanon" STATUS="active" />
+  <user SpeakID="770172" Speaker_First_Name="Marc" Speaker_last_name="Baboulin" Speaker_company_name="University of Paris-Sud, France" STATUS="active" />
+  <user SpeakID="770972" Speaker_First_Name="Ruipeng" Speaker_last_name="Li" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="771328" Speaker_First_Name="Lukas" Speaker_last_name="Einkemmer" Speaker_company_name="University of Innsbruck, Austria" STATUS="active" />
+  <user SpeakID="771535" Speaker_First_Name="Nicole" Speaker_last_name="Beisiegel" Speaker_company_name="University College Dublin, Ireland" STATUS="active" />
+  <user SpeakID="771969" Speaker_First_Name="Mawussi" Speaker_last_name="Zounon" Speaker_company_name="The University of Manchester, UK" STATUS="active" />
+  <user SpeakID="772169" Speaker_First_Name="Sriramkrishnan" Speaker_last_name="Muralikrishnan" Speaker_company_name="Paul Scherrer Institut, Switzerland" STATUS="active" />
+  <user SpeakID="773150" Speaker_First_Name="Ahmad" Speaker_last_name="Abdelfattah" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="773756" Speaker_First_Name="Shelby" Speaker_last_name="Lockhart" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="773860" Speaker_First_Name="David J." Speaker_last_name="Gardner" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="774447" Speaker_First_Name="Thomas" Speaker_last_name="Gibson" Speaker_company_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user SpeakID="774541" Speaker_First_Name="Christopher" Speaker_last_name="Eldred" Speaker_company_name="CNRS and Grenoble University, France" STATUS="active" />
+  <user SpeakID="774576" Speaker_First_Name="Martin" Speaker_last_name="Lanser" Speaker_company_name="Universitaet zu Koeln, Germany" STATUS="active" />
+  <user SpeakID="774696" Speaker_First_Name="Ewa" Speaker_last_name="Deelman" Speaker_company_name="University of Southern California, U.S." STATUS="active" />
+  <user SpeakID="774768" Speaker_First_Name="Yousef" Speaker_last_name="Saad" Speaker_company_name="University of Minnesota, U.S." STATUS="active" />
+  <user SpeakID="774939" Speaker_First_Name="Leonhard" Speaker_last_name="Rannabauer" Speaker_company_name="Technische Universität München, Germany" STATUS="active" />
+  <user SpeakID="775056" Speaker_First_Name="Juliane" Speaker_last_name="Mueller" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="775730" Speaker_First_Name="Jan" Speaker_last_name="Eichstaedt" Speaker_company_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user SpeakID="775732" Speaker_First_Name="Francois-Henry" Speaker_last_name="Rouet" Speaker_company_name="Livermore Software Technology Corporation, U.S." STATUS="active" />
+  <user SpeakID="775768" Speaker_First_Name="Nathaniel" Speaker_last_name="Trask" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="775808" Speaker_First_Name="Jennifer" Speaker_last_name="Loe" Speaker_company_name="Baylor University, U.S." STATUS="active" />
+  <user SpeakID="776638" Speaker_First_Name="Hong" Speaker_last_name="Zhang" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="776676" Speaker_First_Name="Catherine" Speaker_last_name="McGeoch" Speaker_company_name="D-Wave Systems, Inc., U.S." STATUS="active" />
+  <user SpeakID="778867" Speaker_First_Name="Johannes" Speaker_last_name="Langguth" Speaker_company_name="Simula Research Laboratory, Norway" STATUS="active" />
+  <user SpeakID="779284" Speaker_First_Name="Evangelos" Speaker_last_name="Papalexakis" Speaker_company_name="University of California, Riverside, U.S." STATUS="active" />
+  <user SpeakID="779288" Speaker_First_Name="Kathryn" Speaker_last_name="Rouse" Speaker_company_name="Inmar, USA" STATUS="active" />
+  <user SpeakID="779799" Speaker_First_Name="Christian" Speaker_last_name="Negre" Speaker_company_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="780186" Speaker_First_Name="Ronald" Speaker_last_name="Kriemann" Speaker_company_name="Max Planck Institute for Mathematics in the Sciences, Germany" STATUS="active" />
+  <user SpeakID="780194" Speaker_First_Name="Yang" Speaker_last_name="Liu" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="780219" Speaker_First_Name="Yiyu" Speaker_last_name="Tan" Speaker_company_name="RIKEN, Japan" STATUS="active" />
+  <user SpeakID="780221" Speaker_First_Name="Miwako" Speaker_last_name="Tsuji" Speaker_company_name="RIKEN Advanced Institute for Computational Science, Japan" STATUS="active" />
+  <user SpeakID="780242" Speaker_First_Name="Samuel" Speaker_last_name="Araki" Speaker_company_name="ERC Inc. and Air Force Research Laboratory , U.S." STATUS="active" />
+  <user SpeakID="780246" Speaker_First_Name="Edward" Speaker_last_name="Hutter" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="780268" Speaker_First_Name="Takeshi" Speaker_last_name="Terao" Speaker_company_name="Shibaura Institute of Technology, Japan" STATUS="active" />
+  <user SpeakID="780269" Speaker_First_Name="Hartmut" Speaker_last_name="Kaiser" Speaker_company_name="Louisiana State University, U.S." STATUS="active" />
+  <user SpeakID="780272" Speaker_First_Name="Tze Meng" Speaker_last_name="Low" Speaker_company_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user SpeakID="780304" Speaker_First_Name="Oded" Speaker_last_name="Green" Speaker_company_name="NVIDIA and Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="780331" Speaker_First_Name="Noah" Speaker_last_name="Evans" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="780335" Speaker_First_Name="Arthur" Speaker_last_name="Mccabe" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="780336" Speaker_First_Name="Balazs" Speaker_last_name="Gerofi" Speaker_company_name="RIKEN, Japan" STATUS="active" />
+  <user SpeakID="780365" Speaker_First_Name="Julien" Speaker_last_name="Jaeger" Speaker_company_name="CEA, France" STATUS="active" />
+  <user SpeakID="780382" Speaker_First_Name="Philipp" Speaker_last_name="Samfass" Speaker_company_name="Technical University of Munich, Germany" STATUS="active" />
+  <user SpeakID="780431" Speaker_First_Name="Luc" Speaker_last_name="Berger-Vergiat" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="780457" Speaker_First_Name="Jan-Willem" Speaker_last_name="Buurlage" Speaker_company_name="Centrum Wiskunde &amp; Informatica, The Netherlands" STATUS="active" />
+  <user SpeakID="780522" Speaker_First_Name="Frédéric" Speaker_last_name="Suter" Speaker_company_name="CNRS, France" STATUS="active" />
+  <user SpeakID="780577" Speaker_First_Name="Daniel" Speaker_last_name="Ibanez" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="780655" Speaker_First_Name="Galen" Speaker_last_name="Shipman" Speaker_company_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="780682" Speaker_First_Name="Jeffrey" Speaker_last_name="Young" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="781098" Speaker_First_Name="Dmitry" Speaker_last_name="Logashenko" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="781099" Speaker_First_Name="Gabriel" Speaker_last_name="Wittum" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="781131" Speaker_First_Name="Ruiyang" Speaker_last_name="Dai" Speaker_company_name="Université Catholique de Louvain, Belgium" STATUS="active" />
+  <user SpeakID="781225" Speaker_First_Name="Toheeb" Speaker_last_name="Biala" Speaker_company_name="Middle Tennessee State University, U.S." STATUS="active" />
+  <user SpeakID="781678" Speaker_First_Name="Christopher" Speaker_last_name="Musco" Speaker_company_name="New York University, U.S." STATUS="active" />
+  <user SpeakID="781837" Speaker_First_Name="Yun Teck" Speaker_last_name="Lee" Speaker_company_name="Idaho State University, U.S." STATUS="active" />
+  <user SpeakID="781843" Speaker_First_Name="Pietro" Speaker_last_name="Incardona" Speaker_company_name="TU Dresden, Germany" STATUS="active" />
+  <user SpeakID="782315" Speaker_First_Name="Axel" Speaker_last_name="Huebl" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="782875" Speaker_First_Name="Leighton" Speaker_last_name="Wilson" Speaker_company_name="University of Michigan, U.S." STATUS="active" />
+  <user SpeakID="783035" Speaker_First_Name="K. Daniel" Speaker_last_name="Brauss" Speaker_company_name="Francis Marion University, U.S." STATUS="active" />
+  <user SpeakID="783200" Speaker_First_Name="Brian" Speaker_last_name="Kelley" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="783201" Speaker_First_Name="Yohann" Speaker_last_name="Dudouit" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="783444" Speaker_First_Name="Neena" Speaker_last_name="Imam" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="783669" Speaker_First_Name="Leopold" Speaker_last_name="Cambier" Speaker_company_name="Stanford University, U.S." STATUS="active" />
+  <user SpeakID="783695" Speaker_First_Name="Michal" Speaker_last_name="Habera" Speaker_company_name="University of Luxembourg, Luxembourg" STATUS="active" />
+  <user SpeakID="784079" Speaker_First_Name="Hexuan" Speaker_last_name="Liu" Speaker_company_name="University of Washington, U.S." STATUS="active" />
+  <user SpeakID="784625" Speaker_First_Name="Steven" Speaker_last_name="Goldenberg" Speaker_company_name="College of William &amp; Mary, U.S." STATUS="active" />
+  <user SpeakID="784808" Speaker_First_Name="Maxence" Speaker_last_name="Thevenet" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="784823" Speaker_First_Name="Theo" Speaker_last_name="Mary" Speaker_company_name="The University of Manchester, UK" STATUS="active" />
+  <user SpeakID="784882" Speaker_First_Name="Cody" Speaker_last_name="Balos" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="784886" Speaker_First_Name="Andrew" Speaker_last_name="Clarke" Speaker_company_name="University of Leeds, United Kingdom" STATUS="active" />
+  <user SpeakID="784892" Speaker_First_Name="Michela" Speaker_last_name="Taufer" Speaker_company_name="University of Tennessee, U.S." STATUS="active" />
+  <user SpeakID="784894" Speaker_First_Name="Fabio" Speaker_last_name="Gratl" Speaker_company_name="Technische Universität München, Germany" STATUS="active" />
+  <user SpeakID="784933" Speaker_First_Name="Von" Speaker_last_name="Welch" Speaker_company_name="Indiana University, U.S." STATUS="active" />
+  <user SpeakID="784953" Speaker_First_Name="Rujeko" Speaker_last_name="Chinomona" Speaker_company_name="Southern Methodist University, U.S." STATUS="active" />
+  <user SpeakID="784984" Speaker_First_Name="Sebastian" Speaker_last_name="Götschel" Speaker_company_name="Zuse Institute Berlin, Germany" STATUS="active" />
+  <user SpeakID="785023" Speaker_First_Name="Katarzyna" Speaker_last_name="Swirydowicz" Speaker_company_name="National Renewable Energy Laboratory, U.S." STATUS="active" />
+  <user SpeakID="785157" Speaker_First_Name="Anuva" Speaker_last_name="Kulkarni" Speaker_company_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user SpeakID="785177" Speaker_First_Name="Terry" Speaker_last_name="Cojean" Speaker_company_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user SpeakID="785181" Speaker_First_Name="Thomas" Speaker_last_name="Anderson" Speaker_company_name="California Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="785198" Speaker_First_Name="Asim" Speaker_last_name="YarKhan" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="785267" Speaker_First_Name="Srikara" Speaker_last_name="Pranesh" Speaker_company_name="The University of Manchester, UK" STATUS="active" />
+  <user SpeakID="785304" Speaker_First_Name="Stuart" Speaker_last_name="Hadfield" Speaker_company_name="NASA, U.S." STATUS="active" />
+  <user SpeakID="785310" Speaker_First_Name="Rached" Speaker_last_name="Abdelkhalak" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="785392" Speaker_First_Name="Lawrence" Speaker_last_name="Mitchell" Speaker_company_name="Durham University, United Kingdom" STATUS="active" />
+  <user SpeakID="785466" Speaker_First_Name="Rabab" Speaker_last_name="Alomairy" Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="785489" Speaker_First_Name="Scott" Speaker_last_name="Levy" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="785504" Speaker_First_Name="David" Speaker_last_name="Williams-Young" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="785517" Speaker_First_Name="Matthew" Speaker_last_name="Griffith" Speaker_company_name="University of Bath, United Kingdom" STATUS="active" />
+  <user SpeakID="785580" Speaker_First_Name="Alexander" Speaker_last_name="Lindsay" Speaker_company_name="Idaho National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="785697" Speaker_First_Name="Ponnuswamy" Speaker_last_name="Sadayappan" Speaker_company_name="Ohio State University, U.S." STATUS="active" />
+  <user SpeakID="785744" Speaker_First_Name="Hannah" Speaker_last_name="Morgan" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="785760" Speaker_First_Name="Syam" Speaker_last_name="Vangara" Speaker_company_name="McGill University, Canada" STATUS="active" />
+  <user SpeakID="785941" Speaker_First_Name="Jeffrey" Speaker_last_name="Cornelis" Speaker_company_name="University of Antwerp, Belgium" STATUS="active" />
+  <user SpeakID="785958" Speaker_First_Name="Azzam" Speaker_last_name="Haidar" Speaker_company_name="NVIDIA, U.S." STATUS="active" />
+  <user SpeakID="785969" Speaker_First_Name="Gregory" Speaker_last_name="Bolet" Speaker_company_name="Franklin &amp; Marshall College, U.S." STATUS="active" />
+  <user SpeakID="786024" Speaker_First_Name="Michal" Speaker_last_name="Kopera" Speaker_company_name="Boise State University, U.S." STATUS="active" />
+  <user SpeakID="786064" Speaker_First_Name="Kevin" Speaker_last_name="Gott" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="786076" Speaker_First_Name="Karthik" Speaker_last_name="Kashinath" Speaker_company_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="786088" Speaker_First_Name="Het" Speaker_last_name="Mankad" Speaker_company_name="University of Texas at Dallas, U.S." STATUS="active" />
+  <user SpeakID="786105" Speaker_First_Name="Markus" Speaker_last_name="Levonyak" Speaker_company_name="University of Vienna, Austria" STATUS="active" />
+  <user SpeakID="786136" Speaker_First_Name="Essam" Speaker_last_name="Algizawy" Speaker_company_name="Brightskies Inc, Egypt" STATUS="active" />
+  <user SpeakID="786247" Speaker_First_Name="Scott" Speaker_last_name="Aiton" Speaker_company_name="Boise State University, U.S." STATUS="active" />
+  <user SpeakID="786279" Speaker_First_Name="Aditya" Speaker_last_name="Kashi" Speaker_company_name="McGill University, Canada" STATUS="active" />
+  <user SpeakID="786355" Speaker_First_Name="William" Speaker_last_name="Kramer" Speaker_company_name="National Center for Supercomputing Applications and University of Illinois, U.S." STATUS="active" />
+  <user SpeakID="786703" Speaker_First_Name="Innokentiy" Speaker_last_name="Protasov" Speaker_company_name="University of Houston, U.S." STATUS="active" />
+  <user SpeakID="786718" Speaker_First_Name="Xingyuan" Speaker_last_name="Chen" Speaker_company_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="788362" Speaker_First_Name="Ruslan" Speaker_last_name="Shaydulin" Speaker_company_name="Clemson University, U.S." STATUS="active" />
+  <user SpeakID="788367" Speaker_First_Name="Fande" Speaker_last_name="Kong" Speaker_company_name="Idaho National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="788635" Speaker_First_Name="Laura" Speaker_last_name="Monroe" Speaker_company_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="789165" Speaker_First_Name="Matthew" Speaker_last_name="Zahr" Speaker_company_name="University of Notre Dame, U.S." STATUS="active" />
+  <user SpeakID="789629" Speaker_First_Name="Andrew" Speaker_last_name="Giuliani" Speaker_company_name="Courant Institute of Mathematical Sciences, New York University, U.S." STATUS="active" />
+  <user SpeakID="789708" Speaker_First_Name="Leonard" Speaker_last_name="Mushunje" Speaker_company_name="Midlands State University, Zimbabwe" STATUS="active" />
+  <user SpeakID="789938" Speaker_First_Name="Tyler" Speaker_last_name="Chen" Speaker_company_name="University of Washington, U.S." STATUS="active" />
+  <user SpeakID="789945" Speaker_First_Name="Martina" Speaker_last_name="Prugger" Speaker_company_name="Vanderbilt University, U.S." STATUS="active" />
+  <user SpeakID="789946" Speaker_First_Name="Francois" Speaker_last_name="Belletti" Speaker_company_name="Google Research, U.S." STATUS="active" />
+  <user SpeakID="789947" Speaker_First_Name="Mantas" Speaker_last_name="Mikaitis" Speaker_company_name="The University of Manchester, UK" STATUS="active" />
+  <user SpeakID="789948" Speaker_First_Name="Andrew" Speaker_last_name="McRae" Speaker_company_name="University of Oxford, United Kingdom" STATUS="active" />
+  <user SpeakID="789957" Speaker_First_Name="Bo" Speaker_last_name="Peng" Speaker_company_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="789959" Speaker_First_Name="David" Speaker_last_name="Beckingsale" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="789960" Speaker_First_Name="Serge" Speaker_last_name="Petiton" Speaker_company_name="Universite de Lille 1, France" STATUS="active" />
+  <user SpeakID="789961" Speaker_First_Name="Marc" Speaker_last_name="de la Asuncion" Speaker_company_name="University of Malaga, Spain" STATUS="active" />
+  <user SpeakID="789962" Speaker_First_Name="Jean-Christophe" Speaker_last_name="Weill" Speaker_company_name="CEA, DAM, DIF, France" STATUS="active" />
+  <user SpeakID="789966" Speaker_First_Name="Thomas" Speaker_last_name="Grützmacher" Speaker_company_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user SpeakID="789984" Speaker_First_Name="Nick" Speaker_last_name="Schenkels" Speaker_company_name="Inria, France" STATUS="active" />
+  <user SpeakID="789985" Speaker_First_Name="Muhammed" Speaker_last_name="Syam" Speaker_company_name="United Arab Emirates University, United Arab Emirates" STATUS="active" />
+  <user SpeakID="789986" Speaker_First_Name="Fangfang" Speaker_last_name="Xia" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="789987" Speaker_First_Name="Hannah" Speaker_last_name="Choi" Speaker_company_name="University of Washington, U.S." STATUS="active" />
+  <user SpeakID="789988" Speaker_First_Name="Bethany" Speaker_last_name="Lusch" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="789989" Speaker_First_Name="Phu" Speaker_last_name="Nguyen" Speaker_company_name="University of California, Irvine, U.S." STATUS="active" />
+  <user SpeakID="789990" Speaker_First_Name="Edom" Speaker_last_name="Moges" Speaker_company_name="University of California, Berkeley, U.S." STATUS="active" />
+  <user SpeakID="789995" Speaker_First_Name="Neil" Speaker_last_name="Lindquist" Speaker_company_name="University of Tennessee, U.S." STATUS="active" />
+  <user SpeakID="789996" Speaker_First_Name="Boqian" Speaker_last_name="Shen" Speaker_company_name="Rice University, U.S." STATUS="active" />
+  <user SpeakID="789997" Speaker_First_Name="Yang" Speaker_last_name="Shi" Speaker_company_name="Rakuten, Japan and University of California, Irvine, U.S." STATUS="active" />
+  <user SpeakID="789999" Speaker_First_Name="Guido" Speaker_last_name="Pagano" Speaker_company_name="University of Maryland, U.S." STATUS="active" />
+  <user SpeakID="790000" Speaker_First_Name="Malcolm" Speaker_last_name="Roberts" Speaker_company_name="AMD, Canada" STATUS="active" />
+  <user SpeakID="790001" Speaker_First_Name="Mohan" Speaker_last_name="Krishnamoorthy" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790002" Speaker_First_Name="Orcun" Speaker_last_name="Yildiz" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790003" Speaker_First_Name="Benjamin" Speaker_last_name="Pritchard" Speaker_company_name="Virginia Tech, U.S." STATUS="active" />
+  <user SpeakID="790005" Speaker_First_Name="Ichitaro" Speaker_last_name="Yamazaki" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="790006" Speaker_First_Name="Hua" Speaker_last_name="Huang" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="790007" Speaker_First_Name="Bogdan" Speaker_last_name="Nicolae" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790008" Speaker_First_Name="Jeffery" Speaker_last_name="Miles" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="790009" Speaker_First_Name="Sri Raj" Speaker_last_name="Paul" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="790010" Speaker_First_Name="Ali" Speaker_last_name="Mohammed" Speaker_company_name="University of Basel, Switzerland" STATUS="active" />
+  <user SpeakID="790011" Speaker_First_Name="Max" Speaker_last_name="Baird" Speaker_company_name="Heriot-Watt University, United Kingdom" STATUS="active" />
+  <user SpeakID="790013" Speaker_First_Name="Florina" Speaker_last_name="Ciorba" Speaker_company_name="University of Basel, Switzerland" STATUS="active" />
+  <user SpeakID="790014" Speaker_First_Name="Ignacio" Speaker_last_name="Laguna" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790015" Speaker_First_Name="Tom" Speaker_last_name="Cornebize" Speaker_company_name="Université Grenoble Alpes, France" STATUS="active" />
+  <user SpeakID="790016" Speaker_First_Name="Gene" Speaker_last_name="Cooperman" Speaker_company_name="Northeastern University, U.S." STATUS="active" />
+  <user SpeakID="790017" Speaker_First_Name="Swann" Speaker_last_name="Perarnau" Speaker_company_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790020" Speaker_First_Name="Jack" Speaker_last_name="Betteridge" Speaker_company_name="University of Bath, United Kingdom" STATUS="active" />
+  <user SpeakID="790026" Speaker_First_Name="Wayne" Speaker_last_name="Arter" Speaker_company_name="UK Atomic Energy Authority, United Kingdom" STATUS="active" />
+  <user SpeakID="790029" Speaker_First_Name="Daniel" Speaker_last_name="Bielich" Speaker_company_name="University of Colorado, Denver, U.S." STATUS="active" />
+  <user SpeakID="790031" Speaker_First_Name="Qingguang" Speaker_last_name="Guan" Speaker_company_name="Temple University, U.S." STATUS="active" />
+  <user SpeakID="790032" Speaker_First_Name="Junxi" Speaker_last_name="Wang" Speaker_company_name="Goethe University Frankfurt, Germany" STATUS="active" />
+  <user SpeakID="790036" Speaker_First_Name="Yu-Hsuan" Speaker_last_name="Shih" Speaker_company_name="Courant Institute of Mathematical Sciences, New York University, U.S." STATUS="active" />
+  <user SpeakID="790037" Speaker_First_Name="Timothy" Speaker_last_name="Costa" Speaker_company_name="NVIDIA, U.S." STATUS="active" />
+  <user SpeakID="790038" Speaker_First_Name="Yuhsiang" Speaker_last_name="Tsai" Speaker_company_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user SpeakID="790040" Speaker_First_Name="Wenjun" Speaker_last_name="Ge" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790041" Speaker_First_Name="Samuel" Speaker_last_name="Reeve" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790042" Speaker_First_Name="Aaron" Speaker_last_name="Scheinberg" Speaker_company_name="Princeton Plasma Physics Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790044" Speaker_First_Name="Yu" Speaker_last_name="Pei" Speaker_company_name="University of Tennessee, U.S." STATUS="active" />
+  <user SpeakID="790045" Speaker_First_Name="Maryam" Speaker_last_name="Mehri Dehnavi" Speaker_company_name="University of Toronto, Canada" STATUS="active" />
+  <user SpeakID="790046" Speaker_First_Name="Tobias" Speaker_last_name="Ribizel" Speaker_company_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user SpeakID="790047" Speaker_First_Name="Micah" Speaker_last_name="Beck" Speaker_company_name="University of Tennessee, U.S." STATUS="active" />
+  <user SpeakID="790049" Speaker_First_Name="Andreas" Speaker_last_name="Gerstlauer" Speaker_company_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user SpeakID="790050" Speaker_First_Name="Ardavan" Speaker_last_name="Pedram" Speaker_company_name="Stanford University, U.S." STATUS="active" />
+  <user SpeakID="790051" Speaker_First_Name="Gilad" Speaker_last_name="Ben-Shach" Speaker_company_name="IBM Corporation, U.S." STATUS="active" />
+  <user SpeakID="790052" Speaker_First_Name="Ryan" Speaker_last_name="Hamerly" Speaker_company_name="Massachusetts Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="790053" Speaker_First_Name="Catherine" Speaker_last_name="Schumann" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790055" Speaker_First_Name="Max" Speaker_last_name="Bremer" Speaker_company_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user SpeakID="790056" Speaker_First_Name="Sriseshan" Speaker_last_name="Srikanth" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="790057" Speaker_First_Name="Stefanie" Speaker_last_name="Guenther" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790058" Speaker_First_Name="Nicholas" Speaker_last_name="Abel" Speaker_company_name="University of New Mexico, U.S." STATUS="active" />
+  <user SpeakID="790059" Speaker_First_Name="Paul" Speaker_last_name="Springer" Speaker_company_name="NVIDIA, U.S." STATUS="active" />
+  <user SpeakID="790060" Speaker_First_Name="Aravind" Speaker_last_name="Sukumaran-Rajam" Speaker_company_name="Washington State University, U.S." STATUS="active" />
+  <user SpeakID="790061" Speaker_First_Name="Shaden" Speaker_last_name="Smith" Speaker_company_name="Intel, AI, U.S." STATUS="active" />
+  <user SpeakID="790063" Speaker_First_Name="Dmitry" Speaker_last_name="Pekurovsky" Speaker_company_name="University of California, San Diego, U.S." STATUS="active" />
+  <user SpeakID="790064" Speaker_First_Name="Fredrik" Speaker_last_name="Kjolstad" Speaker_company_name="Stanford University, U.S." STATUS="active" />
+  <user SpeakID="790065" Speaker_First_Name="Brian" Speaker_last_name="Zinser" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="790068" Speaker_First_Name="Samah" Speaker_last_name="Karim" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="790069" Speaker_First_Name="Florent" Speaker_last_name="Lopez" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="790070" Speaker_First_Name="Piyush" Speaker_last_name="Sao" Speaker_company_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790084" Speaker_First_Name="Saba" Speaker_last_name="Sehrish" Speaker_company_name="Fermi National Accelerator Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790085" Speaker_First_Name="Arihiro" Speaker_last_name="Yoshida" Speaker_company_name="NEC Corporation, Japan" STATUS="active" />
+  <user SpeakID="790089" Speaker_First_Name="Cindy" Speaker_last_name="Orozco Bohorquez" Speaker_company_name="Stanford University, U.S." STATUS="active" />
+  <user SpeakID="790090" Speaker_First_Name="Sebastien" Speaker_last_name="Cayrols" Speaker_company_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user SpeakID="790094" Speaker_First_Name="Naoto" Speaker_last_name="Seki" Speaker_company_name="Kogakuin University, Japan" STATUS="active" />
+  <user SpeakID="790097" Speaker_First_Name="William" Speaker_last_name="Weens" Speaker_company_name="CEA, France" STATUS="active" />
+  <user SpeakID="790102" Speaker_First_Name="Ron" Speaker_last_name="Gonzales" Speaker_company_name="Idaho State University, U.S." STATUS="active" />
+  <user SpeakID="790103" Speaker_First_Name="Manan" Speaker_last_name="Shah" Speaker_company_name="Indian Institute of Science, Bangalore, India " STATUS="active" />
+  <user SpeakID="790105" Speaker_First_Name="Arturo" Speaker_last_name="Vargas" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790109" Speaker_First_Name="Linjian" Speaker_last_name="Ma" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="790129" Speaker_First_Name="Matthias" Speaker_last_name="Frey" Speaker_company_name="Paul Scherrer Institut, Switzerland" STATUS="active" />
+  <user SpeakID="790130" Speaker_First_Name="Nathan" Speaker_last_name="Vaughn" Speaker_company_name="University of Michigan, U.S." STATUS="active" />
+  <user SpeakID="790134" Speaker_First_Name="Joseph" Speaker_last_name="Hamman" Speaker_company_name="NCAR Earth System Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790137" Speaker_First_Name="Luis" Speaker_last_name="Samaniego" Speaker_company_name="Helmholtz Centre for Environmental Research - UFZ, Germany" STATUS="active" />
+  <user SpeakID="790138" Speaker_First_Name="Hansol David" Speaker_last_name="Suh" Speaker_company_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="790149" Speaker_First_Name="Jesús" Speaker_last_name="Cámara" Speaker_company_name="University of Murcia, Spain" STATUS="active" />
+  <user SpeakID="790151" Speaker_First_Name="Victor" Speaker_last_name="Paludetto Magri" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790168" Speaker_First_Name="Lawrence" Speaker_last_name="Musson" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="790169" Speaker_First_Name="Christina" Speaker_last_name="Pacher" Speaker_company_name="University of Vienna, Austria" STATUS="active" />
+  <user SpeakID="790171" Speaker_First_Name="Yuchen" Speaker_last_name="Pang" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="790176" Speaker_First_Name="Navjot" Speaker_last_name="Singh" Speaker_company_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user SpeakID="790177" Speaker_First_Name="Robert" Speaker_last_name="Bird" Speaker_company_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="790185" Speaker_First_Name="Yueqian" Speaker_last_name="Wu" Speaker_company_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user SpeakID="790189" Speaker_First_Name="Rocío" Speaker_last_name="Carratalá-Sáez" Speaker_company_name="Universitat Jaume I, Spain" STATUS="active" />
+  <user SpeakID="790198" Speaker_First_Name="Xue" Speaker_last_name="Li" Speaker_company_name="University of Notre Dame, U.S." STATUS="active" />
+  <user SpeakID="790202" Speaker_First_Name="Seher" Speaker_last_name="Acer" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="790204" Speaker_First_Name="Mohammad" Speaker_last_name="Islam" Speaker_company_name="Massachusetts Institute of Technology, U.S." STATUS="active" />
+  <user SpeakID="790233" Speaker_First_Name="Piet" Speaker_last_name="Jarmatz" Speaker_company_name="Helmut Schmidt University, Germany" STATUS="active" />
+  <user SpeakID="790252" Speaker_First_Name="Carola" Speaker_last_name="Kruse" STATUS="active" />
+  <user SpeakID="790256" Speaker_First_Name="Sergey" Speaker_last_name="Khilkov" Speaker_company_name="Keldysh Institute for Applied Mathematics, RAS, Russia" STATUS="active" />
+  <user SpeakID="790288" Speaker_First_Name="Rhodri" Speaker_last_name="Nelson" Speaker_company_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user SpeakID="790294" Speaker_First_Name="Tariq  " Speaker_last_name="Alturkestani " Speaker_company_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user SpeakID="790297" Speaker_First_Name="Faisal Shah " Speaker_last_name="Khan" Speaker_company_name="Khalifa University of Science, Technology and Research, United Arab Emirates" STATUS="active" />
+  <user SpeakID="790299" Speaker_First_Name="Steven" Speaker_last_name="Bleiler" Speaker_company_name="Portland State University, U.S." STATUS="active" />
+  <user SpeakID="790300" Speaker_First_Name="Berihu " Speaker_last_name="Teklu" Speaker_company_name="Khalifa University of Science, Technology and Research, United Arab Emirates" STATUS="active" />
+  <user SpeakID="790330" Speaker_First_Name="Mario" Speaker_last_name="Szegedy" Speaker_company_name="Alibaba Group, U.S." STATUS="active" />
+  <user SpeakID="790337" Speaker_First_Name="Mauricio" Speaker_last_name="Araya-Polo" Speaker_company_name="Total E&amp;P, U.S." STATUS="active" />
+  <user SpeakID="791055" Speaker_First_Name="Rob" Speaker_last_name="Schreiber" Speaker_company_name="Cerebras, U.S." STATUS="active" />
+  <user SpeakID="791258" Speaker_First_Name="Bert" Speaker_last_name="Mortier" Speaker_company_name="KU Leuven, Belgium" STATUS="active" />
+  <user SpeakID="791690" Speaker_First_Name="J. Darby" Speaker_last_name="Smith" Speaker_company_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user SpeakID="791811" Speaker_First_Name="Nathan" Speaker_last_name="Wiebe" Speaker_company_name="Microsoft Research, U.S." STATUS="active" />
+  <user SpeakID="791858" Speaker_First_Name="Peter" Speaker_last_name="Noble" Speaker_company_name="Durham University, United Kingdom" STATUS="active" />
+  <user SpeakID="791879" Speaker_First_Name="Micah" Speaker_last_name="Halter" Speaker_company_name="Georgia Tech Research Institute, U.S." STATUS="active" />
+  <user SpeakID="791895" Speaker_First_Name="Chaoyu" Speaker_last_name="Zhang" Speaker_company_name="Arkansas State University, U.S." STATUS="active" />
+  <user SpeakID="791896" Speaker_First_Name="Yongzhe" Speaker_last_name="Zhang" Speaker_company_name="SOKENDAI, Japan" STATUS="active" />
+  <user SpeakID="791898" Speaker_First_Name="Eduardo" Speaker_last_name="Miqueles" Speaker_company_name="LNLS/CNPEM, Brazil" STATUS="active" />
+  <user SpeakID="791915" Speaker_First_Name="Kristofer" Speaker_last_name="Zieb" Speaker_company_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user SpeakID="791933" Speaker_First_Name="Charles" Speaker_last_name="Murray" Speaker_company_name="Durham University, United Kingdom" STATUS="active" />
+  <user SpeakID="792342" Speaker_First_Name="Koki" Speaker_last_name="Sagiyama" Speaker_company_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user SpeakID="792405" Speaker_First_Name="Yizhou" Speaker_last_name="Qian" Speaker_company_name="Stanford University, U.S." STATUS="active" />
+  <user SpeakID="792440" Speaker_First_Name="Robert" Speaker_last_name="Ernstbrunner" Speaker_company_name="University of Vienna, Austria" STATUS="active" />
+  <user SpeakID="792497" Speaker_First_Name="Mahesh" Speaker_last_name="Ravishankar" STATUS="active" />
+  <user SpeakID="792583" Speaker_First_Name="Tianshi" Speaker_last_name="Xu" Speaker_company_name="University of Minnesota, Twin Cities, U.S." STATUS="active" />
+  <user SpeakID="792594" Speaker_First_Name="Thibault" Speaker_last_name="Cimic" Speaker_company_name="Inria Paris, France" STATUS="active" />
+  <user SpeakID="792595" Speaker_First_Name="Khaled" Speaker_last_name="Helal" Speaker_company_name="University of Victoria, Canada" STATUS="active" />
+  <user SpeakID="793275" Speaker_First_Name="Raouf" Speaker_last_name="Dridi" Speaker_company_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user SpeakID="793413" Speaker_First_Name="Holger" Speaker_last_name="Schulz" Speaker_company_name="University of Cincinnati, U.S." STATUS="active" />
+  <user SpeakID="793672" Speaker_First_Name="Hedayat" Speaker_last_name="Alghassi" Speaker_company_name="Carnegie Mellon University, U.S." STATUS="active" />
+</users>
