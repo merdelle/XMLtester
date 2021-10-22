@@ -1,0 +1,416 @@
+﻿<users>
+  <user external_id="8363" first_name="David" last_name="Keyes" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="32856" first_name="Steve" last_name="Plimpton" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="35418" first_name="Weichung" last_name="Wang" organization_name="National Taiwan University, Taiwan" STATUS="active" />
+  <user external_id="47064" first_name="Raymond" last_name="Spiteri" organization_name="University of Saskatchewan, Canada" STATUS="active" />
+  <user external_id="62039" first_name="Karen" last_name="Devine" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="63958" first_name="Hidehiko" last_name="Hasegawa" organization_name="University of Tsukuba, Japan" STATUS="active" />
+  <user external_id="65840" first_name="Xiaoye " last_name="Li" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="76854" first_name="Wilfried" last_name="Gansterer" organization_name="University of Vienna, Austria" STATUS="active" />
+  <user external_id="83250" first_name="Daisuke" last_name="Takahashi" organization_name="University of Tsukuba, Japan" STATUS="active" />
+  <user external_id="88922" first_name="Brian" last_name="Van Straalen" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="89317" first_name="Keita" last_name="Teranishi" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="700448" first_name="Masha" last_name="Sosonkina" organization_name="Old Dominion University and Ames Laboratory/DOE, U.S." STATUS="active" />
+  <user external_id="700481" first_name="Zhaojun" last_name="Bai" organization_name="University of California, Davis, U.S." STATUS="active" />
+  <user external_id="701703" first_name="Tamara" last_name="Kolda" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="701749" first_name="Chao" last_name="Yang" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="703352" first_name="David" last_name="Day" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="703852" first_name="David " last_name="Moulton" organization_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user external_id="704203" first_name="Todd" last_name="Munson" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="704372" first_name="Connie" last_name="Young" organization_name="SIAM, U.S." STATUS="active" />
+  <user external_id="706361" first_name="Michael" last_name="Heroux" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="706689" first_name="Jason" last_name="Riedy" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="707106" first_name="Edmond" last_name="Chow" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="707111" first_name="Miro" last_name="Rozloznik" organization_name="Academy of Sciences of the Czech Republic, Prague, Czech Republic" STATUS="active" />
+  <user external_id="708009" first_name="Eric" last_name="Phipps" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="708034" first_name="Robert" last_name="Falgout" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="709697" first_name="John" last_name="Bowman" organization_name="University of Alberta, Canada" STATUS="active" />
+  <user external_id="710829" first_name="Stephen" last_name="Thomas" organization_name="National Renewable Energy Laboratory, U.S." STATUS="active" />
+  <user external_id="712582" first_name="Robert" last_name="van de Geijn" organization_name="The University of Texas at Austin, U.S." STATUS="active" />
+  <user external_id="712668" first_name="Christian" last_name="Engelmann" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="712687" first_name="Jonathan" last_name="Hu" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="712761" first_name="Andrew" last_name="Canning" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="712771" first_name="Jean-Luc" last_name="Fattebert" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="713700" first_name="Ann" last_name="Almgren" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="714749" first_name="Donna" last_name="Calhoun" organization_name="Boise State University, U.S." STATUS="active" />
+  <user external_id="715772" first_name="Kengo" last_name="Nakajima" organization_name="University of Tokyo, Japan" STATUS="active" />
+  <user external_id="715778" first_name="Mikito" last_name="Furuichi" organization_name="JAMSTEC, Japan" STATUS="active" />
+  <user external_id="716029" first_name="Siva" last_name="Rajamanickam" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="716126" first_name="Sameer" last_name="Shende" organization_name="University of Oregon, U.S." STATUS="active" />
+  <user external_id="718023" first_name="Fabrice" last_name="Dupros" organization_name="ARM, France" STATUS="active" />
+  <user external_id="718654" first_name="Frederic" last_name="Nataf" STATUS="active" />
+  <user external_id="719353" first_name="Heidi" last_name="Thornquist" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="719692" first_name="Tetsuya" last_name="Sakurai" organization_name="University of Tsukuba, Japan" STATUS="active" />
+  <user external_id="719808" first_name="James" last_name="Bordner" organization_name="University of California, San Diego, U.S." STATUS="active" />
+  <user external_id="719838" first_name="Matthew" last_name="Knepley" organization_name="State University of New York at Buffalo, U.S." STATUS="active" />
+  <user external_id="720131" first_name="Axel" last_name="Klawonn" organization_name="Universitaet zu Koeln, Germany" STATUS="active" />
+  <user external_id="720359" first_name="Matthias" last_name="Bolten" organization_name="University of Wuppertal, Germany" STATUS="active" />
+  <user external_id="721075" first_name="Douglas" last_name="Kothe" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="723261" first_name="Christopher" last_name="Siefert" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="723667" first_name="Carsten" last_name="Burstedde" organization_name="Universitaet Bonn, Germany" STATUS="active" />
+  <user external_id="723670" first_name="Denis " last_name="Ridzal" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="724312" first_name="Luke" last_name="Olson" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="726040" first_name="Franz" last_name="Franchetti" organization_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user external_id="726271" first_name="Ralf-Peter" last_name="Mundani" organization_name="FHGR, Switzerland" STATUS="active" />
+  <user external_id="726311" first_name="Costas" last_name="Bekas" organization_name="IBM Research - Zurich, Switzerland" STATUS="active" />
+  <user external_id="726604" first_name="Ilya" last_name="Safro" organization_name="Clemson University, U.S." STATUS="active" />
+  <user external_id="727177" first_name="Steve" last_name="Plimpton" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="728716" first_name="Jose Manuel" last_name="Gonzalez-Vida" organization_name="University of Malaga, Spain" STATUS="active" />
+  <user external_id="729537" first_name="Stanislav" last_name="Sedukhin" organization_name="University of Aizu, Japan" STATUS="active" />
+  <user external_id="729722" first_name="Gillian" last_name="Queisser" organization_name="Temple University, U.S." STATUS="active" />
+  <user external_id="730729" first_name="Michael" last_name="Bader" organization_name="Technische Universität München, Germany" STATUS="active" />
+  <user external_id="730991" first_name="Jackson" last_name="Mayo" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="731023" first_name="Richard" last_name="Vuduc" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="731061" first_name="Lisandro" last_name="Dalcin" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="731156" first_name="Cameron " last_name="Smith" organization_name="Rensselaer Polytechnic Institute, U.S." STATUS="active" />
+  <user external_id="731287" first_name="George" last_name="Biros" organization_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user external_id="731334" first_name="Barry" last_name="White" organization_name="US Army Engineer Research and Development Center, U.S." STATUS="active" />
+  <user external_id="732280" first_name="David" last_name="Ham" organization_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user external_id="732378" first_name="Jianlin" last_name="Xia" organization_name="Purdue University, U.S." STATUS="active" />
+  <user external_id="732925" first_name="Richard" last_name="Mills" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="733175" first_name="Christophe" last_name="Calvin" organization_name="CEA Saclay, France" STATUS="active" />
+  <user external_id="734253" first_name="Judith" last_name="Hill" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="735115" first_name="Takayuki" last_name="Aoki" organization_name="Tokyo Institute of Technology, Japan" STATUS="active" />
+  <user external_id="735132" first_name="Samuel" last_name="Williams" STATUS="active" />
+  <user external_id="735266" first_name="Albert-Jan" last_name="Yzelman" organization_name="Huawei Technologies, France" STATUS="active" />
+  <user external_id="735268" first_name="Eric" last_name="Cyr" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="735416" first_name="Rob" last_name="Bisseling" organization_name="Utrecht University, The Netherlands" STATUS="active" />
+  <user external_id="735429" first_name="Mark" last_name="Adams" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="735477" first_name="Mark" last_name="Hoemmen" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="735518" first_name="Hatem" last_name="Ltaief" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="735519" first_name="Grey" last_name="Ballard" organization_name="Wake Forest University, U.S." STATUS="active" />
+  <user external_id="735541" first_name="Henri" last_name="Casanova" organization_name="University of Hawaii, U.S." STATUS="active" />
+  <user external_id="735569" first_name="Michael" last_name="Lang" organization_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user external_id="736504" first_name="Giacomo" last_name="Nannicini" organization_name="IBM T.J. Watson Research Center, U.S." STATUS="active" />
+  <user external_id="736537" first_name="Travis" last_name="Humble" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="739385" first_name="Rolf" last_name="Krause" organization_name="Università della Svizzera italiana, Switzerland " STATUS="active" />
+  <user external_id="739488" first_name="Victoria" last_name="Stodden" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="739657" first_name="Piotr" last_name="Luszczek" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="740134" first_name="Dan" last_name="Jiao" organization_name="Purdue University, U.S." STATUS="active" />
+  <user external_id="740407" first_name="Matthew" last_name="Bettencourt" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="740566" first_name="Zbigniew" last_name="Piotrowski" organization_name="Institute of Meteorology and Water Management, Poland" STATUS="active" />
+  <user external_id="741940" first_name="Laurent" last_name="White" organization_name="ExxonMobil Research and Engineering" STATUS="active" />
+  <user external_id="744667" first_name="Noel" last_name="Chalmers" organization_name="AMD Research, U.S." STATUS="active" />
+  <user external_id="745084" first_name="Zhang" last_name="Yang" organization_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user external_id="747124" first_name="Robert" last_name="Speck" organization_name="Jülich Supercomputing Centre, Germany" STATUS="active" />
+  <user external_id="747161" first_name="Mathieu" last_name="Faverge" organization_name="Bordeaux INP, Inria, LaBRI, France" STATUS="active" />
+  <user external_id="747195" first_name="Hyesoon" last_name="Kim" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="747204" first_name="Eric" last_name="Nielsen" organization_name="NASA Langley Research Center, U.S." STATUS="active" />
+  <user external_id="747207" first_name="Kenneth" last_name="Jansen" organization_name="University of Colorado Boulder, U.S." STATUS="active" />
+  <user external_id="747239" first_name="Sunita" last_name="Chandrasekaran" organization_name="University of Delaware, U.S." STATUS="active" />
+  <user external_id="747244" first_name="George" last_name="Bosilca" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="747261" first_name="Samar" last_name="Aseeri" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="747345" first_name="Alan" last_name="Humphrey" organization_name="University of Utah, U.S." STATUS="active" />
+  <user external_id="747369" first_name="Jérôme" last_name="Frisch" organization_name="RWTH Aachen University, Germany" STATUS="active" />
+  <user external_id="747375" first_name="Wissam" last_name="Sid-Lakhdar" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="747384" first_name="Hong" last_name="Guo" organization_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user external_id="748212" first_name="Daniel" last_name="Ruprecht" organization_name="Hamburg University of Technology, Germany" STATUS="active" />
+  <user external_id="748725" first_name="Martyn" last_name="Clark" organization_name="University of Saskatchewan, Canada" STATUS="active" />
+  <user external_id="750552" first_name="Andreas" last_name="Vogel" organization_name="Ruhr-University Bochum, Germany&#x9;" STATUS="active" />
+  <user external_id="750668" first_name="Salman" last_name="Habib" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="751607" first_name="Pat " last_name="Quillen " organization_name="MathWorks, U.S." STATUS="active" />
+  <user external_id="751672" first_name="Xiaoying" last_name="Dai" organization_name="Chinese Academy of Sciences, China" STATUS="active" />
+  <user external_id="751715" first_name="H. Metin" last_name="Aktulga" organization_name="Michigan State University, U.S." STATUS="active" />
+  <user external_id="751754" first_name="Hari" last_name="Sundar" organization_name="University of Utah, U.S." STATUS="active" />
+  <user external_id="752008" first_name="Pieter" last_name="Maris" organization_name="Iowa State University, U.S." STATUS="active" />
+  <user external_id="752016" first_name="Karl" last_name="Rupp" organization_name="Technische Universität Wien, Austria" STATUS="active" />
+  <user external_id="752049" first_name="Ian" last_name="Karlin" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="752089" first_name="Takeshi" last_name="Fukaya" organization_name="Hokkaido University, Japan" STATUS="active" />
+  <user external_id="752091" first_name="Mark" last_name="Gates" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="752105" first_name="Thomas" last_name="Herault" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="752486" first_name="Samuel" last_name="Thibault" organization_name="LaBRI, France" STATUS="active" />
+  <user external_id="752522" first_name="Johann" last_name="Rudi" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="752526" first_name="Tobin" last_name="Isaac" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="753661" first_name="Daichi" last_name="Mukunoki" organization_name="RIKEN, Japan" STATUS="active" />
+  <user external_id="754574" first_name="Nur " last_name="Fadel" organization_name="Swiss National Supercomputing Center, Switzerland" STATUS="active" />
+  <user external_id="755456" first_name="Daniel" last_name="Shapero" organization_name="University of Washington, U.S." STATUS="active" />
+  <user external_id="755869" first_name="Andrey" last_name="Prokopenko" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="758141" first_name="Clement" last_name="Weisbecker" STATUS="active" />
+  <user external_id="758224" first_name="Michael" last_name="Minion" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="758350" first_name="Huang" last_name="Tsung-Ming" organization_name="National Taiwan Normal University, Taiwan" STATUS="active" />
+  <user external_id="758357" first_name="Muthu" last_name="Baskaran" organization_name="Reservoir Labs, U.S." STATUS="active" />
+  <user external_id="758374" first_name="Luigi" last_name="Genovese" organization_name="CEA, France" STATUS="active" />
+  <user external_id="758447" first_name="Sriram" last_name="Krishnamoorthy" organization_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user external_id="758533" first_name="Jeremiah" last_name="Wilke" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="759023" first_name="Randall" last_name="LeVeque" organization_name="University of Washington, U.S." STATUS="active" />
+  <user external_id="759916" first_name="Alp" last_name="Dener" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="760022" first_name="Pieter" last_name="Ghysels" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="760044" first_name="Jee" last_name="Choi" organization_name="University of Oregon, U.S." STATUS="active" />
+  <user external_id="760197" first_name="Sarah" last_name="Knepper" organization_name="Intel Corporation, U.S." STATUS="active" />
+  <user external_id="760440" first_name="Roel" last_name="Van Beeumen" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="760910" first_name="Jordan" last_name="Musser" organization_name="National Energy Technology Laboratory, U.S." STATUS="active" />
+  <user external_id="760911" first_name="Yuri" last_name="Alexeev" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="762655" first_name="Tobias" last_name="Weinzierl" organization_name="Durham University, United Kingdom" STATUS="active" />
+  <user external_id="762850" first_name="Stuart" last_name="Slattery" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="762851" first_name="Massimiliano" last_name="Lupo Pasini" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="762852" first_name="Andrew" last_name="Myers" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="762885" first_name="Volker" last_name="Blum" organization_name="Duke University, U.S." STATUS="active" />
+  <user external_id="762908" first_name="Anshu" last_name="Dubey" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="762930" first_name="Yaohung" last_name="Tsai" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="762980" first_name="Delyan" last_name="Kalchev" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="763345" first_name="Gerrett" last_name="Diamond" organization_name="Rensselaer Polytechnic Institute, U.S." STATUS="active" />
+  <user external_id="763480" first_name="Li" last_name="Liao" organization_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user external_id="763637" first_name="Takashi" last_name="Shimokawabe" organization_name="University of Tokyo, Japan" STATUS="active" />
+  <user external_id="763738" first_name="James" last_name="Chelikowsky" organization_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user external_id="763792" first_name="Oliver" last_name="Rheinbach" organization_name="Technische Universität Bergakademie Freiberg, Germany" STATUS="active" />
+  <user external_id="763821" first_name="Samuel" last_name="Knight" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="763986" first_name="Hartwig" last_name="Anzt" organization_name="Karlsruhe Institute of Technology, Germany and University of Tennessee, U.S." STATUS="active" />
+  <user external_id="767223" first_name="Edgar" last_name="Solomonik" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="767240" first_name="Massimiliano" last_name="Fasi" organization_name="University of Manchester, United Kingdom" STATUS="active" />
+  <user external_id="767468" first_name="Stefan" last_name="Henneking" organization_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user external_id="767488" first_name="Jonas" last_name="Thies" organization_name="German Aerospace Center (DLR), Germany" STATUS="active" />
+  <user external_id="767496" first_name="Hannah" last_name="Rittich" organization_name="Jülich Supercomputing Centre, Germany" STATUS="active" />
+  <user external_id="768149" first_name="Jiajia" last_name="Li" organization_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user external_id="768164" first_name="Xiaohu" last_name="Guo" organization_name="Science and Technology Facilities Council, United Kingdom" STATUS="active" />
+  <user external_id="768190" first_name="Stefano" last_name="Zampini" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="768198" first_name="Wajih Halim" last_name="Boukaram" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="768211" first_name="Camille" last_name="Coti" organization_name="Université Paris 13, France" STATUS="active" />
+  <user external_id="768215" first_name="Johannes" last_name="Holke" organization_name="German Aerospace Center (DLR), Germany" STATUS="active" />
+  <user external_id="768277" first_name="Tapasya" last_name="Patki" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="769246" first_name="Casey" last_name="Battaglino" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="769373" first_name="Christoph" last_name="Ertl" organization_name="Technische Universitaet Muenchen, Germany" STATUS="active" />
+  <user external_id="769391" first_name="Amanda" last_name="Bienz" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="769421" first_name="Olivier" last_name="Aumage" organization_name="Inria, France" STATUS="active" />
+  <user external_id="769428" first_name="David" last_name="Goudin" organization_name="CEA/DAM, France" STATUS="active" />
+  <user external_id="769510" first_name="Patrick" last_name="Zulian" organization_name="Università della Svizzera italiana, Switzerland " STATUS="active" />
+  <user external_id="769524" first_name="George " last_name="Turkiyyah" organization_name="American University of Beirut, Lebanon" STATUS="active" />
+  <user external_id="770172" first_name="Marc" last_name="Baboulin" organization_name="University of Paris-Sud, France" STATUS="active" />
+  <user external_id="770972" first_name="Ruipeng" last_name="Li" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="771328" first_name="Lukas" last_name="Einkemmer" organization_name="University of Innsbruck, Austria" STATUS="active" />
+  <user external_id="771535" first_name="Nicole" last_name="Beisiegel" organization_name="University College Dublin, Ireland" STATUS="active" />
+  <user external_id="771969" first_name="Mawussi" last_name="Zounon" organization_name="The University of Manchester, UK" STATUS="active" />
+  <user external_id="772169" first_name="Sriramkrishnan" last_name="Muralikrishnan" organization_name="Paul Scherrer Institut, Switzerland" STATUS="active" />
+  <user external_id="773150" first_name="Ahmad" last_name="Abdelfattah" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="773756" first_name="Shelby" last_name="Lockhart" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="773860" first_name="David J." last_name="Gardner" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="774447" first_name="Thomas" last_name="Gibson" organization_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user external_id="774541" first_name="Christopher" last_name="Eldred" organization_name="CNRS and Grenoble University, France" STATUS="active" />
+  <user external_id="774576" first_name="Martin" last_name="Lanser" organization_name="Universitaet zu Koeln, Germany" STATUS="active" />
+  <user external_id="774696" first_name="Ewa" last_name="Deelman" organization_name="University of Southern California, U.S." STATUS="active" />
+  <user external_id="774768" first_name="Yousef" last_name="Saad" organization_name="University of Minnesota, U.S." STATUS="active" />
+  <user external_id="774939" first_name="Leonhard" last_name="Rannabauer" organization_name="Technische Universität München, Germany" STATUS="active" />
+  <user external_id="775056" first_name="Juliane" last_name="Mueller" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="775730" first_name="Jan" last_name="Eichstaedt" organization_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user external_id="775732" first_name="Francois-Henry" last_name="Rouet" organization_name="Livermore Software Technology Corporation, U.S." STATUS="active" />
+  <user external_id="775768" first_name="Nathaniel" last_name="Trask" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="775808" first_name="Jennifer" last_name="Loe" organization_name="Baylor University, U.S." STATUS="active" />
+  <user external_id="776638" first_name="Hong" last_name="Zhang" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="776676" first_name="Catherine" last_name="McGeoch" organization_name="D-Wave Systems, Inc., U.S." STATUS="active" />
+  <user external_id="778867" first_name="Johannes" last_name="Langguth" organization_name="Simula Research Laboratory, Norway" STATUS="active" />
+  <user external_id="779284" first_name="Evangelos" last_name="Papalexakis" organization_name="University of California, Riverside, U.S." STATUS="active" />
+  <user external_id="779288" first_name="Kathryn" last_name="Rouse" organization_name="Inmar, USA" STATUS="active" />
+  <user external_id="779799" first_name="Christian" last_name="Negre" organization_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user external_id="780186" first_name="Ronald" last_name="Kriemann" organization_name="Max Planck Institute for Mathematics in the Sciences, Germany" STATUS="active" />
+  <user external_id="780194" first_name="Yang" last_name="Liu" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="780219" first_name="Yiyu" last_name="Tan" organization_name="RIKEN, Japan" STATUS="active" />
+  <user external_id="780221" first_name="Miwako" last_name="Tsuji" organization_name="RIKEN Advanced Institute for Computational Science, Japan" STATUS="active" />
+  <user external_id="780242" first_name="Samuel" last_name="Araki" organization_name="ERC Inc. and Air Force Research Laboratory , U.S." STATUS="active" />
+  <user external_id="780246" first_name="Edward" last_name="Hutter" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="780268" first_name="Takeshi" last_name="Terao" organization_name="Shibaura Institute of Technology, Japan" STATUS="active" />
+  <user external_id="780269" first_name="Hartmut" last_name="Kaiser" organization_name="Louisiana State University, U.S." STATUS="active" />
+  <user external_id="780272" first_name="Tze Meng" last_name="Low" organization_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user external_id="780304" first_name="Oded" last_name="Green" organization_name="NVIDIA and Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="780331" first_name="Noah" last_name="Evans" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="780335" first_name="Arthur" last_name="Mccabe" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="780336" first_name="Balazs" last_name="Gerofi" organization_name="RIKEN, Japan" STATUS="active" />
+  <user external_id="780365" first_name="Julien" last_name="Jaeger" organization_name="CEA, France" STATUS="active" />
+  <user external_id="780382" first_name="Philipp" last_name="Samfass" organization_name="Technical University of Munich, Germany" STATUS="active" />
+  <user external_id="780431" first_name="Luc" last_name="Berger-Vergiat" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="780457" first_name="Jan-Willem" last_name="Buurlage" organization_name="Centrum Wiskunde &amp; Informatica, The Netherlands" STATUS="active" />
+  <user external_id="780522" first_name="Frédéric" last_name="Suter" organization_name="CNRS, France" STATUS="active" />
+  <user external_id="780577" first_name="Daniel" last_name="Ibanez" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="780655" first_name="Galen" last_name="Shipman" organization_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user external_id="780682" first_name="Jeffrey" last_name="Young" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="781098" first_name="Dmitry" last_name="Logashenko" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="781099" first_name="Gabriel" last_name="Wittum" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="781131" first_name="Ruiyang" last_name="Dai" organization_name="Université Catholique de Louvain, Belgium" STATUS="active" />
+  <user external_id="781225" first_name="Toheeb" last_name="Biala" organization_name="Middle Tennessee State University, U.S." STATUS="active" />
+  <user external_id="781678" first_name="Christopher" last_name="Musco" organization_name="New York University, U.S." STATUS="active" />
+  <user external_id="781837" first_name="Yun Teck" last_name="Lee" organization_name="Idaho State University, U.S." STATUS="active" />
+  <user external_id="781843" first_name="Pietro" last_name="Incardona" organization_name="TU Dresden, Germany" STATUS="active" />
+  <user external_id="782315" first_name="Axel" last_name="Huebl" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="782875" first_name="Leighton" last_name="Wilson" organization_name="University of Michigan, U.S." STATUS="active" />
+  <user external_id="783035" first_name="K. Daniel" last_name="Brauss" organization_name="Francis Marion University, U.S." STATUS="active" />
+  <user external_id="783200" first_name="Brian" last_name="Kelley" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="783201" first_name="Yohann" last_name="Dudouit" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="783444" first_name="Neena" last_name="Imam" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="783669" first_name="Leopold" last_name="Cambier" organization_name="Stanford University, U.S." STATUS="active" />
+  <user external_id="783695" first_name="Michal" last_name="Habera" organization_name="University of Luxembourg, Luxembourg" STATUS="active" />
+  <user external_id="784079" first_name="Hexuan" last_name="Liu" organization_name="University of Washington, U.S." STATUS="active" />
+  <user external_id="784625" first_name="Steven" last_name="Goldenberg" organization_name="College of William &amp; Mary, U.S." STATUS="active" />
+  <user external_id="784808" first_name="Maxence" last_name="Thevenet" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="784823" first_name="Theo" last_name="Mary" organization_name="The University of Manchester, UK" STATUS="active" />
+  <user external_id="784882" first_name="Cody" last_name="Balos" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="784886" first_name="Andrew" last_name="Clarke" organization_name="University of Leeds, United Kingdom" STATUS="active" />
+  <user external_id="784892" first_name="Michela" last_name="Taufer" organization_name="University of Tennessee, U.S." STATUS="active" />
+  <user external_id="784894" first_name="Fabio" last_name="Gratl" organization_name="Technische Universität München, Germany" STATUS="active" />
+  <user external_id="784933" first_name="Von" last_name="Welch" organization_name="Indiana University, U.S." STATUS="active" />
+  <user external_id="784953" first_name="Rujeko" last_name="Chinomona" organization_name="Southern Methodist University, U.S." STATUS="active" />
+  <user external_id="784984" first_name="Sebastian" last_name="Götschel" organization_name="Zuse Institute Berlin, Germany" STATUS="active" />
+  <user external_id="785023" first_name="Katarzyna" last_name="Swirydowicz" organization_name="National Renewable Energy Laboratory, U.S." STATUS="active" />
+  <user external_id="785157" first_name="Anuva" last_name="Kulkarni" organization_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user external_id="785177" first_name="Terry" last_name="Cojean" organization_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user external_id="785181" first_name="Thomas" last_name="Anderson" organization_name="California Institute of Technology, U.S." STATUS="active" />
+  <user external_id="785198" first_name="Asim" last_name="YarKhan" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="785267" first_name="Srikara" last_name="Pranesh" organization_name="The University of Manchester, UK" STATUS="active" />
+  <user external_id="785304" first_name="Stuart" last_name="Hadfield" organization_name="NASA, U.S." STATUS="active" />
+  <user external_id="785310" first_name="Rached" last_name="Abdelkhalak" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="785392" first_name="Lawrence" last_name="Mitchell" organization_name="Durham University, United Kingdom" STATUS="active" />
+  <user external_id="785466" first_name="Rabab" last_name="Alomairy" organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="785489" first_name="Scott" last_name="Levy" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="785504" first_name="David" last_name="Williams-Young" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="785517" first_name="Matthew" last_name="Griffith" organization_name="University of Bath, United Kingdom" STATUS="active" />
+  <user external_id="785580" first_name="Alexander" last_name="Lindsay" organization_name="Idaho National Laboratory, U.S." STATUS="active" />
+  <user external_id="785697" first_name="Ponnuswamy" last_name="Sadayappan" organization_name="Ohio State University, U.S." STATUS="active" />
+  <user external_id="785744" first_name="Hannah" last_name="Morgan" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="785760" first_name="Syam" last_name="Vangara" organization_name="McGill University, Canada" STATUS="active" />
+  <user external_id="785941" first_name="Jeffrey" last_name="Cornelis" organization_name="University of Antwerp, Belgium" STATUS="active" />
+  <user external_id="785958" first_name="Azzam" last_name="Haidar" organization_name="NVIDIA, U.S." STATUS="active" />
+  <user external_id="785969" first_name="Gregory" last_name="Bolet" organization_name="Franklin &amp; Marshall College, U.S." STATUS="active" />
+  <user external_id="786024" first_name="Michal" last_name="Kopera" organization_name="Boise State University, U.S." STATUS="active" />
+  <user external_id="786064" first_name="Kevin" last_name="Gott" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="786076" first_name="Karthik" last_name="Kashinath" organization_name="Lawrence Berkeley National Laboratory, U.S." STATUS="active" />
+  <user external_id="786088" first_name="Het" last_name="Mankad" organization_name="University of Texas at Dallas, U.S." STATUS="active" />
+  <user external_id="786105" first_name="Markus" last_name="Levonyak" organization_name="University of Vienna, Austria" STATUS="active" />
+  <user external_id="786136" first_name="Essam" last_name="Algizawy" organization_name="Brightskies Inc, Egypt" STATUS="active" />
+  <user external_id="786247" first_name="Scott" last_name="Aiton" organization_name="Boise State University, U.S." STATUS="active" />
+  <user external_id="786279" first_name="Aditya" last_name="Kashi" organization_name="McGill University, Canada" STATUS="active" />
+  <user external_id="786355" first_name="William" last_name="Kramer" organization_name="National Center for Supercomputing Applications and University of Illinois, U.S." STATUS="active" />
+  <user external_id="786703" first_name="Innokentiy" last_name="Protasov" organization_name="University of Houston, U.S." STATUS="active" />
+  <user external_id="786718" first_name="Xingyuan" last_name="Chen" organization_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user external_id="788362" first_name="Ruslan" last_name="Shaydulin" organization_name="Clemson University, U.S." STATUS="active" />
+  <user external_id="788367" first_name="Fande" last_name="Kong" organization_name="Idaho National Laboratory, U.S." STATUS="active" />
+  <user external_id="788635" first_name="Laura" last_name="Monroe" organization_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user external_id="789165" first_name="Matthew" last_name="Zahr" organization_name="University of Notre Dame, U.S." STATUS="active" />
+  <user external_id="789629" first_name="Andrew" last_name="Giuliani" organization_name="Courant Institute of Mathematical Sciences, New York University, U.S." STATUS="active" />
+  <user external_id="789708" first_name="Leonard" last_name="Mushunje" organization_name="Midlands State University, Zimbabwe" STATUS="active" />
+  <user external_id="789938" first_name="Tyler" last_name="Chen" organization_name="University of Washington, U.S." STATUS="active" />
+  <user external_id="789945" first_name="Martina" last_name="Prugger" organization_name="Vanderbilt University, U.S." STATUS="active" />
+  <user external_id="789946" first_name="Francois" last_name="Belletti" organization_name="Google Research, U.S." STATUS="active" />
+  <user external_id="789947" first_name="Mantas" last_name="Mikaitis" organization_name="The University of Manchester, UK" STATUS="active" />
+  <user external_id="789948" first_name="Andrew" last_name="McRae" organization_name="University of Oxford, United Kingdom" STATUS="active" />
+  <user external_id="789957" first_name="Bo" last_name="Peng" organization_name="Pacific Northwest National Laboratory, U.S." STATUS="active" />
+  <user external_id="789959" first_name="David" last_name="Beckingsale" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="789960" first_name="Serge" last_name="Petiton" organization_name="Universite de Lille 1, France" STATUS="active" />
+  <user external_id="789961" first_name="Marc" last_name="de la Asuncion" organization_name="University of Malaga, Spain" STATUS="active" />
+  <user external_id="789962" first_name="Jean-Christophe" last_name="Weill" organization_name="CEA, DAM, DIF, France" STATUS="active" />
+  <user external_id="789966" first_name="Thomas" last_name="Grützmacher" organization_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user external_id="789984" first_name="Nick" last_name="Schenkels" organization_name="Inria, France" STATUS="active" />
+  <user external_id="789985" first_name="Muhammed" last_name="Syam" organization_name="United Arab Emirates University, United Arab Emirates" STATUS="active" />
+  <user external_id="789986" first_name="Fangfang" last_name="Xia" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="789987" first_name="Hannah" last_name="Choi" organization_name="University of Washington, U.S." STATUS="active" />
+  <user external_id="789988" first_name="Bethany" last_name="Lusch" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="789989" first_name="Phu" last_name="Nguyen" organization_name="University of California, Irvine, U.S." STATUS="active" />
+  <user external_id="789990" first_name="Edom" last_name="Moges" organization_name="University of California, Berkeley, U.S." STATUS="active" />
+  <user external_id="789995" first_name="Neil" last_name="Lindquist" organization_name="University of Tennessee, U.S." STATUS="active" />
+  <user external_id="789996" first_name="Boqian" last_name="Shen" organization_name="Rice University, U.S." STATUS="active" />
+  <user external_id="789997" first_name="Yang" last_name="Shi" organization_name="Rakuten, Japan and University of California, Irvine, U.S." STATUS="active" />
+  <user external_id="789999" first_name="Guido" last_name="Pagano" organization_name="University of Maryland, U.S." STATUS="active" />
+  <user external_id="790000" first_name="Malcolm" last_name="Roberts" organization_name="AMD, Canada" STATUS="active" />
+  <user external_id="790001" first_name="Mohan" last_name="Krishnamoorthy" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="790002" first_name="Orcun" last_name="Yildiz" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="790003" first_name="Benjamin" last_name="Pritchard" organization_name="Virginia Tech, U.S." STATUS="active" />
+  <user external_id="790005" first_name="Ichitaro" last_name="Yamazaki" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="790006" first_name="Hua" last_name="Huang" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="790007" first_name="Bogdan" last_name="Nicolae" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="790008" first_name="Jeffery" last_name="Miles" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="790009" first_name="Sri Raj" last_name="Paul" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="790010" first_name="Ali" last_name="Mohammed" organization_name="University of Basel, Switzerland" STATUS="active" />
+  <user external_id="790011" first_name="Max" last_name="Baird" organization_name="Heriot-Watt University, United Kingdom" STATUS="active" />
+  <user external_id="790013" first_name="Florina" last_name="Ciorba" organization_name="University of Basel, Switzerland" STATUS="active" />
+  <user external_id="790014" first_name="Ignacio" last_name="Laguna" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="790015" first_name="Tom" last_name="Cornebize" organization_name="Université Grenoble Alpes, France" STATUS="active" />
+  <user external_id="790016" first_name="Gene" last_name="Cooperman" organization_name="Northeastern University, U.S." STATUS="active" />
+  <user external_id="790017" first_name="Swann" last_name="Perarnau" organization_name="Argonne National Laboratory, U.S." STATUS="active" />
+  <user external_id="790020" first_name="Jack" last_name="Betteridge" organization_name="University of Bath, United Kingdom" STATUS="active" />
+  <user external_id="790026" first_name="Wayne" last_name="Arter" organization_name="UK Atomic Energy Authority, United Kingdom" STATUS="active" />
+  <user external_id="790029" first_name="Daniel" last_name="Bielich" organization_name="University of Colorado, Denver, U.S." STATUS="active" />
+  <user external_id="790031" first_name="Qingguang" last_name="Guan" organization_name="Temple University, U.S." STATUS="active" />
+  <user external_id="790032" first_name="Junxi" last_name="Wang" organization_name="Goethe University Frankfurt, Germany" STATUS="active" />
+  <user external_id="790036" first_name="Yu-Hsuan" last_name="Shih" organization_name="Courant Institute of Mathematical Sciences, New York University, U.S." STATUS="active" />
+  <user external_id="790037" first_name="Timothy" last_name="Costa" organization_name="NVIDIA, U.S." STATUS="active" />
+  <user external_id="790038" first_name="Yuhsiang" last_name="Tsai" organization_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user external_id="790040" first_name="Wenjun" last_name="Ge" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="790041" first_name="Samuel" last_name="Reeve" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="790042" first_name="Aaron" last_name="Scheinberg" organization_name="Princeton Plasma Physics Laboratory, U.S." STATUS="active" />
+  <user external_id="790044" first_name="Yu" last_name="Pei" organization_name="University of Tennessee, U.S." STATUS="active" />
+  <user external_id="790045" first_name="Maryam" last_name="Mehri Dehnavi" organization_name="University of Toronto, Canada" STATUS="active" />
+  <user external_id="790046" first_name="Tobias" last_name="Ribizel" organization_name="Karlsruhe Institute of Technology, Germany" STATUS="active" />
+  <user external_id="790047" first_name="Micah" last_name="Beck" organization_name="University of Tennessee, U.S." STATUS="active" />
+  <user external_id="790049" first_name="Andreas" last_name="Gerstlauer" organization_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user external_id="790050" first_name="Ardavan" last_name="Pedram" organization_name="Stanford University, U.S." STATUS="active" />
+  <user external_id="790051" first_name="Gilad" last_name="Ben-Shach" organization_name="IBM Corporation, U.S." STATUS="active" />
+  <user external_id="790052" first_name="Ryan" last_name="Hamerly" organization_name="Massachusetts Institute of Technology, U.S." STATUS="active" />
+  <user external_id="790053" first_name="Catherine" last_name="Schumann" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="790055" first_name="Max" last_name="Bremer" organization_name="University of Texas at Austin, U.S." STATUS="active" />
+  <user external_id="790056" first_name="Sriseshan" last_name="Srikanth" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="790057" first_name="Stefanie" last_name="Guenther" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="790058" first_name="Nicholas" last_name="Abel" organization_name="University of New Mexico, U.S." STATUS="active" />
+  <user external_id="790059" first_name="Paul" last_name="Springer" organization_name="NVIDIA, U.S." STATUS="active" />
+  <user external_id="790060" first_name="Aravind" last_name="Sukumaran-Rajam" organization_name="Washington State University, U.S." STATUS="active" />
+  <user external_id="790061" first_name="Shaden" last_name="Smith" organization_name="Intel, AI, U.S." STATUS="active" />
+  <user external_id="790063" first_name="Dmitry" last_name="Pekurovsky" organization_name="University of California, San Diego, U.S." STATUS="active" />
+  <user external_id="790064" first_name="Fredrik" last_name="Kjolstad" organization_name="Stanford University, U.S." STATUS="active" />
+  <user external_id="790065" first_name="Brian" last_name="Zinser" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="790068" first_name="Samah" last_name="Karim" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="790069" first_name="Florent" last_name="Lopez" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="790070" first_name="Piyush" last_name="Sao" organization_name="Oak Ridge National Laboratory, U.S." STATUS="active" />
+  <user external_id="790084" first_name="Saba" last_name="Sehrish" organization_name="Fermi National Accelerator Laboratory, U.S." STATUS="active" />
+  <user external_id="790085" first_name="Arihiro" last_name="Yoshida" organization_name="NEC Corporation, Japan" STATUS="active" />
+  <user external_id="790089" first_name="Cindy" last_name="Orozco Bohorquez" organization_name="Stanford University, U.S." STATUS="active" />
+  <user external_id="790090" first_name="Sebastien" last_name="Cayrols" organization_name="University of Tennessee, Knoxville, U.S." STATUS="active" />
+  <user external_id="790094" first_name="Naoto" last_name="Seki" organization_name="Kogakuin University, Japan" STATUS="active" />
+  <user external_id="790097" first_name="William" last_name="Weens" organization_name="CEA, France" STATUS="active" />
+  <user external_id="790102" first_name="Ron" last_name="Gonzales" organization_name="Idaho State University, U.S." STATUS="active" />
+  <user external_id="790103" first_name="Manan" last_name="Shah" organization_name="Indian Institute of Science, Bangalore, India " STATUS="active" />
+  <user external_id="790105" first_name="Arturo" last_name="Vargas" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="790109" first_name="Linjian" last_name="Ma" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="790129" first_name="Matthias" last_name="Frey" organization_name="Paul Scherrer Institut, Switzerland" STATUS="active" />
+  <user external_id="790130" first_name="Nathan" last_name="Vaughn" organization_name="University of Michigan, U.S." STATUS="active" />
+  <user external_id="790134" first_name="Joseph" last_name="Hamman" organization_name="NCAR Earth System Laboratory, U.S." STATUS="active" />
+  <user external_id="790137" first_name="Luis" last_name="Samaniego" organization_name="Helmholtz Centre for Environmental Research - UFZ, Germany" STATUS="active" />
+  <user external_id="790138" first_name="Hansol David" last_name="Suh" organization_name="Georgia Institute of Technology, U.S." STATUS="active" />
+  <user external_id="790149" first_name="Jesús" last_name="Cámara" organization_name="University of Murcia, Spain" STATUS="active" />
+  <user external_id="790151" first_name="Victor" last_name="Paludetto Magri" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="790168" first_name="Lawrence" last_name="Musson" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="790169" first_name="Christina" last_name="Pacher" organization_name="University of Vienna, Austria" STATUS="active" />
+  <user external_id="790171" first_name="Yuchen" last_name="Pang" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="790176" first_name="Navjot" last_name="Singh" organization_name="University of Illinois at Urbana-Champaign, U.S." STATUS="active" />
+  <user external_id="790177" first_name="Robert" last_name="Bird" organization_name="Los Alamos National Laboratory, U.S." STATUS="active" />
+  <user external_id="790185" first_name="Yueqian" last_name="Wu" organization_name="Institute of Applied Physics and Computational Mathematics, China" STATUS="active" />
+  <user external_id="790189" first_name="Rocío" last_name="Carratalá-Sáez" organization_name="Universitat Jaume I, Spain" STATUS="active" />
+  <user external_id="790198" first_name="Xue" last_name="Li" organization_name="University of Notre Dame, U.S." STATUS="active" />
+  <user external_id="790202" first_name="Seher" last_name="Acer" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="790204" first_name="Mohammad" last_name="Islam" organization_name="Massachusetts Institute of Technology, U.S." STATUS="active" />
+  <user external_id="790233" first_name="Piet" last_name="Jarmatz" organization_name="Helmut Schmidt University, Germany" STATUS="active" />
+  <user external_id="790252" first_name="Carola" last_name="Kruse" STATUS="active" />
+  <user external_id="790256" first_name="Sergey" last_name="Khilkov" organization_name="Keldysh Institute for Applied Mathematics, RAS, Russia" STATUS="active" />
+  <user external_id="790288" first_name="Rhodri" last_name="Nelson" organization_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user external_id="790294" first_name="Tariq  " last_name="Alturkestani " organization_name="King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia" STATUS="active" />
+  <user external_id="790297" first_name="Faisal Shah " last_name="Khan" organization_name="Khalifa University of Science, Technology and Research, United Arab Emirates" STATUS="active" />
+  <user external_id="790299" first_name="Steven" last_name="Bleiler" organization_name="Portland State University, U.S." STATUS="active" />
+  <user external_id="790300" first_name="Berihu " last_name="Teklu" organization_name="Khalifa University of Science, Technology and Research, United Arab Emirates" STATUS="active" />
+  <user external_id="790330" first_name="Mario" last_name="Szegedy" organization_name="Alibaba Group, U.S." STATUS="active" />
+  <user external_id="790337" first_name="Mauricio" last_name="Araya-Polo" organization_name="Total E&amp;P, U.S." STATUS="active" />
+  <user external_id="791055" first_name="Rob" last_name="Schreiber" organization_name="Cerebras, U.S." STATUS="active" />
+  <user external_id="791258" first_name="Bert" last_name="Mortier" organization_name="KU Leuven, Belgium" STATUS="active" />
+  <user external_id="791690" first_name="J. Darby" last_name="Smith" organization_name="Sandia National Laboratories, U.S." STATUS="active" />
+  <user external_id="791811" first_name="Nathan" last_name="Wiebe" organization_name="Microsoft Research, U.S." STATUS="active" />
+  <user external_id="791858" first_name="Peter" last_name="Noble" organization_name="Durham University, United Kingdom" STATUS="active" />
+  <user external_id="791879" first_name="Micah" last_name="Halter" organization_name="Georgia Tech Research Institute, U.S." STATUS="active" />
+  <user external_id="791895" first_name="Chaoyu" last_name="Zhang" organization_name="Arkansas State University, U.S." STATUS="active" />
+  <user external_id="791896" first_name="Yongzhe" last_name="Zhang" organization_name="SOKENDAI, Japan" STATUS="active" />
+  <user external_id="791898" first_name="Eduardo" last_name="Miqueles" organization_name="LNLS/CNPEM, Brazil" STATUS="active" />
+  <user external_id="791915" first_name="Kristofer" last_name="Zieb" organization_name="Lawrence Livermore National Laboratory, U.S." STATUS="active" />
+  <user external_id="791933" first_name="Charles" last_name="Murray" organization_name="Durham University, United Kingdom" STATUS="active" />
+  <user external_id="792342" first_name="Koki" last_name="Sagiyama" organization_name="Imperial College London, United Kingdom" STATUS="active" />
+  <user external_id="792405" first_name="Yizhou" last_name="Qian" organization_name="Stanford University, U.S." STATUS="active" />
+  <user external_id="792440" first_name="Robert" last_name="Ernstbrunner" organization_name="University of Vienna, Austria" STATUS="active" />
+  <user external_id="792497" first_name="Mahesh" last_name="Ravishankar" STATUS="active" />
+  <user external_id="792583" first_name="Tianshi" last_name="Xu" organization_name="University of Minnesota, Twin Cities, U.S." STATUS="active" />
+  <user external_id="792594" first_name="Thibault" last_name="Cimic" organization_name="Inria Paris, France" STATUS="active" />
+  <user external_id="792595" first_name="Khaled" last_name="Helal" organization_name="University of Victoria, Canada" STATUS="active" />
+  <user external_id="793275" first_name="Raouf" last_name="Dridi" organization_name="Carnegie Mellon University, U.S." STATUS="active" />
+  <user external_id="793413" first_name="Holger" last_name="Schulz" organization_name="University of Cincinnati, U.S." STATUS="active" />
+  <user external_id="793672" first_name="Hedayat" last_name="Alghassi" organization_name="Carnegie Mellon University, U.S." STATUS="active" />
+</users>
