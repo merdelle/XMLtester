@@ -1,1 +1,15 @@
-<users><user><first_name>Richard</first_name><last_name>Moore</last_name><external_ID>1</external_ID></user></users>
+<users>
+ <user>
+  <external_id>2lk332klsd21</external_id>
+  <primary_email>peter@pathable.com</primary_email>
+  <first_name>Peter T.</first_name>
+  <last_name>Brown</last_name>
+  <organization_name>Pathable &amp; Pounds</organization_name>
+  <title>CTO</title>
+  <credentials>PhD.</credentials>
+  <bio>CTO at Pathable, Inc.</bio>
+  <visible>false</visible>
+  <networking_interests>bagels,cream cheese</networking_interests>
+  <favorite_dog>beagle</favorite_dog>
+ </user>
+</users>
