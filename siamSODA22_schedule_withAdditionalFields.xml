@@ -32,6 +32,10 @@ We complement this positive result by showing that our bounds are essentially ti
     <EventUniqueID>73681-119700</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-09T09:00:00</start>
+    <AutoRecord>FALSE</AutoRecord>
+    <EnabledForIAV>FALSE</EnabledForIAV>
+    <MeetingIAVMode></MeetingIAVMode>
+    <PublishAutoRecordedVideo>FALSE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
