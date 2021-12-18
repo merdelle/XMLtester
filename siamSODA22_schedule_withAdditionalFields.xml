@@ -6702,6 +6702,10 @@ Together, these results imply a separation between spectral sparsification and c
     <EventUniqueID>73672-SESS</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-09T18:45:00</start>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
@@ -8626,6 +8630,10 @@ Together, these results imply a separation between spectral sparsification and c
     <EventUniqueID>73749-SESS</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-09T11:30:00</start>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Webinar</MeetingIAVMode>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
@@ -8654,6 +8662,10 @@ Together, these results imply a separation between spectral sparsification and c
     <EventUniqueID>73750-SESS</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-10T11:30:00</start>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Webinar</MeetingIAVMode>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
@@ -8682,6 +8694,10 @@ Together, these results imply a separation between spectral sparsification and c
     <EventUniqueID>73751-SESS</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-11T11:30:00</start>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Webinar</MeetingIAVMode>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
@@ -8710,6 +8726,10 @@ Together, these results imply a separation between spectral sparsification and c
     <EventUniqueID>73752-SESS</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-12T11:30:00</start>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Webinar</MeetingIAVMode>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
@@ -8990,6 +9010,10 @@ Together, these results imply a separation between spectral sparsification and c
     <EventUniqueID>73675-SESS</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-10T18:45:00</start>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
