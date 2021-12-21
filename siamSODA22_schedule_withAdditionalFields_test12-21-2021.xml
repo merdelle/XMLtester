@@ -29,5 +29,7 @@
     <EnabledForIAV>TRUE</EnabledForIAV>
     <MeetingIAVMode>meeting</MeetingIAVMode>
     <Capacity>500</Capacity>
+    <AutoRecord>FALSE</AutoRecord>
+    <PublishAutoRecordedVideo>FALSE</PublishAutoRecordedVideo>
   </meeting>
 </meetings>
