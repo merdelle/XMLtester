@@ -28,7 +28,7 @@
     <start>2022-01-12T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <MeetingIAVMode>meeting</MeetingIAVMode>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
 </meetings>
