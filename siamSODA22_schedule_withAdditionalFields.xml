@@ -6709,7 +6709,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T18:45:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7077,7 +7078,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7109,7 +7111,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7141,7 +7144,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7173,7 +7177,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7205,7 +7210,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7237,7 +7243,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7269,7 +7276,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7301,7 +7309,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7333,7 +7342,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7365,7 +7375,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7397,7 +7408,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7429,7 +7441,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7461,7 +7474,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7493,7 +7507,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7525,7 +7540,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7557,7 +7573,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7589,7 +7606,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7621,7 +7639,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7653,7 +7672,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7685,7 +7705,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7717,7 +7738,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7749,7 +7771,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7781,7 +7804,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7813,7 +7837,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7845,7 +7870,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7877,7 +7903,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7909,7 +7936,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7941,7 +7969,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -7973,7 +8002,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8005,7 +8035,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8037,7 +8068,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8069,7 +8101,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8101,7 +8134,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8133,7 +8167,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8165,7 +8200,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T09:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8197,7 +8233,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8229,7 +8266,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8261,7 +8299,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8293,7 +8332,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8325,7 +8365,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8357,7 +8398,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8389,7 +8431,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8421,7 +8464,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8453,7 +8497,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8485,7 +8530,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8517,7 +8563,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T14:00:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8549,7 +8596,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T16:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8637,7 +8685,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-09T11:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>webinar</MeetingIAVMode><Capacity>500</Capacity><Capacity>500</Capacity>
+    <MeetingIAVMode>webinar</MeetingIAVMode>
+    <Capacity>500</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8669,7 +8718,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T11:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>webinar</MeetingIAVMode><Capacity>500</Capacity>
+    <MeetingIAVMode>webinar</MeetingIAVMode>
+    <Capacity>500</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8701,7 +8751,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-11T11:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>webinar</MeetingIAVMode><Capacity>500</Capacity>
+    <MeetingIAVMode>webinar</MeetingIAVMode>
+    <Capacity>500</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -8733,7 +8784,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-12T11:30:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>webinar</MeetingIAVMode><Capacity>500</Capacity>
+    <MeetingIAVMode>webinar</MeetingIAVMode>
+    <Capacity>500</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
@@ -9017,7 +9069,8 @@ Together, these results imply a separation between spectral sparsification and c
     <start>2022-01-10T18:45:00</start>
     <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
-    <MeetingIAVMode>Meeting</MeetingIAVMode><Capacity>300</Capacity>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <Capacity>300</Capacity>
     <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
   <meeting>
