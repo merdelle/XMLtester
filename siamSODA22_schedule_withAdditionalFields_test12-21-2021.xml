@@ -1,0 +1,34 @@
+<meetings>
+  <meeting>
+    <ConfCode>SODA22</ConfCode>
+    <EventName>CP38 SODA Session 10B</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>CP38</EventNumber>
+    <EventDate>Jan 12, 2022</EventDate>
+    <EventStartTime>01/12/22  9:00:00 AM</EventStartTime>
+    <EventEndTime>01/12/22 11:05:00 AM</EventEndTime>
+    <EventFilter>SODA22|Contributed|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom>Edison ABC</EventRoom>
+    <FloorPlan></FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers></EventSpeakers>
+    <EventSpeakerUniqueID>0</EventSpeakerUniqueID>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>session</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73709</EventHandoutURL>
+    <EventDescription></EventDescription>
+    <EventParent></EventParent>
+    <EventUniqueID>73709-SESS</EventUniqueID>
+    <STATUS>active</STATUS>
+    <start>2022-01-12T09:00:00</start>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
+  </meeting>
+</meetings>
