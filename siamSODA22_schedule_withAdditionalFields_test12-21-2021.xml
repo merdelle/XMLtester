@@ -28,7 +28,7 @@
     <start>2022-01-12T09:00:00</start>
     <EnabledForIAV>TRUE</EnabledForIAV>
     <MeetingIAVMode>meeting</MeetingIAVMode>
-    <Capacity>500</Capacity>
+    <Capacity>300</Capacity>
     <AutoRecord>FALSE</AutoRecord>
     <PublishAutoRecordedVideo>FALSE</PublishAutoRecordedVideo>
   </meeting>
