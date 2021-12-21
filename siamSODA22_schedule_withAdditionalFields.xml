@@ -36,6 +36,7 @@ We complement this positive result by showing that our bounds are essentially ti
     <EnabledForIAV>FALSE</EnabledForIAV>
     <MeetingIAVMode></MeetingIAVMode>
     <PublishAutoRecordedVideo>FALSE</PublishAutoRecordedVideo>
+    <Capacity></Capacity>
   </meeting>
   <meeting>
     <ConfCode>SODA22</ConfCode>
