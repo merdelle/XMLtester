@@ -26,10 +26,10 @@
     <EventUniqueID>73709-SESS</EventUniqueID>
     <STATUS>active</STATUS>
     <start>2022-01-12T09:00:00</start>
-    <AutoRecord>TRUE</AutoRecord>
     <EnabledForIAV>TRUE</EnabledForIAV>
     <MeetingIAVMode>meeting</MeetingIAVMode>
-    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
     <Capacity>500</Capacity>
+    <AutoRecord>TRUE</AutoRecord>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
   </meeting>
 </meetings>
