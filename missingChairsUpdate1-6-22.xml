@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user>
+		<Speaker_First_Name>Niv</Speaker_First_Name>
+		<Speaker_last_name>Buchbinder</Speaker_last_name>
+		<speaker_email>niv.buchbinder@gmail.com</speaker_email>
+		<Speaker_company_name>Statistics and Operations Research Dept.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Seffi</Speaker_First_Name>
+		<Speaker_last_name>Naor</Speaker_last_name>
+		<speaker_email>naor@cs.technion.ac.il</speaker_email>
+		<Speaker_company_name>Technion - Israel Institute of Technology</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Andreas</Speaker_First_Name>
+		<Speaker_last_name>Wiese</Speaker_last_name>
+		<speaker_email>awiese@dii.uchile.cl</speaker_email>
+		<Speaker_company_name>Universidad de Chile</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Niv</Speaker_First_Name>
+		<Speaker_last_name>Buchbinder</Speaker_last_name>
+		<speaker_email>niv.buchbinder@gmail.com</speaker_email>
+		<Speaker_company_name>Statistics and Operations Research Dept.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Seffi</Speaker_First_Name>
+		<Speaker_last_name>Naor</Speaker_last_name>
+		<speaker_email>naor@cs.technion.ac.il</speaker_email>
+		<Speaker_company_name>Technion - Israel Institute of Technology</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Vasilis</Speaker_First_Name>
+		<Speaker_last_name>Gkatzelis</Speaker_last_name>
+		<speaker_email>gkatz@drexel.edu</speaker_email>
+		<Speaker_company_name>Drexel University, Computer Science department</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Christian</Speaker_First_Name>
+		<Speaker_last_name>Coester</Speaker_last_name>
+		<speaker_email>christian.coester@gmail.com</speaker_email>
+		<Speaker_company_name>Tel Aviv University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Sally</Speaker_First_Name>
+		<Speaker_last_name>Dong</Speaker_last_name>
+		<speaker_email>sallyqd@uw.edu</speaker_email>
+		<Speaker_company_name>University of Washington</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Mitchell</Speaker_First_Name>
+		<Speaker_last_name>Black</Speaker_last_name>
+		<speaker_email>blackmit@oregonstate.edu</speaker_email>
+		<Speaker_company_name>Oregon State University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Gerth S.</Speaker_First_Name>
+		<Speaker_last_name>Brodal</Speaker_last_name>
+		<speaker_email>gerth@cs.au.dk</speaker_email>
+		<Speaker_company_name>Aarhus University, Denmark</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Noam</Speaker_First_Name>
+		<Speaker_last_name>Touitou</Speaker_last_name>
+		<speaker_email>noamtwx@gmail.com</speaker_email>
+		<Speaker_company_name>Tel Aviv University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Janina</Speaker_First_Name>
+		<Speaker_last_name>Reuter</Speaker_last_name>
+		<speaker_email>janina.reuter@email.uni-kiel.de</speaker_email>
+		<Speaker_company_name>Kiel University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Aditya</Speaker_First_Name>
+		<Speaker_last_name>Potukuchi</Speaker_last_name>
+		<speaker_email>apotu.57@gmail.com</speaker_email>
+		<Speaker_company_name>Rutgers University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Bettina</Speaker_First_Name>
+		<Speaker_last_name>Speckmann</Speaker_last_name>
+		<speaker_email>b.speckmann@tue.nl</speaker_email>
+		<Speaker_company_name>Dept. of Mathematics and Computer Science</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Tianyi</Speaker_First_Name>
+		<Speaker_last_name>Zhang</Speaker_last_name>
+		<speaker_email>tianyi-z16@tsinghua.org.cn</speaker_email>
+		<Speaker_company_name>IIIS, Tsinghua</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Pawel</Speaker_First_Name>
+		<Speaker_last_name>Gawrychowski</Speaker_last_name>
+		<speaker_email>gawry@cs.uni.wroc.pl</speaker_email>
+		<Speaker_company_name>University of Wroclaw</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Tim</Speaker_First_Name>
+		<Speaker_last_name>Randolph</Speaker_last_name>
+		<speaker_email>t.randolph@columbia.edu</speaker_email>
+		<Speaker_company_name>Columbia University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Cynthia</Speaker_First_Name>
+		<Speaker_last_name>Phillips</Speaker_last_name>
+		<speaker_email>caphill@sandia.gov</speaker_email>
+		<Speaker_company_name>Sandia National Laboratories</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Andrea</Speaker_First_Name>
+		<Speaker_last_name>Wiese</Speaker_last_name>
+		<speaker_email>awiese@dii.uchile.cl</speaker_email>
+		<Speaker_company_name>Universidad de Chile, Chile</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Laura</Speaker_First_Name>
+		<Speaker_last_name>Merker</Speaker_last_name>
+		<speaker_email>laura.merker2@kit.edu</speaker_email>
+		<Speaker_company_name>Karlsruhe Institute of Technology</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Max</Speaker_First_Name>
+		<Speaker_last_name>Hopkins</Speaker_last_name>
+		<speaker_email>nmhopkin@eng.ucsd.edu</speaker_email>
+		<Speaker_company_name>University of California San Diego</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Cliff</Speaker_First_Name>
+		<Speaker_last_name>Stein</Speaker_last_name>
+		<speaker_email>cliff@ieor.columbia.edu</speaker_email>
+		<Speaker_company_name>Columbia University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Anupam</Speaker_First_Name>
+		<Speaker_last_name>Gupta</Speaker_last_name>
+		<speaker_email>anupamg@cs.cmu.edu</speaker_email>
+		<Speaker_company_name>Carnegie Mellon University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Sepher</Speaker_First_Name>
+		<Speaker_last_name>Assadi</Speaker_last_name>
+		<speaker_email>sepehr.assadi@rutgers.edu</speaker_email>
+		<Speaker_company_name>Rutgers University, U.S.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Cemil</Speaker_First_Name>
+		<Speaker_last_name>Dibek</Speaker_last_name>
+		<speaker_email>cdibek@princeton.edu</speaker_email>
+		<Speaker_company_name>Princeton University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Krzysztof</Speaker_First_Name>
+		<Speaker_last_name>Onak</Speaker_last_name>
+		<speaker_email>konak@bu.edu</speaker_email>
+		<Speaker_company_name>Boston University, U.S.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Karthik</Speaker_First_Name>
+		<Speaker_last_name>C.S.</Speaker_last_name>
+		<speaker_email>karthik.0112358@gmail.com</speaker_email>
+		<Speaker_company_name>Rutgers University, U.S.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Shyamal</Speaker_First_Name>
+		<Speaker_last_name>Patel</Speaker_last_name>
+		<speaker_email>shyamalpatelb@gmail.com</speaker_email>
+		<Speaker_company_name>Columbia University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Mahsa</Speaker_First_Name>
+		<Speaker_last_name>Derakhshan</Speaker_last_name>
+		<speaker_email>mah.derakhshan@gmail.com</speaker_email>
+		<Speaker_company_name>Princeton University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Anne</Speaker_First_Name>
+		<Speaker_last_name>Driemel</Speaker_last_name>
+		<speaker_email>drieml@cs.uni-bonn.de</speaker_email>
+		<Speaker_company_name>UniversitÃ¤t Bonn, Germany</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Or</Speaker_First_Name>
+		<Speaker_last_name>Zamir</Speaker_last_name>
+		<speaker_email>orzamir90@gmail.com</speaker_email>
+		<Speaker_company_name>Tel Aviv University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Daniel</Speaker_First_Name>
+		<Speaker_last_name>Neuen</Speaker_last_name>
+		<speaker_email>daniel.neuen@cispa.saarland</speaker_email>
+		<Speaker_company_name>CISPA Helmholtz Center for Information Security, Germany</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Michael</Speaker_First_Name>
+		<Speaker_last_name>Simkin</Speaker_last_name>
+		<speaker_email>msimkin@cmsa.fas.harvard.edu</speaker_email>
+		<Speaker_company_name>Harvard University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Sepehr</Speaker_First_Name>
+		<Speaker_last_name>Assadi</Speaker_last_name>
+		<speaker_email>sepehr.assadi@rutgers.edu</speaker_email>
+		<Speaker_company_name>Princeton University and Rutgers University, U.S,</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Binghui</Speaker_First_Name>
+		<Speaker_last_name>Peng</Speaker_last_name>
+		<speaker_email>bp2601@columbia.edu</speaker_email>
+		<Speaker_company_name>Tsinghua University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Martin</Speaker_First_Name>
+		<Speaker_last_name>NÃ¤gele</Speaker_last_name>
+		<speaker_email>martinn@ethz.ch</speaker_email>
+		<Speaker_company_name>ETH Zurich, Switzerland</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Goran</Speaker_First_Name>
+		<Speaker_last_name>Zuzic</Speaker_last_name>
+		<speaker_email>zuzu777@gmail.com</speaker_email>
+		<Speaker_company_name>ETH Zurich, Switzerland</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Karl</Speaker_First_Name>
+		<Speaker_last_name>Bringmann</Speaker_last_name>
+		<speaker_email>bringmann@cs.uni-saarland.de</speaker_email>
+		<Speaker_company_name>Saarland University and Max Planck Institute for Informatics</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Ali</Speaker_First_Name>
+		<Speaker_last_name>Vakilian</Speaker_last_name>
+		<speaker_email>vakilian@ttic.edu</speaker_email>
+		<Speaker_company_name>MIT</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Shi</Speaker_First_Name>
+		<Speaker_last_name>Li</Speaker_last_name>
+		<speaker_email>shil@buffalo.edu</speaker_email>
+		<Speaker_company_name>University at Buffalo</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Tomasz</Speaker_First_Name>
+		<Speaker_last_name>Kociumaka</Speaker_last_name>
+		<speaker_email>kociumaka@berkeley.edu</speaker_email>
+		<Speaker_company_name>University of California, Berkeley, U.S.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Timothy</Speaker_First_Name>
+		<Speaker_last_name>Chan</Speaker_last_name>
+		<speaker_email>tmc@illinois.edu</speaker_email>
+		<Speaker_company_name>University of Illinois at Urbana-Champaign</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Daniel</Speaker_First_Name>
+		<Speaker_last_name>Schoepflin</Speaker_last_name>
+		<speaker_email>drs332@drexel.edu</speaker_email>
+		<Speaker_company_name>Drexel University, U.S.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Praneeth</Speaker_First_Name>
+		<Speaker_last_name>Kacham</Speaker_last_name>
+		<speaker_email>pkacham@andrew.cmu.edu</speaker_email>
+		<Speaker_company_name>Carnegie Mellon University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>AndrÃ©</Speaker_First_Name>
+		<Speaker_last_name>Nusser</Speaker_last_name>
+		<speaker_email>anusser@mpi-inf.mpg.de</speaker_email>
+		<Speaker_company_name>Max Planck Institute for Informatics</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Yan</Speaker_First_Name>
+		<Speaker_last_name>Gu</Speaker_last_name>
+		<speaker_email>yan.gu@ucr.edu</speaker_email>
+		<Speaker_company_name>University of California, Riverside</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Vera</Speaker_First_Name>
+		<Speaker_last_name>Traub</Speaker_last_name>
+		<speaker_email>vera.traub@ifor.math.ethz.ch</speaker_email>
+		<Speaker_company_name>ETH Zurich</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Shay</Speaker_First_Name>
+		<Speaker_last_name>Solomon</Speaker_last_name>
+		<speaker_email>solo.shay@gmail.com</speaker_email>
+		<Speaker_company_name>Tel Aviv University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Yeganeh</Speaker_First_Name>
+		<Speaker_last_name>Alimohammadi</Speaker_last_name>
+		<speaker_email>yeganeh@stanford.edu</speaker_email>
+		<Speaker_company_name>Stanford University, U.S.</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Martin</Speaker_First_Name>
+		<Speaker_last_name>Farach-Colton</Speaker_last_name>
+		<speaker_email>martin@farach-colton.com</speaker_email>
+		<Speaker_company_name>Rutgers University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Soheil</Speaker_First_Name>
+		<Speaker_last_name>Behnezhad</Speaker_last_name>
+		<speaker_email>soheil.behnezhad@gmail.com</speaker_email>
+		<Speaker_company_name>Stanford University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Ohad</Speaker_First_Name>
+		<Speaker_last_name>Trabelsi</Speaker_last_name>
+		<speaker_email>ohadt@umich.edu</speaker_email>
+		<Speaker_company_name>University of Michigan</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Jamie</Speaker_First_Name>
+		<Speaker_last_name>Tucker-Foltz</Speaker_last_name>
+		<speaker_email>jtuckerfoltz@gmail.com</speaker_email>
+		<Speaker_company_name>Harvard University</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Teng</Speaker_First_Name>
+		<Speaker_last_name>Shang-Hua</Speaker_last_name>
+		<speaker_email>shanghua@usc.edu</speaker_email>
+		<Speaker_company_name>University of Southern California </Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Niv</Speaker_First_Name>
+		<Speaker_last_name>Buchbinder</Speaker_last_name>
+		<speaker_email>niv.buchbinder@gmail.com</speaker_email>
+		<Speaker_company_name>Tel Aviv University, Israel</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Seffi</Speaker_First_Name>
+		<Speaker_last_name>Naor</Speaker_last_name>
+		<speaker_email>naor@cs.technion.ac.il</speaker_email>
+		<Speaker_company_name>Technion - Israel Institute of Technology </Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Bringmann</Speaker_First_Name>
+		<Speaker_last_name>Karl</Speaker_last_name>
+		<speaker_email>kbringma@mpi-inf.mpg.de</speaker_email>
+		<Speaker_company_name>Saarland University and Max Planck Institute for Informatics </Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Chan</Speaker_First_Name>
+		<Speaker_last_name>Timothy</Speaker_last_name>
+		<speaker_email>tmc@illinois.edu</speaker_email>
+		<Speaker_company_name>University of Illinois at Urbana-Champaign </Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>Speckmann</Speaker_First_Name>
+		<Speaker_last_name>Bettina</Speaker_last_name>
+		<speaker_email>b.speckmann@TUE.nl</speaker_email>
+		<Speaker_company_name>TU Eindhoven</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+	<user>
+		<Speaker_First_Name>A. Phillips</Speaker_First_Name>
+		<Speaker_last_name>Cynthia</Speaker_last_name>
+		<speaker_email>caphill@sandia.gov</speaker_email>
+		<Speaker_company_name>Sandia National Laboratories</Speaker_company_name>
+		<Ribbons>Session Chair</Ribbons>
+		<Status>active</Status>
+	</user>
+</users>
