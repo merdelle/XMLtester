@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meetings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<meeting>
+		<EventChairs>b.speckmann@TUE.nl,caphill@sandia.gov,sanders@kit.edu</EventChairs>
+		<EventUniqueID>73672-SESS</EventUniqueID>
+	</meeting>
+	<meeting>
+		<EventChairs>shanghua@usc.edu,niv.buchbinder@gmail.com,naor@cs.technion.ac.il,kbringma@mpi-inf.mpg.de,tmc@illinois.edu</EventChairs>
+		<EventUniqueID>73675-SESS</EventUniqueID>
+	</meeting>
+</meetings>
