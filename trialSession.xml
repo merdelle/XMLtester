@@ -1,0 +1,40 @@
+  <meeting>
+    <Confcode>PP22</Confcode>
+    <EventName>MS2 Progress and Challenges in Extreme Scale Computing and Big Data</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>MS2</EventNumber>
+    <EventDate>Feb 23, 2022</EventDate>
+    <EventStartTime>02/23/22  1:00:00 PM</EventStartTime>
+    <EventEndTime>02/23/22  2:40:00 PM</EventEndTime>
+    <EventFilter>PP22|Minisymposium|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords>700</EventKeywords>
+    <EventChairs>789960,706361,715772</EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers></EventSpeakers>
+    <EventSpeakerUniqueID>706361,715772,789960,768136</EventSpeakerUniqueID>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>session</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=72849</EventHandoutURL>
+    <EventDescription>Extreme scale computing efforts have resulted in numerous advances for multicore and accelerator based scalable systems.
+    In addition, large-scale applications must increasingly deal with data management and analysis as a first-class concern. Therefore, new
+    applications often have to manage distributed and parallel computing, and have to manage workflows of different tasks (computing, data
+    analytics, data migrations, machine learning, visualization,…).
+In this minisymposium we present some of the latest work in scalable algorithms, programming paradigms, and libraries for next generation
+computing platforms. Furthermore, we discuss efforts to better incorporate data science concerns as an important component of our scientific
+workflows.</EventDescription>
+    <EventParent></EventParent>
+    <EventUniqueID>72849-SESS</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord>1</AutoRecord>
+    <EnabledForIAV>1</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled>0</DirectLinkEnabled>
+    <start>2022-02-23T13:00:00</start>
+  </meeting>
