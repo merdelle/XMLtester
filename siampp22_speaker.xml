@@ -1,0 +1,4839 @@
+﻿<users>
+  <user>
+    <SpeakID>4846</SpeakID>
+    <Speaker_First_Name>Jack</Speaker_First_Name>
+    <Speaker_last_name>Dongarra</Speaker_last_name>
+    <Speaker_email>dongarra@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee and Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>8363</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Keyes</Speaker_last_name>
+    <Speaker_email>david.keyes@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>27158</SpeakID>
+    <Speaker_First_Name>Lois Curfman</Speaker_First_Name>
+    <Speaker_last_name>McInnes</Speaker_last_name>
+    <Speaker_email>curfman@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>31242</SpeakID>
+    <Speaker_First_Name>Andreas</Speaker_First_Name>
+    <Speaker_last_name>Stathopoulos</Speaker_last_name>
+    <Speaker_email>andreas@cs.wm.edu</Speaker_email>
+    <Speaker_company_name>College of William &amp; Mary, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>34694</SpeakID>
+    <Speaker_First_Name>Deborah</Speaker_First_Name>
+    <Speaker_last_name>Stevens</Speaker_last_name>
+    <Speaker_email>dstevens@mcs.anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>36345</SpeakID>
+    <Speaker_First_Name>Inderjit</Speaker_First_Name>
+    <Speaker_last_name>Dhillon</Speaker_last_name>
+    <Speaker_email>inderjit@cs.utexas.edu</Speaker_email>
+    <Speaker_company_name>University of Texas at Austin, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>47064</SpeakID>
+    <Speaker_First_Name>Raymond</Speaker_First_Name>
+    <Speaker_last_name>Spiteri</Speaker_last_name>
+    <Speaker_email>spiteri@cs.usask.ca</Speaker_email>
+    <Speaker_company_name>University of Saskatchewan, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>47064</SpeakID>
+    <Speaker_First_Name>Raymond</Speaker_First_Name>
+    <Speaker_last_name>Spiteri</Speaker_last_name>
+    <Speaker_email>spiteri@cs.usask.ca</Speaker_email>
+    <Speaker_company_name>University of Saskatchewan, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>53411</SpeakID>
+    <Speaker_First_Name>Marc</Speaker_First_Name>
+    <Speaker_last_name>Genton</Speaker_last_name>
+    <Speaker_email>marc.genton@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>75645</SpeakID>
+    <Speaker_First_Name>Osni</Speaker_First_Name>
+    <Speaker_last_name>Marques</Speaker_last_name>
+    <Speaker_email>oamarques@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>83250</SpeakID>
+    <Speaker_First_Name>Daisuke</Speaker_First_Name>
+    <Speaker_last_name>Takahashi</Speaker_last_name>
+    <Speaker_email>daisuke@cs.tsukuba.ac.jp</Speaker_email>
+    <Speaker_company_name>University of Tsukuba, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>83250</SpeakID>
+    <Speaker_First_Name>Daisuke</Speaker_First_Name>
+    <Speaker_last_name>Takahashi</Speaker_last_name>
+    <Speaker_email>daisuke@cs.tsukuba.ac.jp</Speaker_email>
+    <Speaker_company_name>University of Tsukuba, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>88922</SpeakID>
+    <Speaker_First_Name>Brian</Speaker_First_Name>
+    <Speaker_last_name>Van Straalen</Speaker_last_name>
+    <Speaker_email>bvstraalen@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>89317</SpeakID>
+    <Speaker_First_Name>Keita</Speaker_First_Name>
+    <Speaker_last_name>Teranishi</Speaker_last_name>
+    <Speaker_email>knteran@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>91119</SpeakID>
+    <Speaker_First_Name>George</Speaker_First_Name>
+    <Speaker_last_name>Karypis</Speaker_last_name>
+    <Speaker_email>gkarypis@amazon.com</Speaker_email>
+    <Speaker_company_name>University of Minnesota and Amazon, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>701749</SpeakID>
+    <Speaker_First_Name>Chao</Speaker_First_Name>
+    <Speaker_last_name>Yang</Speaker_last_name>
+    <Speaker_email>cyang@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>701749</SpeakID>
+    <Speaker_First_Name>Chao</Speaker_First_Name>
+    <Speaker_last_name>Yang</Speaker_last_name>
+    <Speaker_email>cyang@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>702311</SpeakID>
+    <Speaker_First_Name>Mark</Speaker_First_Name>
+    <Speaker_last_name>Shephard</Speaker_last_name>
+    <Speaker_email>shephard@rpi.edu</Speaker_email>
+    <Speaker_company_name>Rensselaer Polytechnic Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>704203</SpeakID>
+    <Speaker_First_Name>Todd</Speaker_First_Name>
+    <Speaker_last_name>Munson</Speaker_last_name>
+    <Speaker_email>tmunson@mcs.anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>704372</SpeakID>
+    <Speaker_First_Name>Connie</Speaker_First_Name>
+    <Speaker_last_name>Young</Speaker_last_name>
+    <Speaker_email>cyoung@siam.org</Speaker_email>
+    <Speaker_company_name>SIAM, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>704448</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Bienstock</Speaker_last_name>
+    <Speaker_email>dano@columbia.edu</Speaker_email>
+    <Speaker_company_name>Columbia University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>704793</SpeakID>
+    <Speaker_First_Name>Sivan</Speaker_First_Name>
+    <Speaker_last_name>Toledo</Speaker_last_name>
+    <Speaker_email>stoledo@tau.ac.il</Speaker_email>
+    <Speaker_company_name>Tel Aviv University, Israel</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>705457</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Bernholdt</Speaker_last_name>
+    <Speaker_email>bernholdtde@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>706361</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Heroux</Speaker_last_name>
+    <Speaker_email>maherou@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories and St. John's University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>706361</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Heroux</Speaker_last_name>
+    <Speaker_email>maherou@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories and St. John's University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>706380</SpeakID>
+    <Speaker_First_Name>Ray</Speaker_First_Name>
+    <Speaker_last_name>Tuminaro</Speaker_last_name>
+    <Speaker_email>rstumin@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>708009</SpeakID>
+    <Speaker_First_Name>Eric</Speaker_First_Name>
+    <Speaker_last_name>Phipps</Speaker_last_name>
+    <Speaker_email>etphipp@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>708034</SpeakID>
+    <Speaker_First_Name>Robert</Speaker_First_Name>
+    <Speaker_last_name>Falgout</Speaker_last_name>
+    <Speaker_email>falgout2@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>710229</SpeakID>
+    <Speaker_First_Name>Jan</Speaker_First_Name>
+    <Speaker_last_name>Verschelde</Speaker_last_name>
+    <Speaker_email>janv@uic.edu</Speaker_email>
+    <Speaker_company_name>University of Ilinois at Chicago, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>711886</SpeakID>
+    <Speaker_First_Name>Alan</Speaker_First_Name>
+    <Speaker_last_name>Edelman</Speaker_last_name>
+    <Speaker_email>edelman@mit.edu</Speaker_email>
+    <Speaker_company_name>Massachusetts Institute of Technology and Julia Computing, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712441</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Bader</Speaker_last_name>
+    <Speaker_email>bader@njit.edu</Speaker_email>
+    <Speaker_company_name>New Jersey Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712668</SpeakID>
+    <Speaker_First_Name>Christian</Speaker_First_Name>
+    <Speaker_last_name>Engelmann</Speaker_last_name>
+    <Speaker_email>engelmannc@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712668</SpeakID>
+    <Speaker_First_Name>Christian</Speaker_First_Name>
+    <Speaker_last_name>Engelmann</Speaker_last_name>
+    <Speaker_email>engelmannc@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712687</SpeakID>
+    <Speaker_First_Name>Jonathan</Speaker_First_Name>
+    <Speaker_last_name>Hu</Speaker_last_name>
+    <Speaker_email>jhu@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712754</SpeakID>
+    <Speaker_First_Name>Olaf</Speaker_First_Name>
+    <Speaker_last_name>Schenk</Speaker_last_name>
+    <Speaker_email>olaf.schenk@usi.ch</Speaker_email>
+    <Speaker_company_name>Università della Svizzera italiana, Switzerland </Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712759</SpeakID>
+    <Speaker_First_Name>Andreas</Speaker_First_Name>
+    <Speaker_last_name>Adelmann</Speaker_last_name>
+    <Speaker_email>andreas.adelmann@psi.ch</Speaker_email>
+    <Speaker_company_name>Paul Scherrer Institut, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712759</SpeakID>
+    <Speaker_First_Name>Andreas</Speaker_First_Name>
+    <Speaker_last_name>Adelmann</Speaker_last_name>
+    <Speaker_email>andreas.adelmann@psi.ch</Speaker_email>
+    <Speaker_company_name>Paul Scherrer Institut, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712891</SpeakID>
+    <Speaker_First_Name>Martin</Speaker_First_Name>
+    <Speaker_last_name>Berzins</Speaker_last_name>
+    <Speaker_email>mb@sci.utah.edu</Speaker_email>
+    <Speaker_company_name>University of Utah, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>712891</SpeakID>
+    <Speaker_First_Name>Martin</Speaker_First_Name>
+    <Speaker_last_name>Berzins</Speaker_last_name>
+    <Speaker_email>mb@sci.utah.edu</Speaker_email>
+    <Speaker_company_name>University of Utah, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>713700</SpeakID>
+    <Speaker_First_Name>Ann</Speaker_First_Name>
+    <Speaker_last_name>Almgren</Speaker_last_name>
+    <Speaker_email>asalmgren@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>714749</SpeakID>
+    <Speaker_First_Name>Donna</Speaker_First_Name>
+    <Speaker_last_name>Calhoun</Speaker_last_name>
+    <Speaker_email>donnacalhoun@boisestate.edu</Speaker_email>
+    <Speaker_company_name>Boise State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>715772</SpeakID>
+    <Speaker_First_Name>Kengo</Speaker_First_Name>
+    <Speaker_last_name>Nakajima</Speaker_last_name>
+    <Speaker_email>nakajima@cc.u-tokyo.ac.jp</Speaker_email>
+    <Speaker_company_name>University of Tokyo, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>715772</SpeakID>
+    <Speaker_First_Name>Kengo</Speaker_First_Name>
+    <Speaker_last_name>Nakajima</Speaker_last_name>
+    <Speaker_email>nakajima@cc.u-tokyo.ac.jp</Speaker_email>
+    <Speaker_company_name>University of Tokyo, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>716127</SpeakID>
+    <Speaker_First_Name>Kevin</Speaker_First_Name>
+    <Speaker_last_name>Huck</Speaker_last_name>
+    <Speaker_email>khuck@cs.uoregon.edu</Speaker_email>
+    <Speaker_company_name>University of Oregon, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>719805</SpeakID>
+    <Speaker_First_Name>Ulrike Meier</Speaker_First_Name>
+    <Speaker_last_name>Yang</Speaker_last_name>
+    <Speaker_email>yang11@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>719838</SpeakID>
+    <Speaker_First_Name>Matthew</Speaker_First_Name>
+    <Speaker_last_name>Knepley</Speaker_last_name>
+    <Speaker_email>knepley@gmail.com  </Speaker_email>
+    <Speaker_company_name>State University of New York at Buffalo, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>719886</SpeakID>
+    <Speaker_First_Name>Stanimire</Speaker_First_Name>
+    <Speaker_last_name>Tomov</Speaker_last_name>
+    <Speaker_email> tomov@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>719917</SpeakID>
+    <Speaker_First_Name>Rosa</Speaker_First_Name>
+    <Speaker_last_name>Badia</Speaker_last_name>
+    <Speaker_email>rosa.m.badia@bsc.es</Speaker_email>
+    <Speaker_company_name>Barcelona Supercomputing Center, Spain</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>720131</SpeakID>
+    <Speaker_First_Name>Axel</Speaker_First_Name>
+    <Speaker_last_name>Klawonn</Speaker_last_name>
+    <Speaker_email>axel.klawonn@uni-koeln.de</Speaker_email>
+    <Speaker_company_name>Universität zu Köln, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>720131</SpeakID>
+    <Speaker_First_Name>Axel</Speaker_First_Name>
+    <Speaker_last_name>Klawonn</Speaker_last_name>
+    <Speaker_email>axel.klawonn@uni-koeln.de</Speaker_email>
+    <Speaker_company_name>Universität zu Köln, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>720350</SpeakID>
+    <Speaker_First_Name>Tanu</Speaker_First_Name>
+    <Speaker_last_name>Malik</Speaker_last_name>
+    <Speaker_email>tanu.malik@depaul.edu</Speaker_email>
+    <Speaker_company_name>DePaul University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>720359</SpeakID>
+    <Speaker_First_Name>Matthias</Speaker_First_Name>
+    <Speaker_last_name>Bolten</Speaker_last_name>
+    <Speaker_email>bolten@math.uni-wuppertal.de</Speaker_email>
+    <Speaker_company_name>Universit&amp;auml;t Wuppertal, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>720359</SpeakID>
+    <Speaker_First_Name>Matthias</Speaker_First_Name>
+    <Speaker_last_name>Bolten</Speaker_last_name>
+    <Speaker_email>bolten@math.uni-wuppertal.de</Speaker_email>
+    <Speaker_company_name>Universit&amp;auml;t Wuppertal, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>721529</SpeakID>
+    <Speaker_First_Name>Mary Ann</Speaker_First_Name>
+    <Speaker_last_name>Leung</Speaker_last_name>
+    <Speaker_email>mleung@shinstitute.org</Speaker_email>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>723261</SpeakID>
+    <Speaker_First_Name>Christopher</Speaker_First_Name>
+    <Speaker_last_name>Siefert</Speaker_last_name>
+    <Speaker_email>csiefer@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>723527</SpeakID>
+    <Speaker_First_Name>Stefan</Speaker_First_Name>
+    <Speaker_last_name>Wild</Speaker_last_name>
+    <Speaker_email>wild@anl.gov</Speaker_email>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>723558</SpeakID>
+    <Speaker_First_Name>Kyle</Speaker_First_Name>
+    <Speaker_last_name>Mandli</Speaker_last_name>
+    <Speaker_email>kyle.mandli@columbia.edu</Speaker_email>
+    <Speaker_company_name>Columbia University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>723667</SpeakID>
+    <Speaker_First_Name>Carsten</Speaker_First_Name>
+    <Speaker_last_name>Burstedde</Speaker_last_name>
+    <Speaker_email>burstedde@ins.uni-bonn.de</Speaker_email>
+    <Speaker_company_name>Universit&amp;auml;t Bonn, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>724709</SpeakID>
+    <Speaker_First_Name>Peter</Speaker_First_Name>
+    <Speaker_last_name>Bastian</Speaker_last_name>
+    <Speaker_email>peter.bastian@iwr.uni-heidelberg.de</Speaker_email>
+    <Speaker_company_name>Universität Heidelberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>725824</SpeakID>
+    <Speaker_First_Name>Toshiyuki </Speaker_First_Name>
+    <Speaker_last_name>Imamura</Speaker_last_name>
+    <Speaker_email>imamura.toshiyuki@riken.jp</Speaker_email>
+    <Speaker_company_name>RIKEN, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>726292</SpeakID>
+    <Speaker_First_Name>Lior</Speaker_First_Name>
+    <Speaker_last_name>Horesh</Speaker_last_name>
+    <Speaker_email>lhoresh@us.ibm.com</Speaker_email>
+    <Speaker_company_name>IBM Research, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>726311</SpeakID>
+    <Speaker_First_Name>Costas</Speaker_First_Name>
+    <Speaker_last_name>Bekas</Speaker_last_name>
+    <Speaker_email>bekas.costas@gmail.com</Speaker_email>
+    <Speaker_company_name>Citadel Securities, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>726876</SpeakID>
+    <Speaker_First_Name>Haesun</Speaker_First_Name>
+    <Speaker_last_name>Park</Speaker_last_name>
+    <Speaker_email>hpark@cc.gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>727320</SpeakID>
+    <Speaker_First_Name>Abdou</Speaker_First_Name>
+    <Speaker_last_name>Guermouche</Speaker_last_name>
+    <Speaker_email>abdou.guermouche@labri.fr</Speaker_email>
+    <Speaker_company_name>LaBRI, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>727519</SpeakID>
+    <Speaker_First_Name>Pieter</Speaker_First_Name>
+    <Speaker_last_name>Maris</Speaker_last_name>
+    <Speaker_email>pmaris@iastate.edu</Speaker_email>
+    <Speaker_company_name>Iowa State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>728235</SpeakID>
+    <Speaker_First_Name>Cosmin</Speaker_First_Name>
+    <Speaker_last_name>Petra</Speaker_last_name>
+    <Speaker_email>petra1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>728876</SpeakID>
+    <Speaker_First_Name>James</Speaker_First_Name>
+    <Speaker_last_name>Willenbring</Speaker_last_name>
+    <Speaker_email>jmwille@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>728972</SpeakID>
+    <Speaker_First_Name>Norman</Speaker_First_Name>
+    <Speaker_last_name>Matloff</Speaker_last_name>
+    <Speaker_email>matloff@cs.ucdavis.edu</Speaker_email>
+    <Speaker_company_name>University of California, Davis, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>729291</SpeakID>
+    <Speaker_First_Name>Chang-Ock</Speaker_First_Name>
+    <Speaker_last_name>Lee</Speaker_last_name>
+    <Speaker_email>colee@kaist.edu</Speaker_email>
+    <Speaker_company_name>Korea Advanced Institute of Science and Technology, Korea</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>730056</SpeakID>
+    <Speaker_First_Name>Mark</Speaker_First_Name>
+    <Speaker_last_name>Potse</Speaker_last_name>
+    <Speaker_email>mark@potse.nl </Speaker_email>
+    <Speaker_company_name>Université de Bordeaux, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>730580</SpeakID>
+    <Speaker_First_Name>Luis</Speaker_First_Name>
+    <Speaker_last_name>Chacon</Speaker_last_name>
+    <Speaker_email>chacon@lanl.gov</Speaker_email>
+    <Speaker_company_name>Los Alamos National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>730729</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Bader</Speaker_last_name>
+    <Speaker_email>bader@in.tum.de</Speaker_email>
+    <Speaker_company_name>Technische Universität München, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>730729</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Bader</Speaker_last_name>
+    <Speaker_email>bader@in.tum.de</Speaker_email>
+    <Speaker_company_name>Technische Universität München, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>731156</SpeakID>
+    <Speaker_First_Name>Cameron </Speaker_First_Name>
+    <Speaker_last_name>Smith</Speaker_last_name>
+    <Speaker_email> smithc11@rpi.edu</Speaker_email>
+    <Speaker_company_name>Rensselaer Polytechnic Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>732280</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Ham</Speaker_last_name>
+    <Speaker_email>david.ham@imperial.ac.uk</Speaker_email>
+    <Speaker_company_name>Imperial College London, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>732534</SpeakID>
+    <Speaker_First_Name>Christian</Speaker_First_Name>
+    <Speaker_last_name>Engwer</Speaker_last_name>
+    <Speaker_email>christian.engwer@uni-muenster.de</Speaker_email>
+    <Speaker_company_name>University of Münster, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>732634</SpeakID>
+    <Speaker_First_Name>Matthias</Speaker_First_Name>
+    <Speaker_last_name>Bollhöfer</Speaker_last_name>
+    <Speaker_email>m.bollhoefer@tu-bs.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Braunschweig, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>732925</SpeakID>
+    <Speaker_First_Name>Richard</Speaker_First_Name>
+    <Speaker_last_name>Mills</Speaker_last_name>
+    <Speaker_email>rtmills@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>732925</SpeakID>
+    <Speaker_First_Name>Richard</Speaker_First_Name>
+    <Speaker_last_name>Mills</Speaker_last_name>
+    <Speaker_email>rtmills@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>734193</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Osei-Kuffuor</Speaker_last_name>
+    <Speaker_email>oseikuffuor1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>734368</SpeakID>
+    <Speaker_First_Name>Sung Ha</Speaker_First_Name>
+    <Speaker_last_name>Kang</Speaker_last_name>
+    <Speaker_email>kang@math.gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735129</SpeakID>
+    <Speaker_First_Name>Mary</Speaker_First_Name>
+    <Speaker_last_name>Hall</Speaker_last_name>
+    <Speaker_email>mhall@cs.utah.edu</Speaker_email>
+    <Speaker_company_name>University of Utah, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735268</SpeakID>
+    <Speaker_First_Name>Eric</Speaker_First_Name>
+    <Speaker_last_name>Cyr</Speaker_last_name>
+    <Speaker_email>eccyr@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735416</SpeakID>
+    <Speaker_First_Name>Rob</Speaker_First_Name>
+    <Speaker_last_name>Bisseling</Speaker_last_name>
+    <Speaker_email>r.h.bisseling@uu.nl</Speaker_email>
+    <Speaker_company_name>Utrecht University, The Netherlands</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735429</SpeakID>
+    <Speaker_First_Name>Mark</Speaker_First_Name>
+    <Speaker_last_name>Adams</Speaker_last_name>
+    <Speaker_email>mfadams@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735518</SpeakID>
+    <Speaker_First_Name>Hatem</Speaker_First_Name>
+    <Speaker_last_name>Ltaief</Speaker_last_name>
+    <Speaker_email>hatem.Ltaief@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735519</SpeakID>
+    <Speaker_First_Name>Grey</Speaker_First_Name>
+    <Speaker_last_name>Ballard</Speaker_last_name>
+    <Speaker_email>ballard@wfu.edu</Speaker_email>
+    <Speaker_company_name>Wake Forest University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735519</SpeakID>
+    <Speaker_First_Name>Grey</Speaker_First_Name>
+    <Speaker_last_name>Ballard</Speaker_last_name>
+    <Speaker_email>ballard@wfu.edu</Speaker_email>
+    <Speaker_company_name>Wake Forest University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735540</SpeakID>
+    <Speaker_First_Name>Georg</Speaker_First_Name>
+    <Speaker_last_name>Hager</Speaker_last_name>
+    <Speaker_email>georg.hager@fau.de</Speaker_email>
+    <Speaker_company_name>Erlangen Regional Computing Center, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735540</SpeakID>
+    <Speaker_First_Name>Georg</Speaker_First_Name>
+    <Speaker_last_name>Hager</Speaker_last_name>
+    <Speaker_email>georg.hager@fau.de</Speaker_email>
+    <Speaker_company_name>Erlangen Regional Computing Center, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735577</SpeakID>
+    <Speaker_First_Name>Ann</Speaker_First_Name>
+    <Speaker_last_name>Gentile</Speaker_last_name>
+    <Speaker_email>gentile@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735590</SpeakID>
+    <Speaker_First_Name>Satoshi</Speaker_First_Name>
+    <Speaker_last_name>Matsuoka</Speaker_last_name>
+    <Speaker_email>matsu@is.titech.ac.jp</Speaker_email>
+    <Speaker_company_name>Tokyo Institute of Technology, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735643</SpeakID>
+    <Speaker_First_Name>Andy</Speaker_First_Name>
+    <Speaker_last_name>Nonaka</Speaker_last_name>
+    <Speaker_email>ajnonaka@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>735672</SpeakID>
+    <Speaker_First_Name>Bobby</Speaker_First_Name>
+    <Speaker_last_name>Philip</Speaker_last_name>
+    <Speaker_email>bphilip@lanl.gov</Speaker_email>
+    <Speaker_company_name>Los Alamos National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>737639</SpeakID>
+    <Speaker_First_Name>Lilia</Speaker_First_Name>
+    <Speaker_last_name>Krivodonova</Speaker_last_name>
+    <Speaker_email>lgk@uwaterloo.ca</Speaker_email>
+    <Speaker_company_name>University of Waterloo, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>739547</SpeakID>
+    <Speaker_First_Name>Mahantesh</Speaker_First_Name>
+    <Speaker_last_name>Halappanavar</Speaker_last_name>
+    <Speaker_email>hala@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>739547</SpeakID>
+    <Speaker_First_Name>Mahantesh</Speaker_First_Name>
+    <Speaker_last_name>Halappanavar</Speaker_last_name>
+    <Speaker_email>hala@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>739657</SpeakID>
+    <Speaker_First_Name>Piotr</Speaker_First_Name>
+    <Speaker_last_name>Luszczek</Speaker_last_name>
+    <Speaker_email> luszczek@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>739657</SpeakID>
+    <Speaker_First_Name>Piotr</Speaker_First_Name>
+    <Speaker_last_name>Luszczek</Speaker_last_name>
+    <Speaker_email> luszczek@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>739678</SpeakID>
+    <Speaker_First_Name>Emmanuel</Speaker_First_Name>
+    <Speaker_last_name>Agullo</Speaker_last_name>
+    <Speaker_email>emmanuel.agullo@inria.fr</Speaker_email>
+    <Speaker_company_name>Inria, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>740185</SpeakID>
+    <Speaker_First_Name>Andreas</Speaker_First_Name>
+    <Speaker_last_name>Kloeckner</Speaker_last_name>
+    <Speaker_email>andreask@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>740185</SpeakID>
+    <Speaker_First_Name>Andreas</Speaker_First_Name>
+    <Speaker_last_name>Kloeckner</Speaker_last_name>
+    <Speaker_email>andreask@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>740836</SpeakID>
+    <Speaker_First_Name>Tommaso</Speaker_First_Name>
+    <Speaker_last_name>Benacchio</Speaker_last_name>
+    <Speaker_email>Tommaso.benacchio.ext@leonardocompany.com</Speaker_email>
+    <Speaker_company_name>Politecnico di Milano, Italy</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>741246</SpeakID>
+    <Speaker_First_Name>Hyea Hyun</Speaker_First_Name>
+    <Speaker_last_name>Kim</Speaker_last_name>
+    <Speaker_email>hhkim@khu.ac.kr</Speaker_email>
+    <Speaker_company_name>KyungHee University, South Korea</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>741298</SpeakID>
+    <Speaker_First_Name>Katsuki</Speaker_First_Name>
+    <Speaker_last_name>Fujisawa</Speaker_last_name>
+    <Speaker_email>fujisawa@imi.kyushu-u.ac.jp</Speaker_email>
+    <Speaker_company_name>Kyushu University, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>741562</SpeakID>
+    <Speaker_First_Name>George</Speaker_First_Name>
+    <Speaker_last_name>Constantinides</Speaker_last_name>
+    <Speaker_email>g.constantinides@imperial.ac.uk</Speaker_email>
+    <Speaker_company_name>Imperial College London, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>741955</SpeakID>
+    <Speaker_First_Name>Sue</Speaker_First_Name>
+    <Speaker_last_name>Thorne</Speaker_last_name>
+    <Speaker_email>sue.thorne@stfc.ac.uk</Speaker_email>
+    <Speaker_company_name>UKRI Science and Technology Facilities Council, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>744636</SpeakID>
+    <Speaker_First_Name>Iulian</Speaker_First_Name>
+    <Speaker_last_name>Grindeanu</Speaker_last_name>
+    <Speaker_email>iulian@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>744636</SpeakID>
+    <Speaker_First_Name>Iulian</Speaker_First_Name>
+    <Speaker_last_name>Grindeanu</Speaker_last_name>
+    <Speaker_email>iulian@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>746995</SpeakID>
+    <Speaker_First_Name>Erin Claire</Speaker_First_Name>
+    <Speaker_last_name>Carson</Speaker_last_name>
+    <Speaker_email>carson@karlin.mff.cuni.cz</Speaker_email>
+    <Speaker_company_name>Charles University, Czech Republic</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747042</SpeakID>
+    <Speaker_First_Name>John</Speaker_First_Name>
+    <Speaker_last_name>Owens</Speaker_last_name>
+    <Speaker_email>jowens@ece.ucdavis.edu</Speaker_email>
+    <Speaker_company_name>University of California, Davis, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747120</SpeakID>
+    <Speaker_First_Name>Alfredo</Speaker_First_Name>
+    <Speaker_last_name>Buttari</Speaker_last_name>
+    <Speaker_email>alfredo.buttari@irit.fr</Speaker_email>
+    <Speaker_company_name>CNRS-IRIT, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747124</SpeakID>
+    <Speaker_First_Name>Robert</Speaker_First_Name>
+    <Speaker_last_name>Speck</Speaker_last_name>
+    <Speaker_email>r.speck@fz-juelich.de</Speaker_email>
+    <Speaker_company_name>Jülich Supercomputing Centre, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747195</SpeakID>
+    <Speaker_First_Name>Hyesoon</Speaker_First_Name>
+    <Speaker_last_name>Kim</Speaker_last_name>
+    <Speaker_email>hyesoon@cc.gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747244</SpeakID>
+    <Speaker_First_Name>George</Speaker_First_Name>
+    <Speaker_last_name>Bosilca</Speaker_last_name>
+    <Speaker_email>bosilca@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747244</SpeakID>
+    <Speaker_First_Name>George</Speaker_First_Name>
+    <Speaker_last_name>Bosilca</Speaker_last_name>
+    <Speaker_email>bosilca@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747261</SpeakID>
+    <Speaker_First_Name>Samar</Speaker_First_Name>
+    <Speaker_last_name>Aseeri</Speaker_last_name>
+    <Speaker_email>samar.aseeri@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747261</SpeakID>
+    <Speaker_First_Name>Samar</Speaker_First_Name>
+    <Speaker_last_name>Aseeri</Speaker_last_name>
+    <Speaker_email>samar.aseeri@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747426</SpeakID>
+    <Speaker_First_Name>Takahiro</Speaker_First_Name>
+    <Speaker_last_name>Katagiri</Speaker_last_name>
+    <Speaker_email>katagiri@cc.nagoya-u.ac.jp</Speaker_email>
+    <Speaker_company_name>Nagoya University, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747426</SpeakID>
+    <Speaker_First_Name>Takahiro</Speaker_First_Name>
+    <Speaker_last_name>Katagiri</Speaker_last_name>
+    <Speaker_email>katagiri@cc.nagoya-u.ac.jp</Speaker_email>
+    <Speaker_company_name>Nagoya University, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>747448</SpeakID>
+    <Speaker_First_Name>Long</Speaker_First_Name>
+    <Speaker_last_name>Qu</Speaker_last_name>
+    <Speaker_email>long.qu@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>748559</SpeakID>
+    <Speaker_First_Name>Serge</Speaker_First_Name>
+    <Speaker_last_name>Guillas</Speaker_last_name>
+    <Speaker_email>s.guillas@ucl.ac.uk</Speaker_email>
+    <Speaker_company_name>University College London, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>750626</SpeakID>
+    <Speaker_First_Name>Emanuel</Speaker_First_Name>
+    <Speaker_last_name>Rubensson</Speaker_last_name>
+    <Speaker_email>emanuel.rubensson@it.uu.se</Speaker_email>
+    <Speaker_company_name>Uppsala University, Sweden</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>750670</SpeakID>
+    <Speaker_First_Name>Adrian</Speaker_First_Name>
+    <Speaker_last_name>Pope</Speaker_last_name>
+    <Speaker_email>apope@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>751636</SpeakID>
+    <Speaker_First_Name>Tetsuya</Speaker_First_Name>
+    <Speaker_last_name>Hoshino</Speaker_last_name>
+    <Speaker_email> hoshino@cc.u-tokyo.ac.jp</Speaker_email>
+    <Speaker_company_name>University of Tokyo, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>751672</SpeakID>
+    <Speaker_First_Name>Xiaoying</Speaker_First_Name>
+    <Speaker_last_name>Dai</Speaker_last_name>
+    <Speaker_email>daixy@lsec.cc.ac.cn</Speaker_email>
+    <Speaker_company_name>Chinese Academy of Sciences, China</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>751676</SpeakID>
+    <Speaker_First_Name>Drew</Speaker_First_Name>
+    <Speaker_last_name>Kouri</Speaker_last_name>
+    <Speaker_email>dpkouri@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>752016</SpeakID>
+    <Speaker_First_Name>Karl</Speaker_First_Name>
+    <Speaker_last_name>Rupp</Speaker_last_name>
+    <Speaker_email>me@karlrupp.net</Speaker_email>
+    <Speaker_company_name>Technische Universität Wien, Austria</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>752091</SpeakID>
+    <Speaker_First_Name>Mark</Speaker_First_Name>
+    <Speaker_last_name>Gates</Speaker_last_name>
+    <Speaker_email>mgates3@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>752522</SpeakID>
+    <Speaker_First_Name>Johann</Speaker_First_Name>
+    <Speaker_last_name>Rudi</Speaker_last_name>
+    <Speaker_email>jrudi@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>752522</SpeakID>
+    <Speaker_First_Name>Johann</Speaker_First_Name>
+    <Speaker_last_name>Rudi</Speaker_last_name>
+    <Speaker_email>jrudi@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>752526</SpeakID>
+    <Speaker_First_Name>Tobin</Speaker_First_Name>
+    <Speaker_last_name>Isaac</Speaker_last_name>
+    <Speaker_email>tisaac@cc.gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>752767</SpeakID>
+    <Speaker_First_Name>Julien</Speaker_First_Name>
+    <Speaker_last_name>Langou</Speaker_last_name>
+    <Speaker_email>julien.langou@ucdenver.edu</Speaker_email>
+    <Speaker_company_name>University of Colorado, Denver, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>753207</SpeakID>
+    <Speaker_First_Name>Hemanth</Speaker_First_Name>
+    <Speaker_last_name>Kolla</Speaker_last_name>
+    <Speaker_email>hnkolla@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>755456</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Shapero</Speaker_last_name>
+    <Speaker_email>shapero@uw.edu</Speaker_email>
+    <Speaker_company_name>University of Washington, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>755869</SpeakID>
+    <Speaker_First_Name>Andrey</Speaker_First_Name>
+    <Speaker_last_name>Prokopenko</Speaker_last_name>
+    <Speaker_email>prokopenkoav@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>755875</SpeakID>
+    <Speaker_First_Name>Christian</Speaker_First_Name>
+    <Speaker_last_name>Trott</Speaker_last_name>
+    <Speaker_email>crtrott@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>758179</SpeakID>
+    <Speaker_First_Name>Karen</Speaker_First_Name>
+    <Speaker_last_name>Karavanic</Speaker_last_name>
+    <Speaker_email>karavan@pdx.edu</Speaker_email>
+    <Speaker_company_name>Portland State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>758179</SpeakID>
+    <Speaker_First_Name>Karen</Speaker_First_Name>
+    <Speaker_last_name>Karavanic</Speaker_last_name>
+    <Speaker_email>karavan@pdx.edu</Speaker_email>
+    <Speaker_company_name>Portland State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>758209</SpeakID>
+    <Speaker_First_Name>Ignacio</Speaker_First_Name>
+    <Speaker_last_name>Laguna</Speaker_last_name>
+    <Speaker_email>ilaguna@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>758295</SpeakID>
+    <Speaker_First_Name>Lukasz</Speaker_First_Name>
+    <Speaker_last_name>Ligowski</Speaker_last_name>
+    <Speaker_email>lligowski@nvidia.com</Speaker_email>
+    <Speaker_company_name>NVIDIA, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>758314</SpeakID>
+    <Speaker_First_Name>Jean-Sylvain</Speaker_First_Name>
+    <Speaker_last_name>Camier</Speaker_last_name>
+    <Speaker_email>camier1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>758470</SpeakID>
+    <Speaker_First_Name>Vijay</Speaker_First_Name>
+    <Speaker_last_name>Mahadevan</Speaker_last_name>
+    <Speaker_email>mahadevan@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>760022</SpeakID>
+    <Speaker_First_Name>Pieter</Speaker_First_Name>
+    <Speaker_last_name>Ghysels</Speaker_last_name>
+    <Speaker_email>pghysels@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>760197</SpeakID>
+    <Speaker_First_Name>Sarah</Speaker_First_Name>
+    <Speaker_last_name>Knepper</Speaker_last_name>
+    <Speaker_email>sarah.knepper@intel.com</Speaker_email>
+    <Speaker_company_name>Intel Corporation, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>760440</SpeakID>
+    <Speaker_First_Name>Roel</Speaker_First_Name>
+    <Speaker_last_name>Van Beeumen</Speaker_last_name>
+    <Speaker_email>rvanbeeumen@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>760440</SpeakID>
+    <Speaker_First_Name>Roel</Speaker_First_Name>
+    <Speaker_last_name>Van Beeumen</Speaker_last_name>
+    <Speaker_email>rvanbeeumen@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>761858</SpeakID>
+    <Speaker_First_Name>Abdullah</Speaker_First_Name>
+    <Speaker_last_name>Mueen</Speaker_last_name>
+    <Speaker_email>mueen@cs.unm.edu</Speaker_email>
+    <Speaker_company_name>University of New Mexico, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>762655</SpeakID>
+    <Speaker_First_Name>Tobias</Speaker_First_Name>
+    <Speaker_last_name>Weinzierl</Speaker_last_name>
+    <Speaker_email>tobias.weinzierl@durham.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Durham, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>762885</SpeakID>
+    <Speaker_First_Name>Volker</Speaker_First_Name>
+    <Speaker_last_name>Blum</Speaker_last_name>
+    <Speaker_email>volker.blum@duke.edu</Speaker_email>
+    <Speaker_company_name>Duke University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>762908</SpeakID>
+    <Speaker_First_Name>Anshu</Speaker_First_Name>
+    <Speaker_last_name>Dubey</Speaker_last_name>
+    <Speaker_email>adubey@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>762908</SpeakID>
+    <Speaker_First_Name>Anshu</Speaker_First_Name>
+    <Speaker_last_name>Dubey</Speaker_last_name>
+    <Speaker_email>adubey@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763015</SpeakID>
+    <Speaker_First_Name>Andy</Speaker_First_Name>
+    <Speaker_last_name>Sun</Speaker_last_name>
+    <Speaker_email>andy.sun@isye.gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763099</SpeakID>
+    <Speaker_First_Name>Edward</Speaker_First_Name>
+    <Speaker_last_name>Valeev</Speaker_last_name>
+    <Speaker_email>efv@vt.edu</Speaker_email>
+    <Speaker_company_name>Virginia Tech, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763168</SpeakID>
+    <Speaker_First_Name>Lars</Speaker_First_Name>
+    <Speaker_last_name>Ruthotto</Speaker_last_name>
+    <Speaker_email>lruthotto@emory.edu</Speaker_email>
+    <Speaker_company_name>Emory University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763182</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Gardner</Speaker_last_name>
+    <Speaker_email>gardner48@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763182</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Gardner</Speaker_last_name>
+    <Speaker_email>gardner48@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763345</SpeakID>
+    <Speaker_First_Name>Gerrett</Speaker_First_Name>
+    <Speaker_last_name>Diamond</Speaker_last_name>
+    <Speaker_email>diamog2@rpi.edu</Speaker_email>
+    <Speaker_company_name>Rensselaer Polytechnic Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763792</SpeakID>
+    <Speaker_First_Name>Oliver</Speaker_First_Name>
+    <Speaker_last_name>Rheinbach</Speaker_last_name>
+    <Speaker_email>oliver.rheinbach@math.tu-freiberg.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Bergakademie Freiberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763792</SpeakID>
+    <Speaker_First_Name>Oliver</Speaker_First_Name>
+    <Speaker_last_name>Rheinbach</Speaker_last_name>
+    <Speaker_email>oliver.rheinbach@math.tu-freiberg.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Bergakademie Freiberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763842</SpeakID>
+    <Speaker_First_Name>Cédric</Speaker_First_Name>
+    <Speaker_last_name>Chevalier</Speaker_last_name>
+    <Speaker_email>cedric.chevalier@cea.fr</Speaker_email>
+    <Speaker_company_name>CEA/DAM, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>763986</SpeakID>
+    <Speaker_First_Name>Hartwig</Speaker_First_Name>
+    <Speaker_last_name>Anzt</Speaker_last_name>
+    <Speaker_email>hanzt@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>765346</SpeakID>
+    <Speaker_First_Name>Nicholas</Speaker_First_Name>
+    <Speaker_last_name>Higham</Speaker_last_name>
+    <Speaker_email>nick.higham@manchester.ac.uk</Speaker_email>
+    <Speaker_company_name>The University of Manchester, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>765680</SpeakID>
+    <Speaker_First_Name>Anne </Speaker_First_Name>
+    <Speaker_last_name>Reinarz</Speaker_last_name>
+    <Speaker_email>anne.k.reinarz@durham.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Durham, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>767223</SpeakID>
+    <Speaker_First_Name>Edgar</Speaker_First_Name>
+    <Speaker_last_name>Solomonik</Speaker_last_name>
+    <Speaker_email> solomon2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>767248</SpeakID>
+    <Speaker_First_Name>Cevdet</Speaker_First_Name>
+    <Speaker_last_name>Aykanat</Speaker_last_name>
+    <Speaker_email>aykanat@cs.bilkent.edu.tr</Speaker_email>
+    <Speaker_company_name>Bilkent University, Turkey</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>768136</SpeakID>
+    <Speaker_First_Name>Takeshi</Speaker_First_Name>
+    <Speaker_last_name>Iwashita</Speaker_last_name>
+    <Speaker_email>iwashita@iic.hokudai.ac.jp</Speaker_email>
+    <Speaker_company_name>Hokkaido University, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>768190</SpeakID>
+    <Speaker_First_Name>Stefano</Speaker_First_Name>
+    <Speaker_last_name>Zampini</Speaker_last_name>
+    <Speaker_email>stefano.zampini@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>768192</SpeakID>
+    <Speaker_First_Name>Pierre</Speaker_First_Name>
+    <Speaker_last_name>Jolivet</Speaker_last_name>
+    <Speaker_email>pierre.jolivet@enseeiht.fr</Speaker_email>
+    <Speaker_company_name>CNRS, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>768277</SpeakID>
+    <Speaker_First_Name>Tapasya</Speaker_First_Name>
+    <Speaker_last_name>Patki</Speaker_last_name>
+    <Speaker_email>patki1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>768555</SpeakID>
+    <Speaker_First_Name>Christian</Speaker_First_Name>
+    <Speaker_last_name>Glusa</Speaker_last_name>
+    <Speaker_email>caglusa@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>769018</SpeakID>
+    <Speaker_First_Name>Sudipto</Speaker_First_Name>
+    <Speaker_last_name>Banerjee</Speaker_last_name>
+    <Speaker_email>sudipto@ucla.edu</Speaker_email>
+    <Speaker_company_name>University of California, Los Angeles, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>769510</SpeakID>
+    <Speaker_First_Name>Patrick</Speaker_First_Name>
+    <Speaker_last_name>Zulian</Speaker_last_name>
+    <Speaker_email>patrick.zulian@usi.ch</Speaker_email>
+    <Speaker_company_name>Università della Svizzera italiana, Switzerland </Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>769511</SpeakID>
+    <Speaker_First_Name>Pietro</Speaker_First_Name>
+    <Speaker_last_name>Benedusi</Speaker_last_name>
+    <Speaker_email>pietro.benedusi@usi.ch</Speaker_email>
+    <Speaker_company_name>Università della Svizzera italiana, Switzerland </Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>769524</SpeakID>
+    <Speaker_First_Name>George </Speaker_First_Name>
+    <Speaker_last_name>Turkiyyah</Speaker_last_name>
+    <Speaker_email>George.Turkiyyah@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>770730</SpeakID>
+    <Speaker_First_Name>Juraj</Speaker_First_Name>
+    <Speaker_last_name>Kardoš</Speaker_last_name>
+    <Speaker_email>juraj.kardos@usi.ch</Speaker_email>
+    <Speaker_company_name>Università della Svizzera italiana, Switzerland </Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>770972</SpeakID>
+    <Speaker_First_Name>Ruipeng</Speaker_First_Name>
+    <Speaker_last_name>Li</Speaker_last_name>
+    <Speaker_email>li50@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>771753</SpeakID>
+    <Speaker_First_Name>Ramakrishnan</Speaker_First_Name>
+    <Speaker_last_name>Kannan</Speaker_last_name>
+    <Speaker_email>kannanr@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>771959</SpeakID>
+    <Speaker_First_Name>Pedro</Speaker_First_Name>
+    <Speaker_last_name>Valero-Lara</Speaker_last_name>
+    <Speaker_email>valerolarap@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>771959</SpeakID>
+    <Speaker_First_Name>Pedro</Speaker_First_Name>
+    <Speaker_last_name>Valero-Lara</Speaker_last_name>
+    <Speaker_email>valerolarap@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>772169</SpeakID>
+    <Speaker_First_Name>Sriramkrishnan</Speaker_First_Name>
+    <Speaker_last_name>Muralikrishnan</Speaker_last_name>
+    <Speaker_email>sriramkrishnan.muralikrishnan@psi.ch</Speaker_email>
+    <Speaker_company_name>Paul Scherrer Institut, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>773150</SpeakID>
+    <Speaker_First_Name>Ahmad</Speaker_First_Name>
+    <Speaker_last_name>Abdelfattah</Speaker_last_name>
+    <Speaker_email>ahmad@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>773756</SpeakID>
+    <Speaker_First_Name>Shelby</Speaker_First_Name>
+    <Speaker_last_name>Lockhart</Speaker_last_name>
+    <Speaker_email>sll2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>773756</SpeakID>
+    <Speaker_First_Name>Shelby</Speaker_First_Name>
+    <Speaker_last_name>Lockhart</Speaker_last_name>
+    <Speaker_email>sll2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>774576</SpeakID>
+    <Speaker_First_Name>Martin</Speaker_First_Name>
+    <Speaker_last_name>Lanser</Speaker_last_name>
+    <Speaker_email>martin.lanser@uni-koeln.de</Speaker_email>
+    <Speaker_company_name>Universität zu Köln, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>774576</SpeakID>
+    <Speaker_First_Name>Martin</Speaker_First_Name>
+    <Speaker_last_name>Lanser</Speaker_last_name>
+    <Speaker_email>martin.lanser@uni-koeln.de</Speaker_email>
+    <Speaker_company_name>Universität zu Köln, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>774696</SpeakID>
+    <Speaker_First_Name>Ewa</Speaker_First_Name>
+    <Speaker_last_name>Deelman</Speaker_last_name>
+    <Speaker_email>deelman@isi.edu</Speaker_email>
+    <Speaker_company_name>University of Southern California, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>774784</SpeakID>
+    <Speaker_First_Name>Suzanne</Speaker_First_Name>
+    <Speaker_last_name>Shontz</Speaker_last_name>
+    <Speaker_email>shontz@ku.edu</Speaker_email>
+    <Speaker_company_name>University of Kansas, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>774866</SpeakID>
+    <Speaker_First_Name>Will</Speaker_First_Name>
+    <Speaker_last_name>Pazner</Speaker_last_name>
+    <Speaker_email>pazner1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>775268</SpeakID>
+    <Speaker_First_Name>Slaven</Speaker_First_Name>
+    <Speaker_last_name>Peles</Speaker_last_name>
+    <Speaker_email>slaven.peles@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>775808</SpeakID>
+    <Speaker_First_Name>Jennifer</Speaker_First_Name>
+    <Speaker_last_name>Loe</Speaker_last_name>
+    <Speaker_email>jloe@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>779008</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Katz</Speaker_last_name>
+    <Speaker_email>d.katz@ieee.org</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>779499</SpeakID>
+    <Speaker_First_Name>Kibaek</Speaker_First_Name>
+    <Speaker_last_name>Kim</Speaker_last_name>
+    <Speaker_email>kimk@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780186</SpeakID>
+    <Speaker_First_Name>Ronald</Speaker_First_Name>
+    <Speaker_last_name>Kriemann</Speaker_last_name>
+    <Speaker_email>rok@mis.mpg.de</Speaker_email>
+    <Speaker_company_name>Max Planck Institute for Mathematics in the Sciences, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780186</SpeakID>
+    <Speaker_First_Name>Ronald</Speaker_First_Name>
+    <Speaker_last_name>Kriemann</Speaker_last_name>
+    <Speaker_email>rok@mis.mpg.de</Speaker_email>
+    <Speaker_company_name>Max Planck Institute for Mathematics in the Sciences, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780194</SpeakID>
+    <Speaker_First_Name>Yang</Speaker_First_Name>
+    <Speaker_last_name>Liu</Speaker_last_name>
+    <Speaker_email>liuyangzhuan@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780223</SpeakID>
+    <Speaker_First_Name>Mitsuhisa</Speaker_First_Name>
+    <Speaker_last_name>Sato</Speaker_last_name>
+    <Speaker_email>msato@riken.jp</Speaker_email>
+    <Speaker_company_name>RIKEN Advanced Institute for Computational Science, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780246</SpeakID>
+    <Speaker_First_Name>Edward</Speaker_First_Name>
+    <Speaker_last_name>Hutter</Speaker_last_name>
+    <Speaker_email>hutter2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780272</SpeakID>
+    <Speaker_First_Name>Tze Meng</Speaker_First_Name>
+    <Speaker_last_name>Low</Speaker_last_name>
+    <Speaker_email>lowt@andrew.cmu.edu</Speaker_email>
+    <Speaker_company_name>Carnegie Mellon University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780304</SpeakID>
+    <Speaker_First_Name>Oded</Speaker_First_Name>
+    <Speaker_last_name>Green</Speaker_last_name>
+    <Speaker_email>ogreen@gatech.edu</Speaker_email>
+    <Speaker_company_name>NVIDIA and Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780304</SpeakID>
+    <Speaker_First_Name>Oded</Speaker_First_Name>
+    <Speaker_last_name>Green</Speaker_last_name>
+    <Speaker_email>ogreen@gatech.edu</Speaker_email>
+    <Speaker_company_name>NVIDIA and Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780337</SpeakID>
+    <Speaker_First_Name>Stephanie</Speaker_First_Name>
+    <Speaker_last_name>Friedhoff</Speaker_last_name>
+    <Speaker_email>friedhoff@uni-wuppertal.de</Speaker_email>
+    <Speaker_company_name>Universit&amp;auml;t Wuppertal, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780364</SpeakID>
+    <Speaker_First_Name>Taisuke</Speaker_First_Name>
+    <Speaker_last_name>Boku</Speaker_last_name>
+    <Speaker_email>taisuke@cs.tsukuba.ac.jp</Speaker_email>
+    <Speaker_company_name>University of Tsukuba, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780404</SpeakID>
+    <Speaker_First_Name>Nils</Speaker_First_Name>
+    <Speaker_last_name>Kohl</Speaker_last_name>
+    <Speaker_email>nils.kohl@fau.de</Speaker_email>
+    <Speaker_company_name>University of Erlangen-Nuremberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780431</SpeakID>
+    <Speaker_First_Name>Luc</Speaker_First_Name>
+    <Speaker_last_name>Berger-Vergiat</Speaker_last_name>
+    <Speaker_email>lberge@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780470</SpeakID>
+    <Speaker_First_Name>Aurélien</Speaker_First_Name>
+    <Speaker_last_name>Bouteiller</Speaker_last_name>
+    <Speaker_email>bouteill@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780566</SpeakID>
+    <Speaker_First_Name>Abdurrahman</Speaker_First_Name>
+    <Speaker_last_name>Yasar</Speaker_last_name>
+    <Speaker_email>ayasar@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780569</SpeakID>
+    <Speaker_First_Name>Clayton</Speaker_First_Name>
+    <Speaker_last_name>Hughes</Speaker_last_name>
+    <Speaker_email>chughes@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780578</SpeakID>
+    <Speaker_First_Name>Jerry</Speaker_First_Name>
+    <Speaker_last_name>Watkins</Speaker_last_name>
+    <Speaker_email>jwatkin@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>780888</SpeakID>
+    <Speaker_First_Name>Kim</Speaker_First_Name>
+    <Speaker_last_name>Liegeois</Speaker_last_name>
+    <Speaker_email>kim.liegeois@ulg.ac.be</Speaker_email>
+    <Speaker_company_name>Université de Liège, Belgium</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>781066</SpeakID>
+    <Speaker_First_Name>Nikolaus</Speaker_First_Name>
+    <Speaker_last_name>Adams</Speaker_last_name>
+    <Speaker_email>nikolaus.adams@tum.de</Speaker_email>
+    <Speaker_company_name>Technische Universitaet Muenchen, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>781263</SpeakID>
+    <Speaker_First_Name>Linus</Speaker_First_Name>
+    <Speaker_last_name>Seelinger</Speaker_last_name>
+    <Speaker_email>mail@linusseelinger.de</Speaker_email>
+    <Speaker_company_name>Universität Heidelberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>781788</SpeakID>
+    <Speaker_First_Name>Henning</Speaker_First_Name>
+    <Speaker_last_name>Meyerhenke</Speaker_last_name>
+    <Speaker_email>meyerhenke@hu-berlin.de</Speaker_email>
+    <Speaker_company_name>Humboldt University Berlin, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>781788</SpeakID>
+    <Speaker_First_Name>Henning</Speaker_First_Name>
+    <Speaker_last_name>Meyerhenke</Speaker_last_name>
+    <Speaker_email>meyerhenke@hu-berlin.de</Speaker_email>
+    <Speaker_company_name>Humboldt University Berlin, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>781837</SpeakID>
+    <Speaker_First_Name>Yun Teck</Speaker_First_Name>
+    <Speaker_last_name>Lee</Speaker_last_name>
+    <Speaker_email>leeyunt@isu.edu</Speaker_email>
+    <Speaker_company_name>Idaho State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>781852</SpeakID>
+    <Speaker_First_Name>Ruth</Speaker_First_Name>
+    <Speaker_last_name>Schöbel</Speaker_last_name>
+    <Speaker_email>r.schoebel@fz-juelich.de</Speaker_email>
+    <Speaker_company_name>Juelich Aachen Research Alliance, Forschungszentrum Juelich, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>782527</SpeakID>
+    <Speaker_First_Name>Darby</Speaker_First_Name>
+    <Speaker_last_name>Smith</Speaker_last_name>
+    <Speaker_email>jsmit16@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>782527</SpeakID>
+    <Speaker_First_Name>Darby</Speaker_First_Name>
+    <Speaker_last_name>Smith</Speaker_last_name>
+    <Speaker_email>jsmit16@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>782736</SpeakID>
+    <Speaker_First_Name>S M</Speaker_First_Name>
+    <Speaker_last_name>Ferdous</Speaker_last_name>
+    <Speaker_email>sferdou@purdue.edu</Speaker_email>
+    <Speaker_company_name>Purdue University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>782760</SpeakID>
+    <Speaker_First_Name>Oana</Speaker_First_Name>
+    <Speaker_last_name>Marin</Speaker_last_name>
+    <Speaker_email>oanam@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783179</SpeakID>
+    <Speaker_First_Name>Junchao</Speaker_First_Name>
+    <Speaker_last_name>Zhang</Speaker_last_name>
+    <Speaker_email>jczhang@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783325</SpeakID>
+    <Speaker_First_Name>Charlie</Speaker_First_Name>
+    <Speaker_last_name>Vanaret</Speaker_last_name>
+    <Speaker_email>vanaret@math.tu-berlin.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Berlin, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783663</SpeakID>
+    <Speaker_First_Name>Jeremy</Speaker_First_Name>
+    <Speaker_last_name>Thompson</Speaker_last_name>
+    <Speaker_email>jeremy.thompson@colorado.edu</Speaker_email>
+    <Speaker_company_name>University of Colorado Boulder, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783678</SpeakID>
+    <Speaker_First_Name>Aryan</Speaker_First_Name>
+    <Speaker_last_name>Eftekhari</Speaker_last_name>
+    <Speaker_email>aryan.eftekhari@gmail.com</Speaker_email>
+    <Speaker_company_name>Università della Svizzera italiana, Switzerland </Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>784882</SpeakID>
+    <Speaker_First_Name>Cody</Speaker_First_Name>
+    <Speaker_last_name>Balos</Speaker_last_name>
+    <Speaker_email>balos1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>784885</SpeakID>
+    <Speaker_First_Name>Oliver</Speaker_First_Name>
+    <Speaker_last_name>Krzysik</Speaker_last_name>
+    <Speaker_email>oliver.krzysik@monash.edu</Speaker_email>
+    <Speaker_company_name>University of Waterloo, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>784887</SpeakID>
+    <Speaker_First_Name>Federico</Speaker_First_Name>
+    <Speaker_last_name>Danieli</Speaker_last_name>
+    <Speaker_email>federico.danieli@trinity.ox.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Oxford, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>784892</SpeakID>
+    <Speaker_First_Name>Michela</Speaker_First_Name>
+    <Speaker_last_name>Taufer</Speaker_last_name>
+    <Speaker_email>taufer@utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>784892</SpeakID>
+    <Speaker_First_Name>Michela</Speaker_First_Name>
+    <Speaker_last_name>Taufer</Speaker_last_name>
+    <Speaker_email>taufer@utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>784918</SpeakID>
+    <Speaker_First_Name>Rachel</Speaker_First_Name>
+    <Speaker_last_name>Minster</Speaker_last_name>
+    <Speaker_email>minsterr@wfu.edu</Speaker_email>
+    <Speaker_company_name>Wake Forest University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785013</SpeakID>
+    <Speaker_First_Name>Kaushik</Speaker_First_Name>
+    <Speaker_last_name>Kulkarni</Speaker_last_name>
+    <Speaker_email>kgk2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785016</SpeakID>
+    <Speaker_First_Name>Andrew</Speaker_First_Name>
+    <Speaker_last_name>Lumsdaine</Speaker_last_name>
+    <Speaker_email>al75@uw.edu</Speaker_email>
+    <Speaker_company_name>University of Washington, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785023</SpeakID>
+    <Speaker_First_Name>Katarzyna</Speaker_First_Name>
+    <Speaker_last_name>Swirydowicz</Speaker_last_name>
+    <Speaker_email>kasia.swirydowicz@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785392</SpeakID>
+    <Speaker_First_Name>Lawrence</Speaker_First_Name>
+    <Speaker_last_name>Mitchell</Speaker_last_name>
+    <Speaker_email>lawrence.mitchell@durham.ac.uk</Speaker_email>
+    <Speaker_company_name>Durham University, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785429</SpeakID>
+    <Speaker_First_Name>Nesreen</Speaker_First_Name>
+    <Speaker_last_name>Ahmed</Speaker_last_name>
+    <Speaker_email>nesreen.k.ahmed@intel.com</Speaker_email>
+    <Speaker_company_name>Intel Labs, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785470</SpeakID>
+    <Speaker_First_Name>Devangi</Speaker_First_Name>
+    <Speaker_last_name>Parikh</Speaker_last_name>
+    <Speaker_email>devangi.parikh@utexas.edu</Speaker_email>
+    <Speaker_company_name>University of Texas at Austin, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785504</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Williams-Young</Speaker_last_name>
+    <Speaker_email>dbwy@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785504</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Williams-Young</Speaker_last_name>
+    <Speaker_email>dbwy@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785662</SpeakID>
+    <Speaker_First_Name>Andrew</Speaker_First_Name>
+    <Speaker_last_name>Myers</Speaker_last_name>
+    <Speaker_email>atmyers@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785706</SpeakID>
+    <Speaker_First_Name>Rémi</Speaker_First_Name>
+    <Speaker_last_name>Lehe</Speaker_last_name>
+    <Speaker_email>rlehe@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785746</SpeakID>
+    <Speaker_First_Name>Don</Speaker_First_Name>
+    <Speaker_last_name>Willcox</Speaker_last_name>
+    <Speaker_email>dewillcox@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>785798</SpeakID>
+    <Speaker_First_Name>Quan</Speaker_First_Name>
+    <Speaker_last_name>Bui</Speaker_last_name>
+    <Speaker_email>bui9@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>786005</SpeakID>
+    <Speaker_First_Name>Joshua</Speaker_First_Name>
+    <Speaker_last_name>Finkelstein</Speaker_last_name>
+    <Speaker_email>jdf@lanl.gov</Speaker_email>
+    <Speaker_company_name>Los Alamos National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>786064</SpeakID>
+    <Speaker_First_Name>Kevin</Speaker_First_Name>
+    <Speaker_last_name>Gott</Speaker_last_name>
+    <Speaker_email>kngott@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>786124</SpeakID>
+    <Speaker_First_Name>Viktoria</Speaker_First_Name>
+    <Speaker_last_name>Mayer</Speaker_last_name>
+    <Speaker_email>viktoria.mayer@univie.ac.at</Speaker_email>
+    <Speaker_company_name>University of Vienna, Austria</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>786170</SpeakID>
+    <Speaker_First_Name>Kurt</Speaker_First_Name>
+    <Speaker_last_name>Ferreira</Speaker_last_name>
+    <Speaker_email>kbferre@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>788597</SpeakID>
+    <Speaker_First_Name>Filip</Speaker_First_Name>
+    <Speaker_last_name>Pawlowski</Speaker_last_name>
+    <Speaker_email>filip.igor.pawlowski@huawei.com</Speaker_email>
+    <Speaker_company_name>Huawei Technologies Switzerland AG, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789345</SpeakID>
+    <Speaker_First_Name>Chunxing</Speaker_First_Name>
+    <Speaker_last_name>Yin</Speaker_last_name>
+    <Speaker_email>cyin9@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789629</SpeakID>
+    <Speaker_First_Name>Andrew</Speaker_First_Name>
+    <Speaker_last_name>Giuliani</Speaker_last_name>
+    <Speaker_email>giuliani@cims.nyu.edu</Speaker_email>
+    <Speaker_company_name>Courant Institute of Mathematical Sciences, New York University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789947</SpeakID>
+    <Speaker_First_Name>Mantas</Speaker_First_Name>
+    <Speaker_last_name>Mikaitis</Speaker_last_name>
+    <Speaker_email>mantas.mikaitis@manchester.ac.uk</Speaker_email>
+    <Speaker_company_name>The University of Manchester, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789947</SpeakID>
+    <Speaker_First_Name>Mantas</Speaker_First_Name>
+    <Speaker_last_name>Mikaitis</Speaker_last_name>
+    <Speaker_email>mantas.mikaitis@manchester.ac.uk</Speaker_email>
+    <Speaker_company_name>The University of Manchester, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789960</SpeakID>
+    <Speaker_First_Name>Serge</Speaker_First_Name>
+    <Speaker_last_name>Petiton</Speaker_last_name>
+    <Speaker_email>serge.petiton@univ-lille.fr</Speaker_email>
+    <Speaker_company_name>Université Lille 1 and CNRS, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789960</SpeakID>
+    <Speaker_First_Name>Serge</Speaker_First_Name>
+    <Speaker_last_name>Petiton</Speaker_last_name>
+    <Speaker_email>serge.petiton@univ-lille.fr</Speaker_email>
+    <Speaker_company_name>Université Lille 1 and CNRS, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789988</SpeakID>
+    <Speaker_First_Name>Bethany</Speaker_First_Name>
+    <Speaker_last_name>Lusch</Speaker_last_name>
+    <Speaker_email>blusch@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>789995</SpeakID>
+    <Speaker_First_Name>Neil</Speaker_First_Name>
+    <Speaker_last_name>Lindquist</Speaker_last_name>
+    <Speaker_email>nlindqu1@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790005</SpeakID>
+    <Speaker_First_Name>Ichitaro</Speaker_First_Name>
+    <Speaker_last_name>Yamazaki</Speaker_last_name>
+    <Speaker_email>iyamaza@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790005</SpeakID>
+    <Speaker_First_Name>Ichitaro</Speaker_First_Name>
+    <Speaker_last_name>Yamazaki</Speaker_last_name>
+    <Speaker_email>iyamaza@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790016</SpeakID>
+    <Speaker_First_Name>Gene</Speaker_First_Name>
+    <Speaker_last_name>Cooperman</Speaker_last_name>
+    <Speaker_email>gene@ccs.neu.edu</Speaker_email>
+    <Speaker_company_name>Northeastern University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790026</SpeakID>
+    <Speaker_First_Name>Wayne</Speaker_First_Name>
+    <Speaker_last_name>Arter</Speaker_last_name>
+    <Speaker_email>wayne.arter@ukaea.uk</Speaker_email>
+    <Speaker_company_name>UK Atomic Energy Authority, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790026</SpeakID>
+    <Speaker_First_Name>Wayne</Speaker_First_Name>
+    <Speaker_last_name>Arter</Speaker_last_name>
+    <Speaker_email>wayne.arter@ukaea.uk</Speaker_email>
+    <Speaker_company_name>UK Atomic Energy Authority, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790027</SpeakID>
+    <Speaker_First_Name>Philipp</Speaker_First_Name>
+    <Speaker_last_name>Neumann</Speaker_last_name>
+    <Speaker_email>philipp.neumann@hsu-hh.de</Speaker_email>
+    <Speaker_company_name>Helmut Schmidt University, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790036</SpeakID>
+    <Speaker_First_Name>Yu-hsuan</Speaker_First_Name>
+    <Speaker_last_name>Shih</Speaker_last_name>
+    <Speaker_email>shihyh@cims.nyu.edu</Speaker_email>
+    <Speaker_company_name>Courant Institute of Mathematical Sciences, New York University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790068</SpeakID>
+    <Speaker_First_Name>Samah</Speaker_First_Name>
+    <Speaker_last_name>Karim</Speaker_last_name>
+    <Speaker_email>swkarim2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790070</SpeakID>
+    <Speaker_First_Name>Piyush</Speaker_First_Name>
+    <Speaker_last_name>Sao</Speaker_last_name>
+    <Speaker_email>saopk@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790096</SpeakID>
+    <Speaker_First_Name>Joseph</Speaker_First_Name>
+    <Speaker_last_name>Pusztay</Speaker_last_name>
+    <Speaker_email>josephpu@buffalo.edu</Speaker_email>
+    <Speaker_company_name>State University of New York at Buffalo, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790097</SpeakID>
+    <Speaker_First_Name>William</Speaker_First_Name>
+    <Speaker_last_name>Weens</Speaker_last_name>
+    <Speaker_email>william.weens@protonmail.com</Speaker_email>
+    <Speaker_company_name>CEA, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790102</SpeakID>
+    <Speaker_First_Name>Ron</Speaker_First_Name>
+    <Speaker_last_name>Gonzales</Speaker_last_name>
+    <Speaker_email>gonzrona@isu.edu</Speaker_email>
+    <Speaker_company_name>Idaho State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790102</SpeakID>
+    <Speaker_First_Name>Ron</Speaker_First_Name>
+    <Speaker_last_name>Gonzales</Speaker_last_name>
+    <Speaker_email>gonzrona@isu.edu</Speaker_email>
+    <Speaker_company_name>Idaho State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790109</SpeakID>
+    <Speaker_First_Name>Linjian</Speaker_First_Name>
+    <Speaker_last_name>Ma</Speaker_last_name>
+    <Speaker_email>lma16@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790117</SpeakID>
+    <Speaker_First_Name>Qinglei</Speaker_First_Name>
+    <Speaker_last_name>Cao</Speaker_last_name>
+    <Speaker_email>qcao3@vols.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790132</SpeakID>
+    <Speaker_First_Name>Steffen</Speaker_First_Name>
+    <Speaker_last_name>Börm</Speaker_last_name>
+    <Speaker_email>boerm@math.uni-kiel.de</Speaker_email>
+    <Speaker_company_name>University of Kiel, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790143</SpeakID>
+    <Speaker_First_Name>Kristian Gregorius</Speaker_First_Name>
+    <Speaker_last_name>Hustad</Speaker_last_name>
+    <Speaker_email>kghustad@simula.no</Speaker_email>
+    <Speaker_company_name>Simula Research Laboratory, Norway</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790151</SpeakID>
+    <Speaker_First_Name>Victor</Speaker_First_Name>
+    <Speaker_last_name>Paludetto Magri</Speaker_last_name>
+    <Speaker_email>paludettomag1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790176</SpeakID>
+    <Speaker_First_Name>Navjot</Speaker_First_Name>
+    <Speaker_last_name>Singh</Speaker_last_name>
+    <Speaker_email>navjot2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790179</SpeakID>
+    <Speaker_First_Name>Matthew</Speaker_First_Name>
+    <Speaker_last_name>Whitlock</Speaker_last_name>
+    <Speaker_email>mwhitlo@sandia.gov</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790183</SpeakID>
+    <Speaker_First_Name>Jeremy</Speaker_First_Name>
+    <Speaker_last_name>Myers</Speaker_last_name>
+    <Speaker_email>jmmyers01@email.wm.edu</Speaker_email>
+    <Speaker_company_name>College of William &amp; Mary, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790183</SpeakID>
+    <Speaker_First_Name>Jeremy</Speaker_First_Name>
+    <Speaker_last_name>Myers</Speaker_last_name>
+    <Speaker_email>jmmyers01@email.wm.edu</Speaker_email>
+    <Speaker_company_name>College of William &amp; Mary, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790203</SpeakID>
+    <Speaker_First_Name>Sivasankaran</Speaker_First_Name>
+    <Speaker_last_name>Rajamanickam</Speaker_last_name>
+    <Speaker_email>srajama@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790203</SpeakID>
+    <Speaker_First_Name>Sivasankaran</Speaker_First_Name>
+    <Speaker_last_name>Rajamanickam</Speaker_last_name>
+    <Speaker_email>srajama@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790204</SpeakID>
+    <Speaker_First_Name>Mohammad</Speaker_First_Name>
+    <Speaker_last_name>Islam</Speaker_last_name>
+    <Speaker_email>moislam@mit.edu</Speaker_email>
+    <Speaker_company_name>Massachusetts Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790204</SpeakID>
+    <Speaker_First_Name>Mohammad</Speaker_First_Name>
+    <Speaker_last_name>Islam</Speaker_last_name>
+    <Speaker_email>moislam@mit.edu</Speaker_email>
+    <Speaker_company_name>Massachusetts Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790206</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Knapp</Speaker_last_name>
+    <Speaker_email>david.knapp@dlr.de</Speaker_email>
+    <Speaker_company_name>Deutsches Zentrum fuer Luft- und Raumfahrt, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790221</SpeakID>
+    <Speaker_First_Name>Ang</Speaker_First_Name>
+    <Speaker_last_name>Li</Speaker_last_name>
+    <Speaker_email>ang.li@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790232</SpeakID>
+    <Speaker_First_Name>Kevin </Speaker_First_Name>
+    <Speaker_last_name>Green</Speaker_last_name>
+    <Speaker_email>kevin.green@usask.ca</Speaker_email>
+    <Speaker_company_name>University of Saskatchewan, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790274</SpeakID>
+    <Speaker_First_Name>Franz</Speaker_First_Name>
+    <Speaker_last_name>Poeschel</Speaker_last_name>
+    <Speaker_email>f.poeschel@hzdr.de</Speaker_email>
+    <Speaker_company_name>Helmholtz-Center Dresden-Rossendorf, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790276</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Bussmann</Speaker_last_name>
+    <Speaker_email>m.bussmann@hzdr.de</Speaker_email>
+    <Speaker_company_name>Helmholtz-Center Dresden-Rossendorf, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790290</SpeakID>
+    <Speaker_First_Name>Hatem</Speaker_First_Name>
+    <Speaker_last_name>Ltaief</Speaker_last_name>
+    <Speaker_email>hatem.ltaief@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790350</SpeakID>
+    <Speaker_First_Name>Jean-Michel</Speaker_First_Name>
+    <Speaker_last_name>Muller</Speaker_last_name>
+    <Speaker_email>jean-michel.muller@ens-lyon.fr</Speaker_email>
+    <Speaker_company_name>CNRS, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790440</SpeakID>
+    <Speaker_First_Name>Arindam</Speaker_First_Name>
+    <Speaker_last_name>Fadikar</Speaker_last_name>
+    <Speaker_email>afadikar@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>790678</SpeakID>
+    <Speaker_First_Name>Kasimir</Speaker_First_Name>
+    <Speaker_last_name>Gabert</Speaker_last_name>
+    <Speaker_email>kasimir@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>791219</SpeakID>
+    <Speaker_First_Name>Sandeep</Speaker_First_Name>
+    <Speaker_last_name>Madireddy</Speaker_last_name>
+    <Speaker_email>smadireddy@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>791468</SpeakID>
+    <Speaker_First_Name>Prasanna</Speaker_First_Name>
+    <Speaker_last_name>Balaprakash</Speaker_last_name>
+    <Speaker_email>pbalapra@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>791858</SpeakID>
+    <Speaker_First_Name>Peter</Speaker_First_Name>
+    <Speaker_last_name>Noble</Speaker_last_name>
+    <Speaker_email>peter.j.noble@durham.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Durham, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>792288</SpeakID>
+    <Speaker_First_Name>Tobias</Speaker_First_Name>
+    <Speaker_last_name>Ribizel</Speaker_last_name>
+    <Speaker_email>tobias.ribizel@kit.edu</Speaker_email>
+    <Speaker_company_name>Karlsruhe Institute of Technology, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>792440</SpeakID>
+    <Speaker_First_Name>Robert</Speaker_First_Name>
+    <Speaker_last_name>Ernstbrunner</Speaker_last_name>
+    <Speaker_email>robert.ernstbrunner@univie.ac.at</Speaker_email>
+    <Speaker_company_name>University of Vienna, Austria</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>793097</SpeakID>
+    <Speaker_First_Name>Ben</Speaker_First_Name>
+    <Speaker_last_name>Whitney</Speaker_last_name>
+    <Speaker_email>whitneybe@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>793413</SpeakID>
+    <Speaker_First_Name>Holger</Speaker_First_Name>
+    <Speaker_last_name>Schulz</Speaker_last_name>
+    <Speaker_email>holger.schulz@durham.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Durham, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>794833</SpeakID>
+    <Speaker_First_Name>Sameh</Speaker_First_Name>
+    <Speaker_last_name>Abdulah</Speaker_last_name>
+    <Speaker_email>sameh.abdulah@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>794833</SpeakID>
+    <Speaker_First_Name>Sameh</Speaker_First_Name>
+    <Speaker_last_name>Abdulah</Speaker_last_name>
+    <Speaker_email>sameh.abdulah@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>794954</SpeakID>
+    <Speaker_First_Name>Theo</Speaker_First_Name>
+    <Speaker_last_name>Mary</Speaker_last_name>
+    <Speaker_email>theo.mary@lip6.fr</Speaker_email>
+    <Speaker_company_name>Sorbonne Universités and CNRS, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>794956</SpeakID>
+    <Speaker_First_Name>Bastien</Speaker_First_Name>
+    <Speaker_last_name>Vieublé</Speaker_last_name>
+    <Speaker_email>bastien.vieuble@irit.fr</Speaker_email>
+    <Speaker_company_name>IRIT, Universite de Toulouse, CNRS, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795067</SpeakID>
+    <Speaker_First_Name>Shrirang</Speaker_First_Name>
+    <Speaker_last_name>Abhyankar</Speaker_last_name>
+    <Speaker_email>shri@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795106</SpeakID>
+    <Speaker_First_Name>Devin</Speaker_First_Name>
+    <Speaker_last_name>Matthews</Speaker_last_name>
+    <Speaker_email>damatthews@smu.edu</Speaker_email>
+    <Speaker_company_name>Southern Methodist University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795125</SpeakID>
+    <Speaker_First_Name>Milan</Speaker_First_Name>
+    <Speaker_last_name>Kloewer</Speaker_last_name>
+    <Speaker_email>milan.kloewer@physics.ox.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Oxford, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795195</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Jacobson</Speaker_last_name>
+    <Speaker_email>jacobsonda@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795239</SpeakID>
+    <Speaker_First_Name>Sebastian</Speaker_First_Name>
+    <Speaker_last_name>Götschel</Speaker_last_name>
+    <Speaker_email>sebastian.goetschel@tuhh.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Hamburg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795239</SpeakID>
+    <Speaker_First_Name>Sebastian</Speaker_First_Name>
+    <Speaker_last_name>Götschel</Speaker_last_name>
+    <Speaker_email>sebastian.goetschel@tuhh.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Hamburg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795247</SpeakID>
+    <Speaker_First_Name>Marco</Speaker_First_Name>
+    <Speaker_last_name>Minutoli</Speaker_last_name>
+    <Speaker_email>marco.minutoli@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795247</SpeakID>
+    <Speaker_First_Name>Marco</Speaker_First_Name>
+    <Speaker_last_name>Minutoli</Speaker_last_name>
+    <Speaker_email>marco.minutoli@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795281</SpeakID>
+    <Speaker_First_Name>Nicolas</Speaker_First_Name>
+    <Speaker_last_name>Morales</Speaker_last_name>
+    <Speaker_email>nmmoral@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795282</SpeakID>
+    <Speaker_First_Name>Franz</Speaker_First_Name>
+    <Speaker_last_name>Franchetti</Speaker_last_name>
+    <Speaker_email>franzf@andrew.cmu.edu</Speaker_email>
+    <Speaker_company_name>Carnegie Mellon University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795282</SpeakID>
+    <Speaker_First_Name>Franz</Speaker_First_Name>
+    <Speaker_last_name>Franchetti</Speaker_last_name>
+    <Speaker_email>franzf@andrew.cmu.edu</Speaker_email>
+    <Speaker_company_name>Carnegie Mellon University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795361</SpeakID>
+    <Speaker_First_Name>Malachi</Speaker_First_Name>
+    <Speaker_last_name>Phillips</Speaker_last_name>
+    <Speaker_email>malachi2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795393</SpeakID>
+    <Speaker_First_Name>Leila</Speaker_First_Name>
+    <Speaker_last_name>Ghaffari</Speaker_last_name>
+    <Speaker_email>leila.ghaffari@colorado.edu</Speaker_email>
+    <Speaker_company_name>University of Colorado Boulder, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795435</SpeakID>
+    <Speaker_First_Name>Zhi Jackie</Speaker_First_Name>
+    <Speaker_last_name>Yao</Speaker_last_name>
+    <Speaker_email>jackie_zhiyao@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795483</SpeakID>
+    <Speaker_First_Name>Vincenzo</Speaker_First_Name>
+    <Speaker_last_name>Gulizzi</Speaker_last_name>
+    <Speaker_email>vgulizzi@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795503</SpeakID>
+    <Speaker_First_Name>Peter</Speaker_First_Name>
+    <Speaker_last_name>Ohm</Speaker_last_name>
+    <Speaker_email>pohm@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795507</SpeakID>
+    <Speaker_First_Name>Graham</Speaker_First_Name>
+    <Speaker_last_name>Harper</Speaker_last_name>
+    <Speaker_email>gbharpe@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795507</SpeakID>
+    <Speaker_First_Name>Graham</Speaker_First_Name>
+    <Speaker_last_name>Harper</Speaker_last_name>
+    <Speaker_email>gbharpe@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795518</SpeakID>
+    <Speaker_First_Name>Giorgis</Speaker_First_Name>
+    <Speaker_last_name>Georgakoudis</Speaker_last_name>
+    <Speaker_email>georgakoudis1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795541</SpeakID>
+    <Speaker_First_Name>Christopher</Speaker_First_Name>
+    <Speaker_last_name>Brissette</Speaker_last_name>
+    <Speaker_email>brissc@rpi.edu</Speaker_email>
+    <Speaker_company_name>Rensselaer Polytechnic Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795574</SpeakID>
+    <Speaker_First_Name>Daniel </Speaker_First_Name>
+    <Speaker_last_name>Maldonado</Speaker_last_name>
+    <Speaker_email>maldonadod@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795697</SpeakID>
+    <Speaker_First_Name>Xinran</Speaker_First_Name>
+    <Speaker_last_name>Zhu</Speaker_last_name>
+    <Speaker_email>xz584@cornell.edu</Speaker_email>
+    <Speaker_company_name>Cornell University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795697</SpeakID>
+    <Speaker_First_Name>Xinran</Speaker_First_Name>
+    <Speaker_last_name>Zhu</Speaker_last_name>
+    <Speaker_email>xz584@cornell.edu</Speaker_email>
+    <Speaker_company_name>Cornell University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795709</SpeakID>
+    <Speaker_First_Name>Lisa</Speaker_First_Name>
+    <Speaker_last_name>Claus</Speaker_last_name>
+    <Speaker_email>lclaus@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795709</SpeakID>
+    <Speaker_First_Name>Lisa</Speaker_First_Name>
+    <Speaker_last_name>Claus</Speaker_last_name>
+    <Speaker_email>lclaus@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796052</SpeakID>
+    <Speaker_First_Name>Tim</Speaker_First_Name>
+    <Speaker_last_name>Baer</Speaker_last_name>
+    <Speaker_email>tbaer2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois at Urbana-Champaign, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796058</SpeakID>
+    <Speaker_First_Name>Morteza</Speaker_First_Name>
+    <Speaker_last_name>Siboni</Speaker_last_name>
+    <Speaker_email>m.hakimi.siboni@gmail.com</Speaker_email>
+    <Speaker_company_name>Rensselaer Polytechnic Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796066</SpeakID>
+    <Speaker_First_Name>Marc T.</Speaker_First_Name>
+    <Speaker_last_name>Henry de Frahan</Speaker_last_name>
+    <Speaker_email>marc.henrydefrahan@nrel.gov</Speaker_email>
+    <Speaker_company_name>National Renewable Energy Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796070</SpeakID>
+    <Speaker_First_Name>Roberto</Speaker_First_Name>
+    <Speaker_last_name>Porcu</Speaker_last_name>
+    <Speaker_email>roberto.porcu@netl.doe.gov</Speaker_email>
+    <Speaker_company_name>National Energy Technology Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796107</SpeakID>
+    <Speaker_First_Name>Alina</Speaker_First_Name>
+    <Speaker_last_name>Peluso</Speaker_last_name>
+    <Speaker_email>pelusoa@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796147</SpeakID>
+    <Speaker_First_Name>Thomas</Speaker_First_Name>
+    <Speaker_last_name>Gillis</Speaker_last_name>
+    <Speaker_email>tgillis@mit.edu</Speaker_email>
+    <Speaker_company_name>Massachusetts Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796147</SpeakID>
+    <Speaker_First_Name>Thomas</Speaker_First_Name>
+    <Speaker_last_name>Gillis</Speaker_last_name>
+    <Speaker_email>tgillis@mit.edu</Speaker_email>
+    <Speaker_company_name>Massachusetts Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796148</SpeakID>
+    <Speaker_First_Name>James</Speaker_First_Name>
+    <Speaker_last_name>Gabbard</Speaker_last_name>
+    <Speaker_email>jgabbard@mit.edu</Speaker_email>
+    <Speaker_company_name>Massachusetts Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796150</SpeakID>
+    <Speaker_First_Name>Gokcen</Speaker_First_Name>
+    <Speaker_last_name>Kestor</Speaker_last_name>
+    <Speaker_email>gokcen.kestor@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796163</SpeakID>
+    <Speaker_First_Name>Prathysh</Speaker_First_Name>
+    <Speaker_last_name>Sambaturu</Speaker_last_name>
+    <Speaker_email>pks6mk@virginia.edu</Speaker_email>
+    <Speaker_company_name>University of Virginia, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796171</SpeakID>
+    <Speaker_First_Name>Jed</Speaker_First_Name>
+    <Speaker_last_name>Brown</Speaker_last_name>
+    <Speaker_email>jed@jedbrown.org</Speaker_email>
+    <Speaker_company_name>University of Colorado Boulder, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796171</SpeakID>
+    <Speaker_First_Name>Jed</Speaker_First_Name>
+    <Speaker_last_name>Brown</Speaker_last_name>
+    <Speaker_email>jed@jedbrown.org</Speaker_email>
+    <Speaker_company_name>University of Colorado Boulder, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796286</SpeakID>
+    <Speaker_First_Name>Giulia</Speaker_First_Name>
+    <Speaker_last_name>Guidi</Speaker_last_name>
+    <Speaker_email>gguidi@berkeley.edu</Speaker_email>
+    <Speaker_company_name>University of California, Berkeley, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796365</SpeakID>
+    <Speaker_First_Name>Natalie</Speaker_First_Name>
+    <Speaker_last_name>Beams</Speaker_last_name>
+    <Speaker_email>nbeams@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796369</SpeakID>
+    <Speaker_First_Name>Konstantinos</Speaker_First_Name>
+    <Speaker_last_name>Parasyris</Speaker_last_name>
+    <Speaker_email>parasyris1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796491</SpeakID>
+    <Speaker_First_Name>Sayan</Speaker_First_Name>
+    <Speaker_last_name>Ghosh</Speaker_last_name>
+    <Speaker_email>sayan.ghosh@pnnl.gov</Speaker_email>
+    <Speaker_company_name>Pacific Northwest National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796515</SpeakID>
+    <Speaker_First_Name>Nesar</Speaker_First_Name>
+    <Speaker_last_name>Ramachandra</Speaker_last_name>
+    <Speaker_email>nramachandra@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796612</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Finn</Speaker_last_name>
+    <Speaker_email>dsfinn@buffalo.edu</Speaker_email>
+    <Speaker_company_name>State University of New York at Buffalo, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796612</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Finn</Speaker_last_name>
+    <Speaker_email>dsfinn@buffalo.edu</Speaker_email>
+    <Speaker_company_name>State University of New York at Buffalo, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796647</SpeakID>
+    <Speaker_First_Name>Jia</Speaker_First_Name>
+    <Speaker_last_name>Yin</Speaker_last_name>
+    <Speaker_email>jiayin@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796671</SpeakID>
+    <Speaker_First_Name>Brandon</Speaker_First_Name>
+    <Speaker_last_name>Whitchurch</Speaker_last_name>
+    <Speaker_email>bwhitchurch3@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796711</SpeakID>
+    <Speaker_First_Name>Sophia</Speaker_First_Name>
+    <Speaker_last_name>Vorderwuelbecke</Speaker_last_name>
+    <Speaker_email>s.vorderwuelbecke18@imperial.ac.uk</Speaker_email>
+    <Speaker_company_name>Imperial College London, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796711</SpeakID>
+    <Speaker_First_Name>Sophia</Speaker_First_Name>
+    <Speaker_last_name>Vorderwuelbecke</Speaker_last_name>
+    <Speaker_email>s.vorderwuelbecke18@imperial.ac.uk</Speaker_email>
+    <Speaker_company_name>Imperial College London, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796717</SpeakID>
+    <Speaker_First_Name>Yuxi</Speaker_First_Name>
+    <Speaker_last_name>Hong</Speaker_last_name>
+    <Speaker_email>yuxi.hong@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796761</SpeakID>
+    <Speaker_First_Name>Gabriel</Speaker_First_Name>
+    <Speaker_last_name>Nastac</Speaker_last_name>
+    <Speaker_email>gabriel.c.nastac@nasa.gov</Speaker_email>
+    <Speaker_company_name>NASA Langley Research Center, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796853</SpeakID>
+    <Speaker_First_Name>Tanya</Speaker_First_Name>
+    <Speaker_last_name>Tafolla</Speaker_last_name>
+    <Speaker_email>ttafolla@ucmerced.edu</Speaker_email>
+    <Speaker_company_name>University of California, Merced, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796902</SpeakID>
+    <Speaker_First_Name>Cannada</Speaker_First_Name>
+    <Speaker_last_name>Lewis</Speaker_last_name>
+    <Speaker_email>canlewi@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>796990</SpeakID>
+    <Speaker_First_Name>To Be</Speaker_First_Name>
+    <Speaker_last_name>Determined</Speaker_last_name>
+    <Speaker_email>tbd@siam.org</Speaker_email>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797025</SpeakID>
+    <Speaker_First_Name>Ki-Tae</Speaker_First_Name>
+    <Speaker_last_name>Kim</Speaker_last_name>
+    <Speaker_email>kkim107@ucmerced.edu</Speaker_email>
+    <Speaker_company_name>University of California, Merced, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797065</SpeakID>
+    <Speaker_First_Name>Johannes</Speaker_First_Name>
+    <Speaker_last_name>Brust</Speaker_last_name>
+    <Speaker_email>jbrust@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797393</SpeakID>
+    <Speaker_First_Name>Felix</Speaker_First_Name>
+    <Speaker_last_name>Kwok</Speaker_last_name>
+    <Speaker_email>felix.kwok@mat.ulaval.ca or felixk80@gmail.com</Speaker_email>
+    <Speaker_company_name>Université Laval, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797419</SpeakID>
+    <Speaker_First_Name>Zitong</Speaker_First_Name>
+    <Speaker_last_name>Li</Speaker_last_name>
+    <Speaker_email>liz20@wfu.edu</Speaker_email>
+    <Speaker_company_name>Wake Forest University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797436</SpeakID>
+    <Speaker_First_Name>Hong</Speaker_First_Name>
+    <Speaker_last_name>Zhang</Speaker_last_name>
+    <Speaker_email>hongzhang@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797540</SpeakID>
+    <Speaker_First_Name>Christian</Speaker_First_Name>
+    <Speaker_last_name>Schulz</Speaker_last_name>
+    <Speaker_email>christian.schulz@informatik.uni-heidelberg.de</Speaker_email>
+    <Speaker_company_name>Universität Heidelberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797540</SpeakID>
+    <Speaker_First_Name>Christian</Speaker_First_Name>
+    <Speaker_last_name>Schulz</Speaker_last_name>
+    <Speaker_email>christian.schulz@informatik.uni-heidelberg.de</Speaker_email>
+    <Speaker_company_name>Universität Heidelberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797574</SpeakID>
+    <Speaker_First_Name>Teresa</Speaker_First_Name>
+    <Speaker_last_name>Ranadive</Speaker_last_name>
+    <Speaker_email>tranadive@lps.umd.edu</Speaker_email>
+    <Speaker_company_name>Laboratory for Physical Sciences, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797608</SpeakID>
+    <Speaker_First_Name>Marie</Speaker_First_Name>
+    <Speaker_last_name>Roald</Speaker_last_name>
+    <Speaker_email>mariero@simula.no</Speaker_email>
+    <Speaker_company_name>Simula Metropolitan Center for Digital Engineering and Oslo Metropolitan University, Norway</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>797676</SpeakID>
+    <Speaker_First_Name>Tobias</Speaker_First_Name>
+    <Speaker_last_name>Heuer</Speaker_last_name>
+    <Speaker_email>tobias.heuer@kit.edu</Speaker_email>
+    <Speaker_company_name>Karlsruhe Institute of Technology, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>798097</SpeakID>
+    <Speaker_First_Name>Sherry</Speaker_First_Name>
+    <Speaker_last_name>Li</Speaker_last_name>
+    <Speaker_email>xsli@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>798224</SpeakID>
+    <Speaker_First_Name>Doru Thom</Speaker_First_Name>
+    <Speaker_last_name>Popovici</Speaker_last_name>
+    <Speaker_email>dtpopovici@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>798231</SpeakID>
+    <Speaker_First_Name>Arvind</Speaker_First_Name>
+    <Speaker_last_name>Saibaba</Speaker_last_name>
+    <Speaker_email>saibab@ncsu.edu</Speaker_email>
+    <Speaker_company_name>North Carolina State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>798421</SpeakID>
+    <Speaker_First_Name>Doru Thom</Speaker_First_Name>
+    <Speaker_last_name>Popovici</Speaker_last_name>
+    <Speaker_email>dtpopovici@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>798545</SpeakID>
+    <Speaker_First_Name>Giovanni</Speaker_First_Name>
+    <Speaker_last_name>Isotton</Speaker_last_name>
+    <Speaker_email>g.isotton@m3eweb.it</Speaker_email>
+    <Speaker_company_name>M3E S.r.l., Italy</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>798614</SpeakID>
+    <Speaker_First_Name>Balthasar</Speaker_First_Name>
+    <Speaker_last_name>Reuter</Speaker_last_name>
+    <Speaker_email>balthasar.reuter@ecmwf.int</Speaker_email>
+    <Speaker_company_name>European Center for Medium-Range Weather Forecasts (ECMWF)	</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>799823</SpeakID>
+    <Speaker_First_Name>Ozge</Speaker_First_Name>
+    <Speaker_last_name>Surer</Speaker_last_name>
+    <Speaker_email>ozgesurer2019@u.northwestern.edu</Speaker_email>
+    <Speaker_company_name>Northwestern University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>799823</SpeakID>
+    <Speaker_First_Name>Ozge</Speaker_First_Name>
+    <Speaker_last_name>Surer</Speaker_last_name>
+    <Speaker_email>ozgesurer2019@u.northwestern.edu</Speaker_email>
+    <Speaker_company_name>Northwestern University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802600</SpeakID>
+    <Speaker_First_Name>Antonio</Speaker_First_Name>
+    <Speaker_last_name>Aguirre</Speaker_last_name>
+    <Speaker_email>antonio.aguirre15.civ@army.mil</Speaker_email>
+    <Speaker_company_name>U.S. Department of Defense, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802637</SpeakID>
+    <Speaker_First_Name>Matthias </Speaker_First_Name>
+    <Speaker_last_name>Troyer</Speaker_last_name>
+    <Speaker_email>mtroyer@microsoft.com</Speaker_email>
+    <Speaker_company_name>Microsoft, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802649</SpeakID>
+    <Speaker_First_Name>Amanda</Speaker_First_Name>
+    <Speaker_last_name>Harkleroad</Speaker_last_name>
+    <Speaker_email>harkleroada@spu.edu</Speaker_email>
+    <Speaker_company_name>Seattle Pacific University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802650</SpeakID>
+    <Speaker_First_Name>Dung</Speaker_First_Name>
+    <Speaker_last_name>Nguyen</Speaker_last_name>
+    <Speaker_email>nguyend16@spu.edu</Speaker_email>
+    <Speaker_company_name>Seattle Pacific University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802658</SpeakID>
+    <Speaker_First_Name>Jim</Speaker_First_Name>
+    <Speaker_last_name>Brandt</Speaker_last_name>
+    <Speaker_email>brandt@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802658</SpeakID>
+    <Speaker_First_Name>Jim</Speaker_First_Name>
+    <Speaker_last_name>Brandt</Speaker_last_name>
+    <Speaker_email>brandt@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802670</SpeakID>
+    <Speaker_First_Name>Ghadeer</Speaker_First_Name>
+    <Speaker_last_name>Alabandi</Speaker_last_name>
+    <Speaker_email>gaa54@txstate.edu</Speaker_email>
+    <Speaker_company_name>Texas State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802671</SpeakID>
+    <Speaker_First_Name>Hang</Speaker_First_Name>
+    <Speaker_last_name>Liu</Speaker_last_name>
+    <Speaker_email>hliu77@stevens.edu</Speaker_email>
+    <Speaker_company_name>Stevens Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802672</SpeakID>
+    <Speaker_First_Name>Zhihui</Speaker_First_Name>
+    <Speaker_last_name>Du</Speaker_last_name>
+    <Speaker_email>zd4@njit.edu</Speaker_email>
+    <Speaker_company_name>New Jersey Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802691</SpeakID>
+    <Speaker_First_Name>T. H.</Speaker_First_Name>
+    <Speaker_last_name>Molena</Speaker_last_name>
+    <Speaker_email>thmolena@gmail.com</Speaker_email>
+    <Speaker_company_name>North Carolina State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802730</SpeakID>
+    <Speaker_First_Name>Kate</Speaker_First_Name>
+    <Speaker_last_name>Keahey</Speaker_last_name>
+    <Speaker_email>keahey@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802731</SpeakID>
+    <Speaker_First_Name>Miron</Speaker_First_Name>
+    <Speaker_last_name>Livny</Speaker_last_name>
+    <Speaker_email>miron@cs.wisc.edu</Speaker_email>
+    <Speaker_company_name>University of Wisconsin-Madison, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802732</SpeakID>
+    <Speaker_First_Name>Timothy</Speaker_First_Name>
+    <Speaker_last_name>Holt</Speaker_last_name>
+    <Speaker_email>timothy.holt@usi.ch</Speaker_email>
+    <Speaker_company_name>Università della Svizzera italiana, Switzerland </Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802770</SpeakID>
+    <Speaker_First_Name>James</Speaker_First_Name>
+    <Speaker_last_name>Plank</Speaker_last_name>
+    <Speaker_email>jplank@utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802771</SpeakID>
+    <Speaker_First_Name>Mihai</Speaker_First_Name>
+    <Speaker_last_name>Petrovici</Speaker_last_name>
+    <Speaker_email>mihai.petrovici@unibe.ch</Speaker_email>
+    <Speaker_company_name>University of Bern, Switzerland and Heidelberg University, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802772</SpeakID>
+    <Speaker_First_Name>Kathleen</Speaker_First_Name>
+    <Speaker_last_name>Hamilton</Speaker_last_name>
+    <Speaker_email>hamiltonke@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802778</SpeakID>
+    <Speaker_First_Name>Yuki</Speaker_First_Name>
+    <Speaker_last_name>Uchino</Speaker_last_name>
+    <Speaker_email>mf20013@shibaura-it.ac.jp</Speaker_email>
+    <Speaker_company_name>Shibaura Institute of Technology, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802901</SpeakID>
+    <Speaker_First_Name>Wei</Speaker_First_Name>
+    <Speaker_last_name>Wang</Speaker_last_name>
+    <Speaker_email>wei.wang@utsa.edu</Speaker_email>
+    <Speaker_company_name>University of Texas, San Antonio, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802902</SpeakID>
+    <Speaker_First_Name>Amro</Speaker_First_Name>
+    <Speaker_last_name>Awad</Speaker_last_name>
+    <Speaker_email>ajawad@ncsu.edu</Speaker_email>
+    <Speaker_company_name>North Carolina State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802986</SpeakID>
+    <Speaker_First_Name>Hassan</Speaker_First_Name>
+    <Speaker_last_name>Hijazi</Speaker_last_name>
+    <Speaker_email>hlh@lanl.gov</Speaker_email>
+    <Speaker_company_name>Los Alamos National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802987</SpeakID>
+    <Speaker_First_Name>Jingyi</Speaker_First_Name>
+    <Speaker_last_name>Wang</Speaker_last_name>
+    <Speaker_email>wang125@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802988</SpeakID>
+    <Speaker_First_Name>Shaked</Speaker_First_Name>
+    <Speaker_last_name>Regev</Speaker_last_name>
+    <Speaker_email>sregev@stanford.edu</Speaker_email>
+    <Speaker_company_name>Stanford University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>802989</SpeakID>
+    <Speaker_First_Name>Nai-Yuan</Speaker_First_Name>
+    <Speaker_last_name>Chiang</Speaker_last_name>
+    <Speaker_email>chiang7@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803041</SpeakID>
+    <Speaker_First_Name>Philippe</Speaker_First_Name>
+    <Speaker_last_name>Swartvagher</Speaker_last_name>
+    <Speaker_email>philippe.swartvagher@inria.fr</Speaker_email>
+    <Speaker_company_name>Inria Bordeaux Sud-Ouest, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803042</SpeakID>
+    <Speaker_First_Name>Antoine</Speaker_First_Name>
+    <Speaker_last_name>Jego</Speaker_last_name>
+    <Speaker_email>antoine.jego@toulouse-inp.fr</Speaker_email>
+    <Speaker_company_name>CNRS-IRIT, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803063</SpeakID>
+    <Speaker_First_Name>Thomas</Speaker_First_Name>
+    <Speaker_last_name>Kühne</Speaker_last_name>
+    <Speaker_email>thomas.kuehne@upb.de</Speaker_email>
+    <Speaker_company_name>Universität Paderborn, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803078</SpeakID>
+    <Speaker_First_Name>Nigel</Speaker_First_Name>
+    <Speaker_last_name>Tan</Speaker_last_name>
+    <Speaker_email>ntan1@vols.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803101</SpeakID>
+    <Speaker_First_Name>Seher</Speaker_First_Name>
+    <Speaker_last_name>Acer</Speaker_last_name>
+    <Speaker_email>acers@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803104</SpeakID>
+    <Speaker_First_Name>Yusuf</Speaker_First_Name>
+    <Speaker_last_name>Ozkaya</Speaker_last_name>
+    <Speaker_email>my.ozkaya@gmail.com</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803115</SpeakID>
+    <Speaker_First_Name>George M.</Speaker_First_Name>
+    <Speaker_last_name>Slota</Speaker_last_name>
+    <Speaker_email>slotag@rpi.edu</Speaker_email>
+    <Speaker_company_name>Rensselaer Polytechnic Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803119</SpeakID>
+    <Speaker_First_Name>Chase</Speaker_First_Name>
+    <Speaker_last_name>Million</Speaker_last_name>
+    <Speaker_email>chase@millionconcepts.com</Speaker_email>
+    <Speaker_company_name>Million Concepts, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803122</SpeakID>
+    <Speaker_First_Name>Edward</Speaker_First_Name>
+    <Speaker_last_name>Valeev</Speaker_last_name>
+    <Speaker_email>evaleev@vt.edu</Speaker_email>
+    <Speaker_company_name>Virginia Tech, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803127</SpeakID>
+    <Speaker_First_Name>Grigori</Speaker_First_Name>
+    <Speaker_last_name>Fursin</Speaker_last_name>
+    <Speaker_email>grigori.fursin@ctuning.org</Speaker_email>
+    <Speaker_company_name>OctoML.ai, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803128</SpeakID>
+    <Speaker_First_Name>Patrick</Speaker_First_Name>
+    <Speaker_last_name>Hesse</Speaker_last_name>
+    <Speaker_email>phesse001@csbsju.edu</Speaker_email>
+    <Speaker_company_name>St. John's University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803129</SpeakID>
+    <Speaker_First_Name>Paul</Speaker_First_Name>
+    <Speaker_last_name>Mullowney</Speaker_last_name>
+    <Speaker_email>paul.mullowney@nrel.gov</Speaker_email>
+    <Speaker_company_name>National Renewable Energy Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803130</SpeakID>
+    <Speaker_First_Name>Annie</Speaker_First_Name>
+    <Speaker_last_name>Sauer</Speaker_last_name>
+    <Speaker_email>anniees@vt.edu</Speaker_email>
+    <Speaker_company_name>Virginia Tech, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803133</SpeakID>
+    <Speaker_First_Name>Alex</Speaker_First_Name>
+    <Speaker_last_name>Aiken</Speaker_last_name>
+    <Speaker_email>aaiken@stanford.edu</Speaker_email>
+    <Speaker_company_name>Stanford University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803155</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Schweinberger</Speaker_last_name>
+    <Speaker_email>msq5c@missouri.edu</Speaker_email>
+    <Speaker_company_name>University of Missouri, Columbia, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803156</SpeakID>
+    <Speaker_First_Name>Christopher</Speaker_First_Name>
+    <Speaker_last_name>Paciorek</Speaker_last_name>
+    <Speaker_email>paciorek@stat.berkeley.edu</Speaker_email>
+    <Speaker_company_name>University of California, Berkeley, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803157</SpeakID>
+    <Speaker_First_Name>Marco</Speaker_First_Name>
+    <Speaker_last_name>Ferreira</Speaker_last_name>
+    <Speaker_email>marf@vt.edu</Speaker_email>
+    <Speaker_company_name>Virginia Tech, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803296</SpeakID>
+    <Speaker_First_Name>Jørgen</Speaker_First_Name>
+    <Speaker_last_name>Dokken</Speaker_last_name>
+    <Speaker_email>jsd55@cam.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Cambridge, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803298</SpeakID>
+    <Speaker_First_Name>Matthew</Speaker_First_Name>
+    <Speaker_last_name>Wolf</Speaker_last_name>
+    <Speaker_email>wolfmd@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803305</SpeakID>
+    <Speaker_First_Name>Sai</Speaker_First_Name>
+    <Speaker_last_name>Munikoti</Speaker_last_name>
+    <Speaker_email>saimunikoti@ksu.edu</Speaker_email>
+    <Speaker_company_name>Kansas State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803306</SpeakID>
+    <Speaker_First_Name>Edoardo</Speaker_First_Name>
+    <Speaker_last_name>Serra</Speaker_last_name>
+    <Speaker_email>edoardoserra@boisestate.edu</Speaker_email>
+    <Speaker_company_name>Boise State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803307</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Grosskopf</Speaker_last_name>
+    <Speaker_email>mikegros@lanl.gov</Speaker_email>
+    <Speaker_company_name>Los Alamos National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803336</SpeakID>
+    <Speaker_First_Name>Rabab</Speaker_First_Name>
+    <Speaker_last_name>Al-omairy</Speaker_last_name>
+    <Speaker_email>rabab.omairy@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803350</SpeakID>
+    <Speaker_First_Name>Ravil</Speaker_First_Name>
+    <Speaker_last_name>Dorozhinskii</Speaker_last_name>
+    <Speaker_email>ravil.dorozhinskii@tum.de</Speaker_email>
+    <Speaker_company_name>Technische Universität München, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803351</SpeakID>
+    <Speaker_First_Name>Akash V.</Speaker_First_Name>
+    <Speaker_last_name>Dhruv</Speaker_last_name>
+    <Speaker_email>adhruv@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803352</SpeakID>
+    <Speaker_First_Name>Jungwon</Speaker_First_Name>
+    <Speaker_last_name>Kim</Speaker_last_name>
+    <Speaker_email>kimj@ieee.org</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803353</SpeakID>
+    <Speaker_First_Name>Oliver</Speaker_First_Name>
+    <Speaker_last_name>Aumage</Speaker_last_name>
+    <Speaker_email>olivier.aumage@inria.fr</Speaker_email>
+    <Speaker_company_name>Inria, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803354</SpeakID>
+    <Speaker_First_Name>Antonio</Speaker_First_Name>
+    <Speaker_last_name>Pena</Speaker_last_name>
+    <Speaker_email>antonio.pena@bsc.es</Speaker_email>
+    <Speaker_company_name>Barcelona Supercomputing Center, Spain</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803366</SpeakID>
+    <Speaker_First_Name>Jeffrey</Speaker_First_Name>
+    <Speaker_last_name>Vetter</Speaker_last_name>
+    <Speaker_email>vetter@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803399</SpeakID>
+    <Speaker_First_Name>Emily</Speaker_First_Name>
+    <Speaker_last_name>Bogle</Speaker_last_name>
+    <Speaker_email>boglee@spu.edu</Speaker_email>
+    <Speaker_company_name>Seattle Pacific University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803403</SpeakID>
+    <Speaker_First_Name>Valeria</Speaker_First_Name>
+    <Speaker_last_name>Barra</Speaker_last_name>
+    <Speaker_email>valeria@caltech.edu</Speaker_email>
+    <Speaker_company_name>California Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803454</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Moxey</Speaker_last_name>
+    <Speaker_email>david.moxey@kcl.ac.uk</Speaker_email>
+    <Speaker_company_name>King's College London, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803465</SpeakID>
+    <Speaker_First_Name>Ahmed</Speaker_First_Name>
+    <Speaker_last_name>El Kerim</Speaker_last_name>
+    <Speaker_email>ahmed.elkerim@ens-paris-saclay.fr</Speaker_email>
+    <Speaker_company_name>CNRS, Université Paris-Saclay, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803490</SpeakID>
+    <Speaker_First_Name>Carl Christian Kjelgaard</Speaker_First_Name>
+    <Speaker_last_name>Mikkelsen</Speaker_last_name>
+    <Speaker_email>spock@cs.umu.se</Speaker_email>
+    <Speaker_company_name>Umeå University, Sweden</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803504</SpeakID>
+    <Speaker_First_Name>Henrik</Speaker_First_Name>
+    <Speaker_last_name>Stromberg</Speaker_last_name>
+    <Speaker_email>stromberg@imw.tu-clausthal.de</Speaker_email>
+    <Speaker_company_name>Techniche Universität Clausthal, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803527</SpeakID>
+    <Speaker_First_Name>Yannis</Speaker_First_Name>
+    <Speaker_last_name>Schumann</Speaker_last_name>
+    <Speaker_email>yannis.schumann@hsu-hh.de</Speaker_email>
+    <Speaker_company_name>Helmut-Schmidt-Universitaet Hamburg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803585</SpeakID>
+    <Speaker_First_Name>Marcin</Speaker_First_Name>
+    <Speaker_last_name>Copik</Speaker_last_name>
+    <Speaker_email>marcin.copik@inf.ethz.ch</Speaker_email>
+    <Speaker_company_name>ETH Zurich, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803586</SpeakID>
+    <Speaker_First_Name>Sergei</Speaker_First_Name>
+    <Speaker_last_name>Shudler</Speaker_last_name>
+    <Speaker_email>shudler1@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803587</SpeakID>
+    <Speaker_First_Name>Ana Lucia</Speaker_First_Name>
+    <Speaker_last_name>Varbanescu</Speaker_last_name>
+    <Speaker_email>a.l.varbanescu@uva.nl</Speaker_email>
+    <Speaker_company_name>University of Amsterdam, Netherlands</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803588</SpeakID>
+    <Speaker_First_Name>Jorge</Speaker_First_Name>
+    <Speaker_last_name>Morón</Speaker_last_name>
+    <Speaker_email>jmoron@math.uc3m.es</Speaker_email>
+    <Speaker_company_name>Universidad Carlos III de Madrid, Spain</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803589</SpeakID>
+    <Speaker_First_Name>Stephan</Speaker_First_Name>
+    <Speaker_last_name>Eidenbenz</Speaker_last_name>
+    <Speaker_email>eidenben@lanl.gov</Speaker_email>
+    <Speaker_company_name>Los Alamos National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803590</SpeakID>
+    <Speaker_First_Name>Will</Speaker_First_Name>
+    <Speaker_last_name>Saunders</Speaker_last_name>
+    <Speaker_email>will.saunders@ukaea.uk</Speaker_email>
+    <Speaker_company_name>UKAEA, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803591</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Boehme</Speaker_last_name>
+    <Speaker_email>boehme3@llnl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Livermore National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803609</SpeakID>
+    <Speaker_First_Name>Ganesh</Speaker_First_Name>
+    <Speaker_last_name>Gopalakrishnan</Speaker_last_name>
+    <Speaker_email>ganesh@cs.utah.edu</Speaker_email>
+    <Speaker_company_name>University of Utah, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803609</SpeakID>
+    <Speaker_First_Name>Ganesh</Speaker_First_Name>
+    <Speaker_last_name>Gopalakrishnan</Speaker_last_name>
+    <Speaker_email>ganesh@cs.utah.edu</Speaker_email>
+    <Speaker_company_name>University of Utah, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803614</SpeakID>
+    <Speaker_First_Name>Shyamali</Speaker_First_Name>
+    <Speaker_last_name>Mukherjee</Speaker_last_name>
+    <Speaker_email>smukher@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803615</SpeakID>
+    <Speaker_First_Name>Alexandru</Speaker_First_Name>
+    <Speaker_last_name>Calotoiu</Speaker_last_name>
+    <Speaker_email>alexandru.calotoiu@inf.ethz.ch</Speaker_email>
+    <Speaker_company_name>ETH Zurich, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803616</SpeakID>
+    <Speaker_First_Name>Swaroop</Speaker_First_Name>
+    <Speaker_last_name>Pophale</Speaker_last_name>
+    <Speaker_email>pophaless@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803617</SpeakID>
+    <Speaker_First_Name>Balint</Speaker_First_Name>
+    <Speaker_last_name>Joo</Speaker_last_name>
+    <Speaker_email>joob@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803629</SpeakID>
+    <Speaker_First_Name>Eero</Speaker_First_Name>
+    <Speaker_last_name>Hirvijoki</Speaker_last_name>
+    <Speaker_email>eero.hirvijoki@gmail.com</Speaker_email>
+    <Speaker_company_name>Aalto University, Finland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803631</SpeakID>
+    <Speaker_First_Name>Albert</Speaker_First_Name>
+    <Speaker_last_name>Mollén</Speaker_last_name>
+    <Speaker_email>amollen@pppl.gov</Speaker_email>
+    <Speaker_company_name>Princeton Plasma Physics Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803632</SpeakID>
+    <Speaker_First_Name>Gregory</Speaker_First_Name>
+    <Speaker_last_name>Szypko</Speaker_last_name>
+    <Speaker_email>gms12@rice.edu</Speaker_email>
+    <Speaker_company_name>Rice University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803645</SpeakID>
+    <Speaker_First_Name>Carl</Speaker_First_Name>
+    <Speaker_last_name>Pearson</Speaker_last_name>
+    <Speaker_email>cwpears@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803650</SpeakID>
+    <Speaker_First_Name>Grant</Speaker_First_Name>
+    <Speaker_last_name>Gorman</Speaker_last_name>
+    <Speaker_email>gg25@rice.edu</Speaker_email>
+    <Speaker_company_name>Rice University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803653</SpeakID>
+    <Speaker_First_Name>Varis</Speaker_First_Name>
+    <Speaker_last_name>Carey</Speaker_last_name>
+    <Speaker_email>varis.carey@theodonconsulting.com</Speaker_email>
+    <Speaker_company_name>Theodon Consulting, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803717</SpeakID>
+    <Speaker_First_Name>Pavel</Speaker_First_Name>
+    <Speaker_last_name>Panchekha</Speaker_last_name>
+    <Speaker_email>pavpan@cs.utah.edu</Speaker_email>
+    <Speaker_company_name>University of Utah, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803718</SpeakID>
+    <Speaker_First_Name>Cindy</Speaker_First_Name>
+    <Speaker_last_name>Rubio González</Speaker_last_name>
+    <Speaker_email>crubio@ucdavis.edu</Speaker_email>
+    <Speaker_company_name>University of California, Davis, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803719</SpeakID>
+    <Speaker_First_Name>Zachary</Speaker_First_Name>
+    <Speaker_last_name>Tatlock</Speaker_last_name>
+    <Speaker_email>ztatlock@cs.washington.edu</Speaker_email>
+    <Speaker_company_name>University of Washington, Seattle, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803727</SpeakID>
+    <Speaker_First_Name>Javier</Speaker_First_Name>
+    <Speaker_last_name>Almonacid</Speaker_last_name>
+    <Speaker_email>javiera@sfu.ca</Speaker_email>
+    <Speaker_company_name>Simon Fraser University, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803729</SpeakID>
+    <Speaker_First_Name>Suren</Speaker_First_Name>
+    <Speaker_last_name>Byna</Speaker_last_name>
+    <Speaker_email>sbyna@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803741</SpeakID>
+    <Speaker_First_Name>Alexandra</Speaker_First_Name>
+    <Speaker_last_name>Porter</Speaker_last_name>
+    <Speaker_email>amporter@cs.stanford.edu</Speaker_email>
+    <Speaker_company_name>Stanford University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803742</SpeakID>
+    <Speaker_First_Name>Tushar</Speaker_First_Name>
+    <Speaker_last_name>Krishna</Speaker_last_name>
+    <Speaker_email>tushar@ece.gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803747</SpeakID>
+    <Speaker_First_Name>Wissam</Speaker_First_Name>
+    <Speaker_last_name>Sid-Lakhdar</Speaker_last_name>
+    <Speaker_email>wissam@icl.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803753</SpeakID>
+    <Speaker_First_Name>Thibaut</Speaker_First_Name>
+    <Speaker_last_name>Lunet</Speaker_last_name>
+    <Speaker_email>thibaut.lunet@tuhh.de</Speaker_email>
+    <Speaker_company_name>Hamburg University of Technology, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803755</SpeakID>
+    <Speaker_First_Name>Jens</Speaker_First_Name>
+    <Speaker_last_name>Hahne</Speaker_last_name>
+    <Speaker_email>jens.hahne@math.uni-wuppertal.de</Speaker_email>
+    <Speaker_company_name>Universit&amp;auml;t Wuppertal, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803756</SpeakID>
+    <Speaker_First_Name>Ryo</Speaker_First_Name>
+    <Speaker_last_name>Yoda</Speaker_last_name>
+    <Speaker_email>ryo_yoda@mist.i.u-tokyo.ac.jp</Speaker_email>
+    <Speaker_company_name>University of Tokyo, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803757</SpeakID>
+    <Speaker_First_Name>Ignace</Speaker_First_Name>
+    <Speaker_last_name>Bossuyt</Speaker_last_name>
+    <Speaker_email>ignace.bossuyt1@kuleuven.be</Speaker_email>
+    <Speaker_company_name>Katholieke Universiteit Leuven, Belgium</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803758</SpeakID>
+    <Speaker_First_Name>Jordi</Speaker_First_Name>
+    <Speaker_last_name>Wolfson-Pou</Speaker_last_name>
+    <Speaker_email>jwolfsonp@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803759</SpeakID>
+    <Speaker_First_Name>Markus</Speaker_First_Name>
+    <Speaker_last_name>Holzer</Speaker_last_name>
+    <Speaker_email>markus.holzer@fau.de</Speaker_email>
+    <Speaker_company_name>Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803760</SpeakID>
+    <Speaker_First_Name>Peter</Speaker_First_Name>
+    <Speaker_last_name>Förster</Speaker_last_name>
+    <Speaker_email>peter.foerster@tu-darmstadt.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Darmstadt, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803761</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Appel</Speaker_last_name>
+    <Speaker_email>daniel.appel@iag.uni-stuttgart.de</Speaker_email>
+    <Speaker_company_name>Universität Stuttgart, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803764</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Schlottke-Lakemper</Speaker_last_name>
+    <Speaker_email>m.schlottke-lakemper@hlrs.de</Speaker_email>
+    <Speaker_company_name>University of Stuttgart, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803764</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Schlottke-Lakemper</Speaker_last_name>
+    <Speaker_email>m.schlottke-lakemper@hlrs.de</Speaker_email>
+    <Speaker_company_name>University of Stuttgart, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803784</SpeakID>
+    <Speaker_First_Name>Xiao-Chuan</Speaker_First_Name>
+    <Speaker_last_name>Cai</Speaker_last_name>
+    <Speaker_email>xccai@um.edu.mo</Speaker_email>
+    <Speaker_company_name>University of Macau, China</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803785</SpeakID>
+    <Speaker_First_Name>Shintaro</Speaker_First_Name>
+    <Speaker_last_name>Matsushita</Speaker_last_name>
+    <Speaker_email>matsushita.s.ad@m.titech.ac.jp</Speaker_email>
+    <Speaker_company_name>Tokyo Institute of Technology, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803788</SpeakID>
+    <Speaker_First_Name>Andrew</Speaker_First_Name>
+    <Speaker_last_name>Kirby</Speaker_last_name>
+    <Speaker_email>akirby@uwyo.edu</Speaker_email>
+    <Speaker_company_name>University of Wyoming, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803797</SpeakID>
+    <Speaker_First_Name>Sergio</Speaker_First_Name>
+    <Speaker_last_name>Martin</Speaker_last_name>
+    <Speaker_email>martiser@ethz.ch</Speaker_email>
+    <Speaker_company_name>ETH Zurich, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803806</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Lauwers</Speaker_last_name>
+    <Speaker_email>d.lauwers@aia.rwth-aachen.de</Speaker_email>
+    <Speaker_company_name>RWTH Aachen University, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803807</SpeakID>
+    <Speaker_First_Name>Tim</Speaker_First_Name>
+    <Speaker_last_name>Griesbach</Speaker_last_name>
+    <Speaker_email>tim.griesbach@uni-bonn.de</Speaker_email>
+    <Speaker_company_name>Universit&amp;auml;t Bonn, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803811</SpeakID>
+    <Speaker_First_Name>Weslley</Speaker_First_Name>
+    <Speaker_last_name>Pereira</Speaker_last_name>
+    <Speaker_email>weslley.pereira@ucdenver.edu</Speaker_email>
+    <Speaker_company_name>University of Colorado, Denver, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803811</SpeakID>
+    <Speaker_First_Name>Weslley</Speaker_First_Name>
+    <Speaker_last_name>Pereira</Speaker_last_name>
+    <Speaker_email>weslley.pereira@ucdenver.edu</Speaker_email>
+    <Speaker_company_name>University of Colorado, Denver, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803814</SpeakID>
+    <Speaker_First_Name>Shyma</Speaker_First_Name>
+    <Speaker_last_name>Alhuwaider</Speaker_last_name>
+    <Speaker_email>shyma.alhuwaider@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803814</SpeakID>
+    <Speaker_First_Name>Shyma</Speaker_First_Name>
+    <Speaker_last_name>Alhuwaider</Speaker_last_name>
+    <Speaker_email>shyma.alhuwaider@kaust.edu.sa</Speaker_email>
+    <Speaker_company_name>King Abdullah University of Science &amp; Technology (KAUST), Saudi Arabia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803819</SpeakID>
+    <Speaker_First_Name>William</Speaker_First_Name>
+    <Speaker_last_name>Moses</Speaker_last_name>
+    <Speaker_email>wmoses@mit.edu</Speaker_email>
+    <Speaker_company_name>Massachusetts Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803820</SpeakID>
+    <Speaker_First_Name>Amanda</Speaker_First_Name>
+    <Speaker_last_name>Bienz</Speaker_last_name>
+    <Speaker_email>bienz@unm.edu</Speaker_email>
+    <Speaker_company_name>University of New Mexico, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803821</SpeakID>
+    <Speaker_First_Name>Fernanda</Speaker_First_Name>
+    <Speaker_last_name>Foertter</Speaker_last_name>
+    <Speaker_email>fernanda.foertter@nextsilicon.com</Speaker_email>
+    <Speaker_company_name>NextSilicon, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803828</SpeakID>
+    <Speaker_First_Name>Michelle</Speaker_First_Name>
+    <Speaker_last_name>Strout</Speaker_last_name>
+    <Speaker_email>michelle.strout@hpe.com</Speaker_email>
+    <Speaker_company_name>Hewlett Packard Enterprise and University of Arizona, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803828</SpeakID>
+    <Speaker_First_Name>Michelle</Speaker_First_Name>
+    <Speaker_last_name>Strout</Speaker_last_name>
+    <Speaker_email>michelle.strout@hpe.com</Speaker_email>
+    <Speaker_company_name>Hewlett Packard Enterprise and University of Arizona, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803830</SpeakID>
+    <Speaker_First_Name>Nikhil</Speaker_First_Name>
+    <Speaker_last_name>Padmanabhan</Speaker_last_name>
+    <Speaker_email>nikhil.padmanabhan@yale.edu</Speaker_email>
+    <Speaker_company_name>Yale University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803831</SpeakID>
+    <Speaker_First_Name>Michael</Speaker_First_Name>
+    <Speaker_last_name>Merrill</Speaker_last_name>
+    <Speaker_email>mhmerrill@mac.com</Speaker_email>
+    <Speaker_company_name>U.S. Government, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803832</SpeakID>
+    <Speaker_First_Name>Éric</Speaker_First_Name>
+    <Speaker_last_name>Laurendeau</Speaker_last_name>
+    <Speaker_email>eric.laurendeau@polymtl.ca</Speaker_email>
+    <Speaker_company_name>Polytechnique Montreal, Canada</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803834</SpeakID>
+    <Speaker_First_Name>Benjamin</Speaker_First_Name>
+    <Speaker_last_name>Cobb</Speaker_last_name>
+    <Speaker_email>bcobb33@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803842</SpeakID>
+    <Speaker_First_Name>Denis</Speaker_First_Name>
+    <Speaker_last_name>Boyda</Speaker_last_name>
+    <Speaker_email>dboyda@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803842</SpeakID>
+    <Speaker_First_Name>Denis</Speaker_First_Name>
+    <Speaker_last_name>Boyda</Speaker_last_name>
+    <Speaker_email>dboyda@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803843</SpeakID>
+    <Speaker_First_Name>Shen</Speaker_First_Name>
+    <Speaker_last_name>Li</Speaker_last_name>
+    <Speaker_email>shenli@fb.com</Speaker_email>
+    <Speaker_company_name>Facebook, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803844</SpeakID>
+    <Speaker_First_Name>Samyam</Speaker_First_Name>
+    <Speaker_last_name>Rajbhandari</Speaker_last_name>
+    <Speaker_email>samyamr@microsoft.com</Speaker_email>
+    <Speaker_company_name>Microsoft Research, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803845</SpeakID>
+    <Speaker_First_Name>Fariba Afrin</Speaker_First_Name>
+    <Speaker_last_name>Irany</Speaker_last_name>
+    <Speaker_email>faribaafrinirany@my.unt.edu</Speaker_email>
+    <Speaker_company_name>University of North Texas, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803849</SpeakID>
+    <Speaker_First_Name>Alexander</Speaker_First_Name>
+    <Speaker_last_name>Heinlein</Speaker_last_name>
+    <Speaker_email>a.heinlein@tudelft.nl</Speaker_email>
+    <Speaker_company_name>Delft University of Technology, Netherlands</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803849</SpeakID>
+    <Speaker_First_Name>Alexander</Speaker_First_Name>
+    <Speaker_last_name>Heinlein</Speaker_last_name>
+    <Speaker_email>a.heinlein@tudelft.nl</Speaker_email>
+    <Speaker_company_name>Delft University of Technology, Netherlands</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803858</SpeakID>
+    <Speaker_First_Name>Elisabeth</Speaker_First_Name>
+    <Speaker_last_name>Giem</Speaker_last_name>
+    <Speaker_email>eagiem@sandia.gov</Speaker_email>
+    <Speaker_company_name>Sandia National Laboratories, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803859</SpeakID>
+    <Speaker_First_Name>Anthony</Speaker_First_Name>
+    <Speaker_last_name>Skjellum</Speaker_last_name>
+    <Speaker_email>tony-skjellum@utc.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Chattanooga, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803860</SpeakID>
+    <Speaker_First_Name>Akihiro</Speaker_First_Name>
+    <Speaker_last_name>Hayashi</Speaker_last_name>
+    <Speaker_email>ahayashi@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803863</SpeakID>
+    <Speaker_First_Name>Christopher</Speaker_First_Name>
+    <Speaker_last_name>Stone</Speaker_last_name>
+    <Speaker_email>christopher.stone@nianet.org</Speaker_email>
+    <Speaker_company_name>National Institute of Aerospace, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803867</SpeakID>
+    <Speaker_First_Name>Gihan</Speaker_First_Name>
+    <Speaker_last_name>Mudalige</Speaker_last_name>
+    <Speaker_email>g.mudalige@warwick.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Warwick, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803868</SpeakID>
+    <Speaker_First_Name>Brice</Speaker_First_Name>
+    <Speaker_last_name>Videau</Speaker_last_name>
+    <Speaker_email>bvideau@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803869</SpeakID>
+    <Speaker_First_Name>Satya Pramod</Speaker_First_Name>
+    <Speaker_last_name>Jammy</Speaker_last_name>
+    <Speaker_email>satyapramod.j@srmap.edu.in</Speaker_email>
+    <Speaker_company_name>SRM University AP, Andhra Pradesh, India</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803870</SpeakID>
+    <Speaker_First_Name>Engin</Speaker_First_Name>
+    <Speaker_last_name>Kayraklioglu</Speaker_last_name>
+    <Speaker_email>engin@hpe.com</Speaker_email>
+    <Speaker_company_name>Hewlett-Packard Enterprise, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803871</SpeakID>
+    <Speaker_First_Name>Thomas</Speaker_First_Name>
+    <Speaker_last_name>Klosterman</Speaker_last_name>
+    <Speaker_email>tklosterman@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803872</SpeakID>
+    <Speaker_First_Name>Jens</Speaker_First_Name>
+    <Speaker_last_name>Domke</Speaker_last_name>
+    <Speaker_email>jens.domke@riken.jp</Speaker_email>
+    <Speaker_company_name>RIKEN, Japan</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803877</SpeakID>
+    <Speaker_First_Name>Natalia</Speaker_First_Name>
+    <Speaker_last_name>Vassilieva</Speaker_last_name>
+    <Speaker_email>natalia@cerebras.net</Speaker_email>
+    <Speaker_company_name>Cerebras, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803878</SpeakID>
+    <Speaker_First_Name>Jennifer</Speaker_First_Name>
+    <Speaker_last_name>Glore</Speaker_last_name>
+    <Speaker_email>jennifer.glore@sambanovasystems.com</Speaker_email>
+    <Speaker_company_name>SambaNova, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803882</SpeakID>
+    <Speaker_First_Name>Callie</Speaker_First_Name>
+    <Speaker_last_name>Hao</Speaker_last_name>
+    <Speaker_email>callie.hao@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803883</SpeakID>
+    <Speaker_First_Name>Po-An</Speaker_First_Name>
+    <Speaker_last_name>Tsai</Speaker_last_name>
+    <Speaker_email>poant@nvidia.com</Speaker_email>
+    <Speaker_company_name>Nvidia Corporation, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803884</SpeakID>
+    <Speaker_First_Name>Prasanth</Speaker_First_Name>
+    <Speaker_last_name>Chatarasi</Speaker_last_name>
+    <Speaker_email>prasanth@ibm.com</Speaker_email>
+    <Speaker_company_name>IBM Corporation, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803893</SpeakID>
+    <Speaker_First_Name>Marcus</Speaker_First_Name>
+    <Speaker_last_name>Ritter</Speaker_last_name>
+    <Speaker_email>marcus.ritter@tu-darmstadt.de</Speaker_email>
+    <Speaker_company_name>Technische Universität Darmstadt, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803909</SpeakID>
+    <Speaker_First_Name>Pawel</Speaker_First_Name>
+    <Speaker_last_name>Radtke</Speaker_last_name>
+    <Speaker_email>pawel.k.radtke@durham.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Durham, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803913</SpeakID>
+    <Speaker_First_Name>Daniel</Speaker_First_Name>
+    <Speaker_last_name>Thürck</Speaker_last_name>
+    <Speaker_email>daniel.thuerck@neclab.eu</Speaker_email>
+    <Speaker_company_name>NEC Laboratories Europe GmbH, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>803917</SpeakID>
+    <Speaker_First_Name>Mark</Speaker_First_Name>
+    <Speaker_last_name>Turner</Speaker_last_name>
+    <Speaker_email>mark.turner@durham.ac.uk</Speaker_email>
+    <Speaker_company_name>University of Durham, United Kingdom</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804163</SpeakID>
+    <Speaker_First_Name>Stephan</Speaker_First_Name>
+    <Speaker_last_name>Schulz</Speaker_last_name>
+    <Speaker_email>stephan.schulz@phetarer.de</Speaker_email>
+    <Speaker_company_name>Ruhr-Universität Bochum, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804164</SpeakID>
+    <Speaker_First_Name>Jan</Speaker_First_Name>
+    <Speaker_last_name>Stephan</Speaker_last_name>
+    <Speaker_email>j.stephan@hzdr.de</Speaker_email>
+    <Speaker_company_name>Helmholtz-Center Dresden-Rossendorf, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804166</SpeakID>
+    <Speaker_First_Name>N.</Speaker_First_Name>
+    <Speaker_last_name>Hoffmann</Speaker_last_name>
+    <Speaker_email>tbd</Speaker_email>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804167</SpeakID>
+    <Speaker_First_Name>Sam</Speaker_First_Name>
+    <Speaker_last_name>Reeve</Speaker_last_name>
+    <Speaker_email>reevest@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804168</SpeakID>
+    <Speaker_First_Name>Kwitae</Speaker_First_Name>
+    <Speaker_last_name>Chong</Speaker_last_name>
+    <Speaker_email>chongk@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804231</SpeakID>
+    <Speaker_First_Name>Dominik</Speaker_First_Name>
+    <Speaker_last_name>Sturm</Speaker_last_name>
+    <Speaker_email>d.sturm@hzdr.de</Speaker_email>
+    <Speaker_company_name>Center for Advanced Systems Understanding, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804273</SpeakID>
+    <Speaker_First_Name>Joshua</Speaker_First_Name>
+    <Speaker_last_name>Romero</Speaker_last_name>
+    <Speaker_email>joshr@nvidia.com</Speaker_email>
+    <Speaker_company_name>Nvidia Corporation, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804281</SpeakID>
+    <Speaker_First_Name>Wajih</Speaker_First_Name>
+    <Speaker_last_name>Boukaram</Speaker_last_name>
+    <Speaker_email>wajih.boukaram@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804284</SpeakID>
+    <Speaker_First_Name>Raveesh</Speaker_First_Name>
+    <Speaker_last_name>Garg</Speaker_last_name>
+    <Speaker_email>raveesh.g@gatech.edu</Speaker_email>
+    <Speaker_company_name>Georgia Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804298</SpeakID>
+    <Speaker_First_Name>Aristeidis</Speaker_First_Name>
+    <Speaker_last_name>Mastoras</Speaker_last_name>
+    <Speaker_email>aristeidis.mastoras@huawei.com</Speaker_email>
+    <Speaker_company_name>Huawei Technologies Switzerland AG, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804302</SpeakID>
+    <Speaker_First_Name>Wolfgang</Speaker_First_Name>
+    <Speaker_last_name>Bangerth</Speaker_last_name>
+    <Speaker_email>bangerth@colostate.edu</Speaker_email>
+    <Speaker_company_name>Colorado State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804303</SpeakID>
+    <Speaker_First_Name>Albert Jan</Speaker_First_Name>
+    <Speaker_last_name>Yzelman</Speaker_last_name>
+    <Speaker_email>albertjan.yzelman@huawei.com</Speaker_email>
+    <Speaker_company_name>Huawei Technologies Switzerland AG, Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804304</SpeakID>
+    <Speaker_First_Name>Somesh</Speaker_First_Name>
+    <Speaker_last_name>Singh</Speaker_last_name>
+    <Speaker_email>somesh.singh@ens-lyon.fr</Speaker_email>
+    <Speaker_company_name>ENS Lyon, France</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804309</SpeakID>
+    <Speaker_First_Name>Sadaf</Speaker_First_Name>
+    <Speaker_last_name>Alam</Speaker_last_name>
+    <Speaker_email>alam@cscs.ch</Speaker_email>
+    <Speaker_company_name>Centro Svizzero di Calcolo Scientifico (CSCS), Switzerland</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804312</SpeakID>
+    <Speaker_First_Name>Andy</Speaker_First_Name>
+    <Speaker_last_name>Nguyen</Speaker_last_name>
+    <Speaker_email>andyn@cs.uoregon.edu</Speaker_email>
+    <Speaker_company_name>University of Oregon, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804316</SpeakID>
+    <Speaker_First_Name>Thilina</Speaker_First_Name>
+    <Speaker_last_name>Ratnayaka</Speaker_last_name>
+    <Speaker_email>rbr2@illinois.edu</Speaker_email>
+    <Speaker_company_name>University of Illinois, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804331</SpeakID>
+    <Speaker_First_Name>Saurabh</Speaker_First_Name>
+    <Speaker_last_name>Kulkarni</Speaker_last_name>
+    <Speaker_email>saurabhk@graphcore.ai</Speaker_email>
+    <Speaker_company_name>Graphcore, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>804335</SpeakID>
+    <Speaker_First_Name>Rama</Speaker_First_Name>
+    <Speaker_last_name>Vasudevan</Speaker_last_name>
+    <Speaker_email>vasudevanrk@ornl.gov</Speaker_email>
+    <Speaker_company_name>Oak Ridge National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805314</SpeakID>
+    <Speaker_First_Name>Yannick</Speaker_First_Name>
+    <Speaker_last_name>Funk</Speaker_last_name>
+    <Speaker_email>yannickfunk@yahoo.de</Speaker_email>
+    <Speaker_company_name>Karlsruhe Institute of Technology, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805315</SpeakID>
+    <Speaker_First_Name>Alice</Speaker_First_Name>
+    <Speaker_last_name>Gatti</Speaker_last_name>
+    <Speaker_email>agatti@lbl.gov</Speaker_email>
+    <Speaker_company_name>Lawrence Berkeley National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805319</SpeakID>
+    <Speaker_First_Name>Francois</Speaker_First_Name>
+    <Speaker_last_name>Pacaud</Speaker_last_name>
+    <Speaker_email>fpacaud@anl.gov</Speaker_email>
+    <Speaker_company_name>Argonne National Laboratory, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805345</SpeakID>
+    <Speaker_First_Name>Anne</Speaker_First_Name>
+    <Speaker_last_name>Elster</Speaker_last_name>
+    <Speaker_email>elster@ntnu.no</Speaker_email>
+    <Speaker_company_name>Norwegian University of Science and Technology, Norway</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805413</SpeakID>
+    <Speaker_First_Name>TBD</Speaker_First_Name>
+    <Speaker_last_name>SIAM</Speaker_last_name>
+    <Speaker_email>tbd@tbd.org</Speaker_email>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805565</SpeakID>
+    <Speaker_First_Name>Mikhail</Speaker_First_Name>
+    <Speaker_last_name>Kirilin</Speaker_last_name>
+    <Speaker_email>kirilin@ins.uni-bonn.de</Speaker_email>
+    <Speaker_company_name>Universit&amp;auml;t Bonn, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806186</SpeakID>
+    <Speaker_First_Name>Georgii</Speaker_First_Name>
+    <Speaker_last_name>Evtushenko</Speaker_last_name>
+    <Speaker_email>evtushenko.georgy@gmail.com</Speaker_email>
+    <Speaker_company_name>Nvidia Corporation, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+</users>
