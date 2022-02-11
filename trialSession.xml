@@ -31,12 +31,12 @@ workflows.</EventDescription>
     <EventParent></EventParent>
     <EventUniqueID>72849-SESS</EventUniqueID>
     <STATUS>active</STATUS>
-    <AutoRecord>1</AutoRecord>
-    <EnabledForIAV>1</EnabledForIAV>
+    <AutoRecord>TRUE</AutoRecord>
+    <EnabledForIAV>TRUE</EnabledForIAV>
     <MeetingIAVMode>Meeting</MeetingIAVMode>
-    <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
+    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
     <Capacity>300</Capacity>
-    <DirectLinkEnabled>0</DirectLinkEnabled>
+    <DirectLinkEnabled>FALSE</DirectLinkEnabled>
     <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-23T13:00:00</start>
   </meeting>
