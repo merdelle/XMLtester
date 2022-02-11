@@ -37,6 +37,7 @@ workflows.</EventDescription>
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity>300</Capacity>
     <DirectLinkEnabled>0</DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-23T13:00:00</start>
   </meeting>
 </meetings>
