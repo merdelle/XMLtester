@@ -25,12 +25,12 @@
     <EventParentName>73758-SESS</EventParentName>
     <EventUniqueID>73758-116789</EventUniqueID>
     <STATUS>active</STATUS>
-    <AutoRecord>0</AutoRecord>
-    <EnabledForIAV>0</EnabledForIAV>
+    <AutoRecord>FALSE</AutoRecord>
+    <EnabledForIAV>FALSE</EnabledForIAV>
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo xsi:nil="true" />
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>0</DirectLinkEnabled>
+    <DirectLinkEnabled>FALSE</DirectLinkEnabled>
     <DirectLinkRecordingEnabled xsi:nil="true" />
     <start>2022-02-23T13:00:00</start>
   </meeting>
