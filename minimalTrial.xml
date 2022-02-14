@@ -24,10 +24,10 @@
     <EventDescription>Tensor cores, along with tensor processing units, represent a new form of hardware acceleration specifically designed for deep neural network calculations in artificial intelligence applications.  Tensor cores provide extraordinary computational speed and energy efficiency, but with the caveat that they were designed for tensor contractions (matrix-matrix multiplications) using only low precision floating point operations.  Despite this perceived limitation, we demonstrate how tensor cores can be applied with high efficiency to the challenging and numerically sensitive problem of quantum-based Born-Oppenheimer molecular dynamics, which requires highly accurate electronic structure optimizations and conservative force evaluations.   </EventDescription>
     <EventUniqueID>73758-116789</EventUniqueID>
     <STATUS>active</STATUS>
-    <AutoRecord>TRUE</AutoRecord>
-    <EnabledForIAV>TRUE</EnabledForIAV>
+    <AutoRecord>1</AutoRecord>
+    <EnabledForIAV>1</EnabledForIAV>
     <MeetingIAVMode>Meeting</MeetingIAVMode>
-    <PublishAutoRecordedVideo>TRUE</PublishAutoRecordedVideo>
+    <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity>300</Capacity>
     <DirectLinkEnabled></DirectLinkEnabled>
     <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
