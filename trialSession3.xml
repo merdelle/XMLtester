@@ -1,0 +1,72 @@
+﻿<meetings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Quantum-Based Molecular Dynamics with Tensor Cores</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>CP1</EventNumber>
+    <EventDate>Feb 23, 2022</EventDate>
+    <EventStartTime>02/23/22  1:00:00 PM</EventStartTime>
+    <EventEndTime>02/23/22  1:20:00 PM</EventEndTime>
+    <EventFilter>PP22|Contributed</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Joshua Finkelstein</EventSpeakers>
+    <EventSpeakerIDs>786005</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=116789</EventHandoutURL>
+    <EventDescription>Tensor cores, along with tensor processing units, represent a new form of hardware acceleration specifically designed for deep neural network calculations in artificial intelligence applications.  Tensor cores provide extraordinary computational speed and energy efficiency, but with the caveat that they were designed for tensor contractions (matrix-matrix multiplications) using only low precision floating point operations.  Despite this perceived limitation, we demonstrate how tensor cores can be applied with high efficiency to the challenging and numerically sensitive problem of quantum-based Born-Oppenheimer molecular dynamics, which requires highly accurate electronic structure optimizations and conservative force evaluations.   </EventDescription>
+    <EventParentName>73758-SESS</EventParentName>
+    <EventUniqueID>73758-116789</EventUniqueID>
+    <STATUS>inactive</STATUS>
+    <AutoRecord>0</AutoRecord>
+    <EnabledForIAV>0</EnabledForIAV>
+    <MeetingIAVMode xsi:nil="true" />
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity xsi:nil="true" />
+    <DirectLinkEnabled>0</DirectLinkEnabled>
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-23T13:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>SP2 SIAG/Supercomputing Career Prize: Scaling in Space and Time</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>SP2</EventNumber>
+    <EventDate>Feb 25, 2022</EventDate>
+    <EventStartTime>02/25/22  9:25:00 AM</EventStartTime>
+    <EventEndTime>02/25/22  9:55:00 AM</EventEndTime>
+    <EventFilter>PP22|Prize Speaker|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs>763168</EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers></EventSpeakers>
+    <EventSpeakerIDs>708034</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>session</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73832</EventHandoutURL>
+    <EventDescription></EventDescription>
+    <EventParentName></EventParentName>
+    <EventUniqueID>73832-SESS</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV xsi:nil="true" />
+    <MeetingIAVMode xsi:nil="true" />
+    <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
+    <Capacity xsi:nil="true" />
+    <DirectLinkEnabled>1</DirectLinkEnabled>
+    <DirectLinkRecordingEnabled>1</DirectLinkRecordingEnabled>
+    <start>2022-02-25T09:25:00</start>
+  </meeting>
+</meetings>
