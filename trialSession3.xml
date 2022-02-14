@@ -27,11 +27,11 @@
     <STATUS>active</STATUS>
     <AutoRecord>FALSE</AutoRecord>
     <EnabledForIAV>FALSE</EnabledForIAV>
-    <MeetingIAVMode xsi:nil="true" />
-    <PublishAutoRecordedVideo xsi:nil="true" />
-    <Capacity xsi:nil="true" />
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo>FALSE</PublishAutoRecordedVideo>
+    <Capacity>300</Capacity>
     <DirectLinkEnabled>FALSE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled>FALSE<DirectLinkRecordingEnabled>
     <start>2022-02-23T13:00:00</start>
   </meeting>
   <meeting>
