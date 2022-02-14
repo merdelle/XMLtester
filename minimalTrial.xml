@@ -29,7 +29,7 @@
     <MeetingIAVMode>Meeting</MeetingIAVMode>
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity>300</Capacity>
-    <DirectLinkEnabled>0</DirectLinkEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
     <DirectLinkRecordingEnabled xsi:nil="true" />
     <start>2022-02-23T13:00:00</start>
   </meeting>
