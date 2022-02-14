@@ -36,37 +36,37 @@
   </meeting>
   <meeting>
     <ConfCode>PP22</ConfCode>
-    <EventName>SP2 SIAG/Supercomputing Career Prize: Scaling in Space and Time</EventName>
+    <EventName>MS9 Domain Decomposition Methods – Parallel Algorithms, Software, and Machine Learning - Part I of III</EventName>
     <EventSubName></EventSubName>
     <Poster></Poster>
-    <EventNumber>SP2</EventNumber>
-    <EventDate>Feb 25, 2022</EventDate>
-    <EventStartTime>02/25/22  9:25:00 AM</EventStartTime>
-    <EventEndTime>02/25/22  9:55:00 AM</EventEndTime>
-    <EventFilter>PP22|Prize Speaker|</EventFilter>
+    <EventNumber>MS9</EventNumber>
+    <EventDate>Feb 23, 2022</EventDate>
+    <EventStartTime>02/23/22  1:00:00 PM</EventStartTime>
+    <EventEndTime>02/23/22  2:40:00 PM</EventEndTime>
+    <EventFilter>PP22|Minisymposium|</EventFilter>
     <EventLocation></EventLocation>
     <EventRoom></EventRoom>
     <FloorPlan>Hyatt Regency Seattle</FloorPlan>
     <EVENT_FEE></EVENT_FEE>
-    <EventKeywords></EventKeywords>
-    <EventChairs>763168</EventChairs>
+    <EventKeywords>600</EventKeywords>
+    <EventChairs>720131,803849,774576,763792,790005</EventChairs>
     <EventModerators></EventModerators>
     <EventSpeakers></EventSpeakers>
-    <EventSpeakerIDs>708034</EventSpeakerIDs>
+    <EventSpeakerIDs>8363,774576,768555,768192</EventSpeakerIDs>
     <EventSponsor></EventSponsor>
     <EventHandoutName>session</EventHandoutName>
-    <EventHandoutURL>http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73832</EventHandoutURL>
-    <EventDescription></EventDescription>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73346</EventHandoutURL>
+    <EventDescription>Domain decomposition methods are parallel scalable, preconditioned iterative methods for the efficient solution of problems arising from the discretization of partial differential equations. In this minisymposium, we focus on several important aspects of domain decomposition methods: Coarse spaces, nonlinear preconditioning, high-performance computing, software development, and scientific machine learning.</EventDescription>
     <EventParentName></EventParentName>
-    <EventUniqueID>73832-SESS</EventUniqueID>
+    <EventUniqueID>73346-SESS</EventUniqueID>
     <STATUS>active</STATUS>
-    <AutoRecord xsi:nil="true" />
-    <EnabledForIAV xsi:nil="true" />
-    <MeetingIAVMode xsi:nil="true" />
+    <AutoRecord>1</AutoRecord>
+    <EnabledForIAV>1</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
-    <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>1</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>1</DirectLinkRecordingEnabled>
-    <start>2022-02-25T09:25:00</start>
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled>0</DirectLinkEnabled>
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-23T13:00:00</start>
   </meeting>
 </meetings>
