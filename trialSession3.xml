@@ -31,7 +31,7 @@
     <PublishAutoRecordedVideo>FALSE</PublishAutoRecordedVideo>
     <Capacity>300</Capacity>
     <DirectLinkEnabled>FALSE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>FALSE<DirectLinkRecordingEnabled>
+    <DirectLinkRecordingEnabled>FALSE</DirectLinkRecordingEnabled>
     <start>2022-02-23T13:00:00</start>
   </meeting>
   <meeting>
