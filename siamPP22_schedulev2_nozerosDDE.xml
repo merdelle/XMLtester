@@ -594,8 +594,8 @@ In this talk, a distributed memory parallel algorithm and software framework, PL
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-23T17:00:00</start>
   </meeting>
   <meeting>
@@ -629,8 +629,8 @@ In this talk, a distributed memory parallel algorithm and software framework, PL
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-24T08:30:00</start>
   </meeting>
   <meeting>
@@ -14786,8 +14786,8 @@ validate performance models and experimental setups.</EventDescription>
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-24T14:05:00</start>
   </meeting>
   <meeting>
@@ -16887,8 +16887,8 @@ In an effort to bring clarity to the fast-growing field of quantum computing, I 
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-25T09:55:00</start>
   </meeting>
   <meeting>
@@ -16922,8 +16922,8 @@ In an effort to bring clarity to the fast-growing field of quantum computing, I 
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-25T14:20:00</start>
   </meeting>
   <meeting>
@@ -16957,8 +16957,8 @@ In an effort to bring clarity to the fast-growing field of quantum computing, I 
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-26T08:30:00</start>
   </meeting>
   <meeting>
@@ -16992,8 +16992,8 @@ In an effort to bring clarity to the fast-growing field of quantum computing, I 
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-26T09:25:00</start>
   </meeting>
   <meeting>
@@ -20385,8 +20385,8 @@ intelligence opportunities in industry.
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-25T08:30:00</start>
   </meeting>
   <meeting>
@@ -20420,8 +20420,8 @@ intelligence opportunities in industry.
     <MeetingIAVMode xsi:nil="true" />
     <PublishAutoRecordedVideo>1</PublishAutoRecordedVideo>
     <Capacity xsi:nil="true" />
-    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
-    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <DirectLinkEnabled></DirectLinkEnabled>
+    <DirectLinkRecordingEnabled></DirectLinkRecordingEnabled>
     <start>2022-02-25T09:25:00</start>
   </meeting>
 </meetings>
