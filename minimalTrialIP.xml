@@ -1,0 +1,37 @@
+﻿<meetings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>IP1 Welcome Remarks and Presentation: Julia: The Power of Language as an Alternative to MPI </EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>IP1</EventNumber>
+    <EventDate>Feb 23, 2022</EventDate>
+    <EventStartTime>02/23/22  5:00:00 PM</EventStartTime>
+    <EventEndTime>02/23/22  6:00:00 PM</EventEndTime>
+    <EventFilter>PP22|Invited Speaker|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs>712754,89317,798097</EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers></EventSpeakers>
+    <EventSpeakerIDs>711886</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>session</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73437</EventHandoutURL>
+    <EventDescription></EventDescription>
+    <EventParentName></EventParentName>
+    <EventUniqueID>73437-SESS</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV xsi:nil="true" />
+    <MeetingIAVMode xsi:nil="true" />
+    <PublishAutoRecordedVideo></PublishAutoRecordedVideo>
+    <Capacity xsi:nil="true" />
+    <DirectLinkEnabled>TRUE</DirectLinkEnabled>
+    <DirectLinkRecordingEnabled>TRUE</DirectLinkRecordingEnabled>
+    <start>2022-02-23T17:00:00</start>
+  </meeting>
+</meetings>
