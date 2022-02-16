@@ -3,7 +3,7 @@
     <ConfCode>PP22</ConfCode>
     <EventName>Experiments Towards Parallel Adaptive In-Situ Visualization</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -39,7 +39,7 @@ We develop algorithms to visualize the simulation data using the simulation data
     <ConfCode>PP22</ConfCode>
     <EventName>Intelligently Offloading Tasks to Intelligent Hardware</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -75,7 +75,7 @@ We develop algorithms to visualize the simulation data using the simulation data
     <ConfCode>PP22</ConfCode>
     <EventName>Location Estimation from the Ground Up: A New Approach to Teaching Least-Squares Algorithms</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -118,7 +118,7 @@ The poster will spur lively discussions on teaching numerical algorithms, a topi
     <ConfCode>PP22</ConfCode>
     <EventName>Scalable Fine-Grid Empirical Performance Modeling via Tensor Completion</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -160,7 +160,7 @@ The poster will spur lively discussions on teaching numerical algorithms, a topi
     <ConfCode>PP22</ConfCode>
     <EventName>Some HPC-Specific C++ Extensions in Llvm</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -212,7 +212,7 @@ This greatly improves the productivity of numerical developers and hides realisa
     <ConfCode>PP22</ConfCode>
     <EventName>HDBSCAN* on GPUs: Can We Do It Better?</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -251,7 +251,7 @@ We are interested in applying HDBSCAN* to detect clusters in a large cosmologica
     <ConfCode>PP22</ConfCode>
     <EventName>Distributed Memory Tensor Completion For Generalized Loss Functions</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -288,7 +288,7 @@ We are interested in applying HDBSCAN* to detect clusters in a large cosmologica
     <ConfCode>PP22</ConfCode>
     <EventName>Take-Away Impartial Combinatorial Game on Different Geometric and Discrete Structures</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -323,7 +323,7 @@ We are interested in applying HDBSCAN* to detect clusters in a large cosmologica
     <ConfCode>PP22</ConfCode>
     <EventName>A Parallel Finite Element Solver for Skeletal Muscle Deformation</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -360,7 +360,7 @@ We are interested in applying HDBSCAN* to detect clusters in a large cosmologica
     <ConfCode>PP22</ConfCode>
     <EventName>On Centrality Resilience of Complex Networks</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -400,7 +400,7 @@ However, finding high centrality nodes in a large network, although polynomial r
     <ConfCode>PP22</ConfCode>
     <EventName>Interoperability of Resilience Strategies for Simplicity and Performance</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -439,7 +439,7 @@ However, finding high centrality nodes in a large network, although polynomial r
     <ConfCode>PP22</ConfCode>
     <EventName>A Multiresolution Discrete Element Method for Triangulated Objects with Implicit Timestepping</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
@@ -475,7 +475,7 @@ However, finding high centrality nodes in a large network, although polynomial r
     <ConfCode>PP22</ConfCode>
     <EventName>Sundials: Suite of Nonlinear and Differential/Algebraic Equation Solvers</EventName>
     <EventSubName></EventSubName>
-    <Poster></Poster>
+    <Poster>TRUE</Poster>
     <EventNumber>PP0</EventNumber>
     <EventDate>Feb 24, 2022</EventDate>
     <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
