@@ -1,0 +1,547 @@
+﻿<meetings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Experiments Towards Parallel Adaptive In-Situ Visualization</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Tim Griesbach</EventSpeakers>
+    <EventSpeakerIDs>803807</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118696</EventHandoutURL>
+    <EventDescription>The visualization of simulation data that arises from large-scale numerical simulations is a challenging task. Visualization as post-processing step has the disadvantage of writing large amounts of data to disk, which can be slow to the point of impracticality. Relying on a dedicated third-party library for visualization often incurs duplicating data or converting it to a prescribed external data structure, as well as a sizable increase in code, executable, and memory complexity.
+We develop algorithms to visualize the simulation data using the simulation data structure. Specifically, we work with the widely known distributed adaptive octree structure and extend it to support in-situ visualization. One current approach of ours is to revive the radiosity method, which requires only a re-projection of the radiosity results to visualize the scene from a different view point in the rendered scene. Radiosity works by computing the pairwise light transfer between surface patches in a scene, which we determine by enforcing strict local radiation balance. Our algorithm exploits the octree-based data structure by using recursive top-down search algorithms and recursively excluding non-visible surface patches. The AMR data is distributed using the Morton space-filling curve, which we use to parallelize the radiosity system setup and solver. We present the current state of our research, a parallel and natively supported radiosity solver operating on a distributed octree data structure.</EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118696</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Intelligently Offloading Tasks to Intelligent Hardware</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Mark Turner</EventSpeakers>
+    <EventSpeakerIDs>803917</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118806</EventHandoutURL>
+    <EventDescription>Many HPC applications suffer from bandwidth and latency constraints as well as lacking message progression. These problems become particularly severe for sophisticated scientific codes with tasks, multiscale methods, adaptive meshes, multiphysics, multi-numerics, and so forth, as they induce non-deterministic, non-homogeneous data exchange. Smart network devices can serve as a man-in-the-middle between the CPU and the network and thus could champion message transferral. We present an architecture where compute ranks offload tasks to Mellanox BlueFields which either compute those tasks themselves or, where appropriate, issue those tasks to underworked ranks elsewhere in the cluster in a way that is sensitive to both workload imbalances and bottlenecks such as network congestion. Novel hardware in the form of programmable network cards offer the opportunity to offload data transfer responsibilities and thus increase code reactivity with regards to unexpected messages and allow the compute ranks to focus on compute throughput. Our work leads into a generic library for nonpersistent load balancing that is orchestrated in the fabric of cluster supercomputers: it has a minimal API and can easily be integrated into simulation codes that phrase their computations in tasks.
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118806</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Location Estimation from the Ground Up: A New Approach to Teaching Least-Squares Algorithms</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Sivan Toledo</EventSpeakers>
+    <EventSpeakerIDs>704793</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118989</EventHandoutURL>
+    <EventDescription>High-performance computing uses algorithms to resolve mathematical models of a wide range of phenomena. Courses and textbooks that focus on the algorithms and performance-engineering techniques often provide little motivation because explaining the models requires domain knowledge that many students lack.
+
+The poster will present a course and a new SIAM book that present a wide range of least-squares minimization problems and algorithms using models that require almost no background to understand, namely models that estimate location from observations. The problems and algorithms that are covered include linear least squares problem (both full rank and rank deficient), the QR algorithm and the SVD, non-linear least-squares, space-state (Kalman) problems, and mixed-integer least squares. The location-estimation problems that motivate the algorithms include essentially all the techniques used in GPS, as well as many advanced techniques used in other location-estimation systems.
+
+Location-estimation models discussed in the book can thus motivate many types of least-square minimization problems. The book can obviously also be used in courses that expose Mathematics and Computer Science undergraduates to statistical estimation techniques and algorithms without requiring any background in electrical engineering or statistics.
+
+The poster will spur lively discussions on teaching numerical algorithms, a topic that many SIAM PP attendees are highly interested in.
+	
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118989</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Scalable Fine-Grid Empirical Performance Modeling via Tensor Completion</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Edward Hutter</EventSpeakers>
+    <EventSpeakerIDs>780246</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118740</EventHandoutURL>
+    <EventDescription>Rising architectural complexity demands aggressive kernel parameterization to achieve performance portability across an increasingly diverse array of architectures.
+  Latent patterns in kernel performance are often localized across configuration spaces and consequently difficult to model.
+  We observe that many multivariate kernels feature execution times that exhibit low-rank structure.
+  We therefore develop performance models that characterize a multivariate kernel's performance as a low-rank tensor represented explicitly as a summation of multi-dimensional outer products (i.e., CP Decomposition).
+  We leverage tensor completion to learn these expansions from a sparse dataset, which generalizes parametric linear regression performance models by implicitly capturing interactions and (nonlinear) correlations among kernel parameters.
+  Systematic increase in tensor rank improves prediction accuracy, which we show to be necessary to model nonlinear behavior present at fine-grained scales.
+  We demonstrate that the enhanced scalability offered by low-rank representations enables performance prediction accuracy to exceed that achieved by state-of-the-art regression methods across a suite of kernels.
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118740</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+   <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Some HPC-Specific C++ Extensions in Llvm</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Pawel Radtke</EventSpeakers>
+    <EventSpeakerIDs>803909</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118798</EventHandoutURL>
+    <EventDescription>Even though DSLs gain popularity, C++ remains a dominant language for scientific computing in HPC.
+Many selling points of DSLs can directly be explained from four shortcomings of
+C++, where the language design aligns inaptly with the hardware.
+(i) 
+The C++ language yields classes (structs) with a large memory footprint.
+(ii)
+The C++ language naturally leads towards an AoS data design as a class 
+is the primary modelling entity for programmers.
+(iii) 
+The C++ language does not offer built-in support for distributed 
+memory parallelisation (MPI).
+(iv)
+The C++ language lacks support for multifaceted (floating point) data precision.
+We present a pragma-based LLVM extension which allows computational scientists to annotate their
+programs with data layout, MPI and precision information.
+Our compiler extension then yields native MPI and C++ code.
+This greatly improves the productivity of numerical developers and hides realisation complexity.
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118798</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>HDBSCAN* on GPUs: Can We Do It Better?</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Piyush Sao</EventSpeakers>
+    <EventSpeakerIDs>790070</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119090</EventHandoutURL>
+    <EventDescription>HDBSCAN* is a recent clustering algorithm for a multi-dimensional data. It addresses several drawbacks of the original DBSCAN algorithm, such as requiring expert knowledge to tune the parameters or the inability to find clusters of different densities. Despite sharing a similar name, the underlying computation is entirely different: first constructing a minimum spanning tree; then forming a dendrogram, and finally producing a flat clustering. Parallelizing each part is a challenging task, more so on GPUs. We present novel algorithms for each phase, all running on GPUs.  
+
+We are interested in applying HDBSCAN* to detect clusters in a large cosmological data with tens of millions of data points (galaxies!). Therefore, we currently limit ourselves to the two and three-dimensional datasets for the experiments. We describe the bottlenecks we encountered, and our current solution for them. The question, however, remains: can we do any better?
+
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-119090</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+   <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Distributed Memory Tensor Completion For Generalized Loss Functions</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Navjot Singh</EventSpeakers>
+    <EventSpeakerIDs>790176</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=117624</EventHandoutURL>
+    <EventDescription>Tensor completion is a useful tool applied in many fields such as data science, machine learning, signal processing on large scale data. Recent works have shown that using a specific loss function based on insights about the data distribution of the tensor may lead to a better model for completion. We provide novel algorithms and systems infrastructure which enable efficient parallel implementation of algorithms for tensor completion with generalized loss functions. Specifically, we consider alternating minimization, coordinate minimization, and a quasi-Newton (generalized Gauss-Newton) method. We compare these methods to stochastic gradient descent method and show that using second order information leads to more accurate factors in relatively less time in a parallel setting. To make possible tensor completion for very sparse tensors, we introduce new multi-tensor primitives, for which we provide specialized parallel implementations and compare these to the state of the art. We provide microbenchmarking results on the Stampede2 supercomputer to demonstrate the efficiency of the new primitives.
+	
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-117624</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Take-Away Impartial Combinatorial Game on Different Geometric and Discrete Structures</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>T. H. Molena</EventSpeakers>
+    <EventSpeakerIDs>802691</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118005</EventHandoutURL>
+    <EventDescription>Following from the winning strategy for a Take-Away Impartial Combinatorial Game on only Oddly Uniform or only Evenly Uniform Hypergraphs in the Ph.D. Dissertation of Dr. Kristen Barnard (an Assistant Professor of Mathematics at Berea College), T. H. Molena found the new winning strategy for a Take Away Game on neither Oddly nor Evenly Uniform Hypergraphs during her Undergraduate Independent Research opportunity. However, those neither Oddly nor Evenly Uniform Hypergraphs must meet the given special requirements. In a Take-Away Game on hypergraphs, two players take turns to remove the vertices and the hyperedges of a hypergraph. In each turn, a player must remove either only one vertex or only one hyperedge. When a player chooses to remove one vertex, all of the hyperedges that contain the chosen vertex are also removed. When a player chooses to remove one hyperedge, only that one chosen hyperedge is removed. Whoever removes the last vertex wins the game. All of the new theorems in this research paper are in agreement with the previous theorems in Dr. Kristen Barnard’s Ph.D. Dissertation.</EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118005</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>A Parallel Finite Element Solver for Skeletal Muscle Deformation</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Javier Almonacid</EventSpeakers>
+    <EventSpeakerIDs>803727</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118714</EventHandoutURL>
+    <EventDescription>Recent advances in understanding how skeletal muscle deforms have led to a new, more informative multiphysics model that views muscles as composite biomaterials, drawing a connection to the deformation of nonlinear solids and active materials. This model yields a three-dimensional, highly nonlinear system of partial differential equations (PDEs). On the other hand, the presence of important physiological entities across multiple length scales and highly heterogeneous material coefficients require finite element meshes to be particularly refined. Therefore, traditional computers may not be able to store all this information, or it may take too long to solve the resulting linear systems of equations. In this work, a parallel solver for skeletal muscle deformation is developed. The code is designed to run primarily on a distributed architecture and contains Message Passing Interface (MPI) capabilities. In particular, the decomposition of the mesh is achieved through the p4est library, while the linear algebra components are handled using the Trilinos library. The core of the code has been developed using deal.II, a C++ library for the finite element solution of PDEs. Scaling analyses show that this distributed implementation represents a step above an existing shared-memory implementation in which the design pattern WorkStream is used to enable multithreading.
+
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118714</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>On Centrality Resilience of Complex Networks</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Fariba Afrin Irany</EventSpeakers>
+    <EventSpeakerIDs>803845</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118741</EventHandoutURL>
+    <EventDescription>
+The resilience of a complex network relates to how well certain of its properties are retained under attacks. In this paper, we study centrality resilience, that is, resilience to path-based centralities: closeness and betweenness centralities. Our goal is to develop attack models that can disrupt the rank of the top path-based centrality nodes.  Attack models are useful in disrupting flow through a network with minimum disruption, such as in avoiding the spread of epidemics by vaccinating/quarantining super-spreaders. 
+
+However, finding high centrality nodes in a large network, although polynomial rime is extremely expensive for large-scale networks. We show that there are several expander-like subgraphs that are embedded in complex networks, and influential nodes with high centrality are located within these expander graphs. We present an efficient method for identifying these regions and thereby the influential nodes, using snowball sampling and the core-periphery structure of the sampled graph. We further demonstrate that the resilience of the network is dependent on the number and size of the expander-like subgraphs. Based on these observations we develop attack models to disrupt the flow through the network. 
+
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118741</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Interoperability of Resilience Strategies for Simplicity and Performance</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Matthew Whitlock</EventSpeakers>
+    <EventSpeakerIDs>790179</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119082</EventHandoutURL>
+    <EventDescription>Resilience at high scales necessitates minimizing and localizing the impact of failures and their recovery. Current techniques for resilience in high performance computing (HPC) applications use highly efficient, well tested libraries, but rely on a global tear-down and re-launch which places an unnecessary burden on the recovery process. However, these resilience strategies are simple for developers to implement and are already present in many current applications. Work on fault tolerant MPI specifications - such as User Level Fault Mitigation (ULFM) - has enabled more localized recovery, but at the cost of high development costs. We present the integration of existing, high performance recovery libraries with Fenix, a library built on top of ULFM to simplify recovery and emulate a more typical global tear-down process without paying the costs. Using Fenix to bridge the gap between local and global recovery processes lets the users step-by-step localize recovery with a series of minor changes to their application code. This integration leads to better performance in failure recovery and serves as a simplified bridge to the types of software resilience that may be needed to enable performant and energy-efficient future hardware. 
+
+[SNL is managed and operated by NTESS under DOE NNSA contract DE-NA0003525.]
+
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-119082</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>A Multiresolution Discrete Element Method for Triangulated Objects with Implicit Timestepping</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Peter Noble</EventSpeakers>
+    <EventSpeakerIDs>791858</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118812</EventHandoutURL>
+    <EventDescription>Simulations of many rigid bodies colliding with each other sometimes yield particularly interesting results if the colliding objects differ significantly in size and are non-spherical.  The most expensive part within such a simulation code is the collision detection.  We propose a family of novel multiscale collision detection algorithms that can be applied to triangulated objects within explicit and implicit time stepping methods.  They are well-suited to handle objects that cannot be represented by analytical shapes or assemblies of analytical objects.  Inspired by multigrid methods and adaptive mesh refinement, we determine collision points iteratively over a resolution hierarchy, and combine a functional minimisation plus penalty parameters with the actual comparison-based geometric  distance  calculation.   Coarse  surrogate  geometry  representations  identify  “no  collision” scenarios early on and otherwise yield an educated guess which triangle subsets of the next finer level potentially yield collisions.  They prune the search tree, and furthermore feed conservative contact force estimates into the iterative solve behind an implicit time stepping.  Implicit time stepping and non-analytical  shapes  often  yield  prohibitive  high  compute  cost  for  rigid  body  simulations.   Our approach reduces these cost algorithmically by one to two orders of magnitude.  It also exhibits high vectorisation efficiency due to its iterative nature.
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-118812</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Sundials: Suite of Nonlinear and Differential/Algebraic Equation Solvers</EventName>
+    <EventSubName></EventSubName>
+    <Poster></Poster>
+    <EventNumber>PP0</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs></EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers>Cody Balos</EventSpeakers>
+    <EventSpeakerIDs>784882</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName>Abstract</EventHandoutName>
+    <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119104</EventHandoutURL>
+    <EventDescription>SUNDIALS is a suite of robust and scalable integrators and solvers for systems of ordinary differential equations, differential-algebraic equations, and nonlinear equations. The suite consists of six independent packages, CVODE(S), ARKODE, IDA(S), and KINSOL, and is designed to be easily incorporated into existing simulation codes with minimal information from the user. In this poster, we overview the capabilities of the SUNDIALS suite, discuss recent results from applications codes ranging from additive manufacturing to combustion and fusion energy, and highlight efforts to add performance instrumentation and measurement capabilities as well as automated performance regression testing.
+ 
+This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. 
+    </EventDescription>
+    <EventParentName>73765-SESS</EventParentName>
+    <EventUniqueID>73765-119104</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV>TRUE</EnabledForIAV>
+    <MeetingIAVMode>Meeting</MeetingIAVMode>
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity>300</Capacity>
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+  <meeting>
+    <ConfCode>PP22</ConfCode>
+    <EventName>Poster Session</EventName>
+    <EventSubName></EventSubName>
+    <Poster>TRUE</Poster>
+    <EventNumber>PP</EventNumber>
+    <EventDate>Feb 24, 2022</EventDate>
+    <EventStartTime>02/24/22  6:00:00 PM</EventStartTime>
+    <EventEndTime>02/24/22  8:00:00 PM</EventEndTime>
+    <EventFilter>PP22|</EventFilter>
+    <EventLocation></EventLocation>
+    <EventRoom></EventRoom>
+    <FloorPlan>Hyatt Regency Seattle</FloorPlan>
+    <EVENT_FEE></EVENT_FEE>
+    <EventKeywords></EventKeywords>
+    <EventChairs>796990</EventChairs>
+    <EventModerators></EventModerators>
+    <EventSpeakers></EventSpeakers>
+    <EventSpeakerIDs>790176,802691,780246,803845,774784,803909,803917,791858,803807,803727,790179,704793,790070,784882</EventSpeakerIDs>
+    <EventSponsor></EventSponsor>
+    <EventHandoutName></EventHandoutName>
+    <EventHandoutURL></EventHandoutURL>
+    <EventDescription></EventDescription>
+    <EventParentName></EventParentName>
+    <EventUniqueID>73765-SESS</EventUniqueID>
+    <STATUS>active</STATUS>
+    <AutoRecord xsi:nil="true" />
+    <EnabledForIAV xsi:nil="true" />
+    <MeetingIAVMode xsi:nil="true" />
+    <PublishAutoRecordedVideo xsi:nil="true" />
+    <Capacity xsi:nil="true" />
+    <DirectLinkEnabled xsi:nil="true" />
+    <DirectLinkRecordingEnabled xsi:nil="true" />
+    <start>2022-02-24T18:00:00</start>
+  </meeting>
+</meetings>
