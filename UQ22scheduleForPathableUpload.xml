@@ -2675,7 +2675,7 @@ From the uncertainty quantification achieved by PCE, we can make statements abou
 		<EventNumber>PP1</EventNumber>
 		<EventDate>Apr 12, 2022</EventDate>
 		<EventStartTime>04/12/22 20:00:00</EventStartTime>
-		<EventEndTime>04/12/2210:00:00 PM</EventEndTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
 		<EventFilter>UQ22|</EventFilter>
 		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
 		<EventSpeakers>Tim Reid</EventSpeakers>
@@ -18783,7 +18783,7 @@ Numerical examples from various applications and with arbitrary prior and noise,
 		<EventNumber>MS81</EventNumber>
 		<EventDate>Apr 13, 2022</EventDate>
 		<EventStartTime>04/13/22 16:15:00</EventStartTime>
-		<EventEndTime>04/13/224:40:00 PM</EventEndTime>
+		<EventEndTime>04/13/22 16:40:00</EventEndTime>
 		<EventFilter>UQ22|Minisymposium</EventFilter>
 		<EventRoom>Chastain G - 6th Floor</EventRoom>
 		<EventKeywords>1000</EventKeywords>
@@ -19233,7 +19233,7 @@ Finally, we offer insights on best practices and compare the performances of dif
 		<EventName>Bamcafe: A Bayesian Machine Learning Advanced Forecast Ensemble Method for Complex Turbulent Systems with Partial Observations</EventName>
 		<EventNumber>MS86</EventNumber>
 		<EventDate>Apr 13, 2022</EventDate>
-		<EventStartTime>04/13/22  4:15:00PM</EventStartTime>
+		<EventStartTime>04/13/22 16:15:00</EventStartTime>
 		<EventEndTime>04/13/22 16:40:00</EventEndTime>
 		<EventFilter>UQ22|Minisymposium</EventFilter>
 		<EventRoom>Peachtree 2 - 8th Floor</EventRoom>
