@@ -1,0 +1,30 @@
+<meetings>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>PP1 Welcome Reception and Poster Session</EventName>
+		<EventSubName></EventSubName>
+		<Poster>TRUE</Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22  20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs>796990</EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers></EventSpeakers>
+		<EventSpeakerIDs>802691,803569,804537,804641,804613,804714,786291,767468,804788,791287,789111,804599,804631,783846,783726,804995</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>session</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73814</EventHandoutURL>
+		<EventDescription></EventDescription>
+		<EventParent></EventParent>
+		<EventUniqueID>73814-SESS</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+</meetings>
