@@ -1,0 +1,487 @@
+<meetings>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Take-Away Impartial Combinatorial Game on Different Geometric and Discrete Structures</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>T. H. Molena</EventSpeakers>
+		<EventSpeakerIDs>802691</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118006</EventHandoutURL>
+		<EventDescription>Following from the winning strategy for a Take-Away Impartial Combinatorial Game on only Oddly Uniform or only Evenly Uniform Hypergraphs in the Ph.D. Dissertation of Dr. Kristen Barnard (an Assistant Professor of Mathematics at Berea&#x0D;
+College), Molena Nguyen found the new winning strategy for a Take-Away Game on&#x0D;
+neither Oddly nor Evenly Uniform Hypergraphs during her Undergraduate&#x0D;
+Independent Research opportunity. However, those neither Oddly nor Evenly&#x0D;
+Uniform Hypergraphs must meet the given special requirements.&#x0D;
+In a Take-Away Game on hypergraphs, two players take turns to remove the vertices&#x0D;
+and the hyperedges of a hypergraph. In each turn, a player must remove either only&#x0D;
+one vertex or only one hyperedge. When a player chooses to remove one vertex, all&#x0D;
+of the hyperedges that contain the chosen vertex are also removed. When a player&#x0D;
+chooses to remove one hyperedge, only that one chosen hyperedge is removed.&#x0D;
+Whoever removes the last vertex wins the game. All of the new theorems in this&#x0D;
+research paper are in agreement with the previous theorems in Dr. Kristen Barnards&#x0D;
+Ph.D. Dissertation.</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-118006</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Spatio-Temporal Kriging from CloudSat Observations</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Pierre Minvielle</EventSpeakers>
+		<EventSpeakerIDs>803569</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118331</EventHandoutURL>
+		<EventDescription>Spatiotemporal statistical learning has received increased attention in the past decade, due to spatially and temporally indexed data proliferation, especially collected from satellite remote sensing. Observational studies of clouds are recognized as an important step to improve cloud representation in weather and climate models. Since 2006, the satellite CloudSat of NASA carries a 94 GHz cloud profiling radar and is able to retrieve, from radar reflectivity, microphysical parameter distribution such as water or ice content. The collected data is piled up with the successive satellite orbits of nearly 2 hours, leading to a large database of 2 TO. &#x0D;
+&#x0D;
+To go further than cloud analysis, it is interesting to be able to interpolate, in space, and to predict, in time, the cloud microphysics in medium and long term. Since an accurate estimation is obviously unattainable, it is an issue of uncertainty quantification. Starting from a data exploratory analysis, we have recently initiated a statistical kriging-based approach that is able to interpolate/predict from the dataset and provide uncertainties. Beforehand, it requires in particular estimating the parameters of the spatio-temporal covariance model; it is performed in a Bayesian setting, which allows for estimation and uncertainties quantification. The approach is then applied to a subset of the CloudSat dataset. &#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-118331</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Disentangling Intracellular Behavior from Extracellular Data</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Andre Archer</EventSpeakers>
+		<EventSpeakerIDs>791287</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119302</EventHandoutURL>
+		<EventDescription>Bacteria can utilize a biodiesel waste product, glycerol, to produce 1,3-propanediol (1,3-PDO), a common commercial solvent. To study the viability of 1,3-PDO producing bacteria, the cell membrane transport of reactant species and the in-vivo kinetics of the pathway enzymes (DhaT &amp; DhaB) need to be quantified. The kinetics of purified DhaT have been studied, but the reaction environment and kinetics in cells may differ. Additionally, the kinetics of the DhaB enzyme and cell membrane transport mechanisms of the reactants are undetermined. &#x0D;
+&#x0D;
+With published consumption and production time series data of bacteria feeding on different initial glycerol concentrations, I used Bayesian Calibration on an ODE model of the system to infer the unknown parameters.  The resulting data distribution closely matched the experimental results. The resulting parameter distributions revealed that glycerol and 1,3-PDO are transported via facilitated diffusion; the maximum reaction rate of DhaT is larger in-vivo than in-vitro; and the permeability of 3-HPA, a toxic intermediate, is structurally unidentifiable under the experimental conditions.&#x0D;
+&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119302</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>A Bayesian Framework for Parameter Estimation from Sparse and Noisy Measurement Data in Systems Biology</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Nate Linden</EventSpeakers>
+		<EventSpeakerIDs>804537</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119468</EventHandoutURL>
+		<EventDescription>We propose a Bayesian parameter estimation framework to facilitate model calibration and uncertainty analysis for predictive models of biological systems. Many of these models are nonlinear differential equations that characterize the dynamics of the relevant biochemical species. System biologists need to estimate many free parameters from sparse and noisy experimental data to calibrate these models. Despite the uncertainties associated with this data, systems biologists directly fit the free parameters, typically ignoring any uncertainty altogether. Our work moves past this traditional model-fitting paradigm by adapting an approximate marginal Markov chain Monte Carlo (MCMC) method for Bayesian parameter estimation. We find that this method can recover the posterior parameter distribution from experimental data for a well-known biological system, the mitogen-activated protein kinase signaling pathway. Further, we use this method to explore several questions related to this system: \textit{What are the effects of the experimental conditions on the recovered model parameters?} and \textit{Can we assume thatmodels calibrated to these varied data show equivalent behavior?} Our work introduces a new modeling paradigm that bridges the gap between standard systems biology modeling practices and rigorous uncertainty quantification.&#x0D;
+&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119468</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Pagp: A Physics-Assisted Gaussian Process Framework with Active Learning for Forward and Inverse Problems of Partial Differential Equations</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Shiqi Zhang</EventSpeakers>
+		<EventSpeakerIDs>804641</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119475</EventHandoutURL>
+		<EventDescription>In this work, a Gaussian process regression(GPR) model incorporated with given physical information in partial differential equations(PDEs) is developed: physics-assisted Gaussian process(PAGP). The targets of this model can be briefly described by solving forward and inverse problems of given PDEs. We introduce three different models: continuous time, discrete time and hybrid models. The given physical information is integrated into GPR model through our designed Gaussian process(GP) loss functions following the idea of penalized GPR. The first part introduces the continuous time model which treats temporal domain the same as spatial domain. The unknown coefficients in given PDEs can be jointly learned with GP hyper-parameters by minimizing the designed loss function. In the discrete time models, we first choose a time discretization scheme. Then the PAGP model is applied at each time step together with the scheme to approximate PDE solutions at given test points. To discover unknown coefficients in this setting, observations at two specific times are needed and a mixed mean square error function is constructed to obtain the optimal coefficients. In the last part, a novel hybrid model combining the continuous and discrete time models is presented. It merges the flexibility of continuous time model and the accuracy of the discrete time model. The effectiveness of the proposed PAGP methods is illustrated by five numerical experiments.&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119475</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Uncertainty Quantification in Multiscale Modeling of Markovian Type Charge Dynamics</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Zhongquan Chen</EventSpeakers>
+		<EventSpeakerIDs>804613</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119478</EventHandoutURL>
+		<EventDescription>First-principle multiscale models of charge dynamics in disordered material typically combine classical methods for structure simulations with a quantum description of the charge carriers\cite{ruhle_microscopic_2011}. Rates for transitions are determined and the dynamics modeled as a random walk in an electric network. The Markovian transition matrix is subject to uncertainties from the multi-scale procedure, and large statistical samples are required for obtaining device properties, such as charge absorption time and effective conductance.&#x0D;
+&#x0D;
+As an alternative to expensive Monte Carlo (MC) sampling, we study the dynamical properties from an analysis of the uncertainty within a Gaussian disorder model. Specifically, means and standard deviations of absorption time and effect resistance are calculated from polynomial chaos expansion (PCE)\cite{xiu_wiener--askey_2002}. Sensitivity analysis is performed to identify the material regions prone to perturbation and most influential on the macroscopic observables. We find that as the PCE terms go to infinities, the effective resistance approaches the Monte Carlo sample means.&#x0D;
+&#x0D;
+From the uncertainty quantification achieved by PCE, we can make statements about the confidence level at characterizing the dynamical properties of the materials. We show numerical results from MC and PCE of the hole conductance in a polymeric composite material used in a neuromorphic device.</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119478</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Maximin Distance Designs with Mixed Continuous, Ordinal and Binary Variables</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Hui Lan</EventSpeakers>
+		<EventSpeakerIDs>804714</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119479</EventHandoutURL>
+		<EventDescription>  We propose a new method to construct maximin distance designs with arbitrary numbers of dimensions and points. The proposed designs hold interleaved-layer structures and handel the mixed continuous, ordinal and binary variables. Applicable to distance measures with equal or unequal weights, our method is useful for emulating computer experiments when a relatively accurate a priori guess on variable importance is available.&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119479</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Efficient UQ and Global Time-Varying Sensitivity Analysis Using the Spatially Adaptive Combination Technique</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Ivana Jovanovic Buha</EventSpeakers>
+		<EventSpeakerIDs>786291</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119487</EventHandoutURL>
+		<EventDescription>Due to their construction, conceptual hydrological models typically exhibit many parameter uncertainties with considerable variance, leading to significant uncertainty in model predictions (e.g., predictions of flood or drought events). The propagation of the resulting high-dimensional joint parameter uncertainty is a challenging task bothmathematically and in terms of the computational demands. In this work, we employ a non-intrusive polynomial chaos expansion to model uncertainty in five or more input parameters that characterize high-flow conditions. We rely on sparse grid (SG) strategies to compute the expansion's coefficients while keeping the necessary model runs small. To keep the black-box property of the combination technique while focusing on regions of interest adaptively, we rely on a recently proposed spatially adaptive SG combination technique with a dimension-wise refinement algorithm. Due to the runtime of the model, parallel execution and parallel post-processing of the UQ analysis are crucial in our solution. On the example of specific hydrological models used for flood forecasting, we show that our results can give an insight into the parameters' stochastic importance and provide authorities with a reliable uncertainty band over the flow predictions in a reasonable time. Our work bridges the gap between earlier theoretical work on UQ and more complex real-world problems.</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119487</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Bayesian Inversion of a Coupled Acoustic-Gravity Model for Predictive Tsunami Simulation</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Stefan Henneking</EventSpeakers>
+		<EventSpeakerIDs>767468</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119507</EventHandoutURL>
+		<EventDescription>To improve tsunami preparedness, early-alert systems and real-time monitoring are essential. We propose a novel approach for predictive tsunami modeling within the Bayesian inversion framework. This effort focuses on informing the immediate response to an occurring tsunami event using near-field data observation. Our forward model is based on a coupled acoustic-gravity model (e.g., Lotto and Dunham, Comput Geosci (2015) 19:327340). Similar to other tsunami models, our forward model relies on transient boundary data describing the location and magnitude of the seafloor deformation. In a real-time scenario, these parameter fields must be inferred from a variety of measurements, including observations from pressure gauges mounted on the seafloor. One particular difficulty of this inference problem lies in the accurate inversion from sparse pressure data recorded in the near-field where strong hydroacoustic waves propagate in the compressible ocean; these acoustic waves complicate the task of estimating the hydrostatic pressure changes related to the forming surface gravity wave. Furthermore, the forward model incurs a high computational complexity, since the pressure waves must be resolved in the 3D compressible ocean over a sufficiently long time span. Due to the infeasibility of rapidly solving the corresponding inverse problem for the fully discretized space-time operator, we explore options for using surrogate operators of the parameter-to-observable map.</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119507</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Active Learning Within the Kennedy and O'Hagan Framework for Rare Earth Element Solvent Extraction Equilibria</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Scott Koermer</EventSpeakers>
+		<EventSpeakerIDs>804788</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119526</EventHandoutURL>
+		<EventDescription>The Kennedy and O'Hagan (KOH) calibration framework implemented with Gaussian Process (GP) regression can be used to assimilate real and simulated data sources for improved real world prediction.  While it is common to use active learning criteria with GPs to sequentially acquire data for improved prediction, active learning for acquiring simulator data for improved real world prediction within the KOH framework is sparsely found within the statistical literature.  First, we propose an integrated mean squared prediction error criteria which can be utilized with the KOH calibration framework and computed in closed form.  Then, we provide an empirical comparison to other methods using results from a Monte Carlo experiment on a toy data generating mechanism.  Lastly, we overview results from the motivating example:  predicting equilibrium conditions of rare earth elements for a liquid-liquid extraction chemical process.&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119526</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Examining Effect of CG Error on Computational Pipelines with Probabilistic Numerics</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Tim Reid</EventSpeakers>
+		<EventSpeakerIDs>789111</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119556</EventHandoutURL>
+		<EventDescription>Many computational pipelines depend on solving systems of linear equations. The Conjugate Gradient method (CG) is a widely used iterative method that solves systems of linear equations. Early termination of CG sacrifices accuracy to save computational resources. We analyze the propagation of CG error in computational pipelines, specifically the computation of a generalized singular value decomposition.&#x0D;
+&#x0D;
+The Bayesian Conjugate Gradient method (BayesCG) is a probabilistic generalization of CG that solves systems of linear equations and produces a probability distribution that models the error. By sampling from the BayesCG distribution and propagating those samples through the computational pipeline, we obtain a distribution that models the effect of CG error on the output of the computational pipeline.&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119556</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Robust Initializations of Variational Inference with Gaussian Mixtures Through Global Optimization and Laplace Approximations</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Wyatt Bridgman</EventSpeakers>
+		<EventSpeakerIDs>804599</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119558</EventHandoutURL>
+		<EventDescription>In variational inference (VI), mean-field  approximations are often too restrictive to provide useful approximations of intractable Bayesian posteriors exhibiting multimodal and non-Gaussian behavior. High-fidelity surrogate posteriors can be obtained by considering the family of Gaussian mixtures, capable of capturing multiple modes and approximating any distribution. VI with Gaussian mixtures can suffer from an explosion in the number of parameters as the dimensionality of the underlying problem increases. Coupled with the existence of multiple local minima due to strong nonconvex trends in the loss functions associated with VI, these challenges motivate the need for robust initialization procedures to improve the performance of VI with mixture models. In this work, we propose a method for constructing a Gaussian mixture model approximation that can be used to initialize VI. The procedure begins with a global optimization stage to find a set of local maxima, which we take to approximate the mixture component centers. Around each mode, a local Gaussian approximation is constructed via the Laplace approximation. Finally, the mixture weights are determined through constrained least squares regression. The procedure is subjected to a variance based sensitivity analysis to investigate its robustness across various aspects of the posterior distributions.  The proposed methodology is also analyzed as an initialization procedure for VI on a multimodal toy problem in two dimensions.</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119558</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>A Variance Deconvolution Approach to Sampling Uncertainty Quantification for Monte Carlo Radiation Transport Solvers</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Kayla Clements</EventSpeakers>
+		<EventSpeakerIDs>804631</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119570</EventHandoutURL>
+		<EventDescription>Radiation transport computations in realistic systems are affected by the presence of uncertainty sources, e.g. nuclear cross section data and variability in geometric arrangement. Therefore, it is of paramount importance to statistically characterize the response of quantities of interest by performing accurate uncertainty quantification (UQ). Traditionally, UQ is focused on evaluating how the statistics of a numerical code response are affected by sources of uncertainty, which can be propagated through several runs of the numerical code. However, for radiation transport problems solved using Monte Carlo particle transport methods in which one sample (in the parameter space) of the quantity of interest is obtained by averaging various particles random walks, the non-deterministic nature of the solver introduces an additional source of variance. In this contribution, we describe how we can obtain more efficient and accurate sample variance estimators by taking into account, and removing, the additional variability introduced by the Monte Carlo radiation transport solvers. We will provide a rigorousmathematical treatment of these variance contributions and their sampling estimator counterparts. In particular, we will present several numerical test problems in which this variance deconvolution strategy is deployed with and without scattering, in 1D slabs, and with different sources of uncertainty including uncertain material properties and stochastic mixing.&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119570</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>An Expected Log-Likelihood Based Acquisition Function for Bayesian Optimization.</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Marieme Ngom</EventSpeakers>
+		<EventSpeakerIDs>783846</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119582</EventHandoutURL>
+		<EventDescription>We present a novel acquisition function that is well-suited for Multi-Objective Bayesian Optimization (MOBO) problems. Instead of sequentially sampling points that reduce the uncertainty around Quantities of Interest (QOI), we acquire new points in a region where the objective function decreases. We achieve this by exploiting an expected log-likelihood based acquisition function that efficiently balances the exploration/exploitation trade-off. The developed method incorporates a rigorous Uncertainty Quantification (UQ) on the input and output parameters and is well-adapted for design problems where a targeted output needs to be produced. We validate the presented strategy on a set of problems that arise from manufacturing experiments where our approach is particularly relevant, and compare its performance to Bayesian Optimization algorithms with common acquisition functions such as the Expected Improvement (EI) or the Upper Confidence Bound (UCB).&#x0D;
+&#x0D;
+	&#x0D;
+&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119582</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Quantifying Aleatoric and Epistemic Uncertainties in RLC Circuits with Data-consistent Inversion</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Tian Yu Yen</EventSpeakers>
+		<EventSpeakerIDs>783726</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119602</EventHandoutURL>
+		<EventDescription>The characterization of uncertainty as aleatoric or epistemic is a fundamental part of solving ill-posed inverse problems. However, in practice, when epistemic uncertainty is modeled with aleatoric random variables, the distinction between aleatoric and epistemic uncertainty can become blurred, especially in Bayesian contexts. When the parameter of interest in a physical model is subject to epistemic uncertainty, the Bayesian formulation treats the parameter as a random variable whose distribution collapses to the true value as more data is observed (i.e., parameter identification). On the other hand, when the parameter of interest is subject to aleatoric uncertainty, the appropriate Bayesian formulation to the inverse problem necessitates a hierarchical approach to modeling the inherent variability of the parameter (i.e., distribution estimation). In this work, we illustrate the importance of these philosophic distinctions by comparing two inverse problems involving RLC circuits. In addition, we present new research into the measure-theoretic approach to quantifying these uncertainties called Data-consistent inversion. Both Bayesian and Data-consistent methods are applied to the two RLC circuit problems. Theoretical properties and numerical results of the solutions are compared and contrasted, along with their benefits and drawbacks.&#x0D;
+		</EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119602</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Towards a Data Assimilation Earthquake Estimator: Using An Ensemble Kalman Filter on 2D Perfect Model Experiments</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>PP1</EventNumber>
+		<EventDate>Apr 12, 2022</EventDate>
+		<EventStartTime>04/12/22 20:00:00</EventStartTime>
+		<EventEndTime>04/12/22 22:00:00</EventEndTime>
+		<EventFilter>UQ22|</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Augusta ABCD - 7th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Hamed Diab-Montero</EventSpeakers>
+		<EventSpeakerIDs>804995</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119673</EventHandoutURL>
+		<EventDescription>Earthquakes are among the most dangerous natural hazards. In the last decades, there has been a lot of progress in developing more accurate Early Earthquake Warning Systems (EEWS) and Probabilistic Seismic Hazard Assessments (PSHAs) to prepare the population for possible future earthquakes events. However, our ability to produce forecasts is hampered by very limited information on the current state of stress, strength, and governing parameters of the existing faults generating the earthquakes. Ensemble data assimilations (EDAs) provide a means to estimate the time evolution of the state of stress, strength, and governing parameters of existing faults and therefore the earthquakes they produce. The EDAs have the advantage of combining the estimates of physics-based models and observation while quantifying their uncertainties. Perfect model experiments with an Ensemble Kalman Filter (EnKF), connected with 2D earthquake cycle models, demonstrate the ability to estimate the state variables of shear stresses, slip velocities, and state (?) of a straight fault governed by rate-and-state friction surrounded by a homogeneous elastic medium. Furthermore, despite the inherent assumption on the Gaussianity of these distributions, the EnKF still provides a reasonable estimate of the time of occurrence of earthquakes in the 2D experiment. </EventDescription>
+		<EventParent>73814-SESS</EventParent>
+		<EventUniqueID>73814-119673</EventUniqueID>
+		<STATUS>active</STATUS>
+		<start>2022-04-12T20:00:00</start>
+	</meeting>
+</meetings>
