@@ -1,13 +1,13 @@
 <meetings>
 	<meeting>
 		<Confcode>UQ22</Confcode>
-		<EventName>Robust Prediction Interval Estimation for Gaussian Processes by Cross-Validation Method</EventName>
+		<EventName>Test</EventName>
 		<EventSubName></EventSubName>
 		<Poster></Poster>
 		<EventNumber>CP1</EventNumber>
-		<EventDate>Apr 12, 2022</EventDate>
-		<EventStartTime>2022-04-12 09:30:00</EventStartTime>
-		<EventEndTime>2022-04-12 09:45:00</EventEndTime>
+		<EventDate>Apr 11, 2022</EventDate>
+		<EventStartTime>2022-04-11 18:30:00</EventStartTime>
+		<EventEndTime>2022-04-11 18:45:00</EventEndTime>
 		<EventFilter>UQ22|Contributed</EventFilter>
 		<EventLocation></EventLocation>
 		<EventRoom>Peachtree A - 8th Floor</EventRoom>
@@ -25,8 +25,8 @@
 &#x0D;
 In this work [N. Acharki et al., Robust Prediction Interval estimation for Gaussian Processes by Cross-Validation method, arXiv : 2106.05396], we address the question of adjusting and calibrating Prediction Intervals for Gaussian Processes Regression. First, we determine the model's parameters by a standard Cross-Validation or Maximum Likelihood Estimation method then we adjust the parameters to assess the optimal type II Coverage Probability to a nominal level. We apply a relaxation method to choose parameters that minimize the Wasserstein distance between the Gaussian distribution of the initial parameters (Cross-Validation or Maximum Likelihood Estimation) and the proposed Gaussian distribution among the set of parameters that achieved the desired Coverage Probability.&#x0D;
 		</EventDescription>
-		<EventParent>74242-SESS</EventParent>
-		<EventUniqueID>74242-119087</EventUniqueID>
+		<EventParent></EventParent>
+		<EventUniqueID>1</EventUniqueID>
 		<STATUS>active</STATUS>
 		<AutoRecord>0</AutoRecord>
 		<EnabledForIAV>0</EnabledForIAV>
