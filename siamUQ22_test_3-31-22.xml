@@ -1,0 +1,33 @@
+<meetings>
+	<meeting>
+		<Confcode>UQ22</Confcode>
+		<EventName>Ptychographic Inversion and Uncertainty Quantification Using Invertible Neural Networks</EventName>
+		<EventSubName></EventSubName>
+		<Poster></Poster>
+		<EventNumber>CP6</EventNumber>
+		<EventDate>Apr 13, 2022</EventDate>
+		<EventStartTime>04/13/22  8:30:00 AM</EventStartTime>
+		<EventEndTime>04/13/22  8:45:00 AM</EventEndTime>
+		<EventFilter>UQ22|Contributed</EventFilter>
+		<EventLocation></EventLocation>
+		<EventRoom>Peachtree A - 8th Floor</EventRoom>
+		<FloorPlan></FloorPlan>
+		<EVENT_FEE></EVENT_FEE>
+		<EventKeywords></EventKeywords>
+		<EventChairs></EventChairs>
+		<EventModerators></EventModerators>
+		<EventSpeakers>Agnimitra Dasgupta</EventSpeakers>
+		<EventSpeakerIDs>781443</EventSpeakerIDs>
+		<EventSponsor></EventSponsor>
+		<EventHandoutName>Abstract</EventHandoutName>
+		<EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=119328</EventHandoutURL>
+		<EventDescription>Ptychography is an essential imaging technique for high-resolution and nondestructive material characterization; however, its reconstruction requires solving a challenging large-scale nonlinear and non-convex inverse problem, whose solution is nonunique. Therefore, a robust reconstruction method with the capability of quantifying solution quality is highly desirable.   Motivated by the recent success of invertible neural networks in solving inverse problems, in this work, we explore its application to ptychographic reconstruction. Specifically, invertible neural networks are employed to construct normalizing flows that act as surrogates for the high dimensional posterior density. More importantly, this also allows for the uncertainty quantification of the reconstruction: a desired capability for judging the solution quality among many local minima in the absence of ground truth, spotting spurious artifacts and guiding future experiments using the returned uncertainty patterns. The performance of the proposed method is demonstrated on a synthetic sample with added noise and in various physical experimental settings. The reconstruction quality is found to be comparable with existing methods.</EventDescription>
+		<EventParent>74247-SESS</EventParent>
+		<EventUniqueID>74247-119328</EventUniqueID>
+		<STATUS>active</STATUS>
+		<AutoRecord>0</AutoRecord>
+		<EnabledForIAV>0</EnabledForIAV>
+		<DirectLinkEnabled>0</DirectLinkEnabled>
+		<start>2022-04-13T08:10:00</start>
+	</meeting>
+</meetings>
