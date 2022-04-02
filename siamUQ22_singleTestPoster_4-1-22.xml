@@ -1,30 +1,9 @@
 <meetings>
     <meeting>
-        <Confcode>UQ22</Confcode>
         <EventName>Test poster</EventName>
-        <EventSubName></EventSubName>
-        <Poster>TRUE</Poster>
-        <EventNumber>PP1</EventNumber>
-        <EventDate>Apr 12, 2022</EventDate>
+        <Poster>1</Poster>
         <EventStartTime>04/12/22  8:00:00 PM</EventStartTime>
         <EventEndTime>04/12/22 10:00:00 PM</EventEndTime>
-        <EventFilter>UQ22|</EventFilter>
-        <EventLocation></EventLocation>
-        <EventRoom>Augusta ABCD - 7th Floor</EventRoom>
-        <FloorPlan></FloorPlan>
-        <EVENT_FEE></EVENT_FEE>
-        <EventKeywords></EventKeywords>
-        <EventChairs></EventChairs>
-        <EventModerators></EventModerators>
-        <EventSpeakers></EventSpeakers>
-        <EventSpeakerIDs></EventSpeakerIDs>
-        <EventSponsor></EventSponsor>
-        <EventHandoutName>Abstract</EventHandoutName>
-        <EventHandoutURL>http://meetings.siam.org/sess/dsp_talk.cfm?p=118006</EventHandoutURL>
-        <EventDescription>Just a test</EventDescription>
-        <EventParent>73814-SESS</EventParent>
-        <EventUniqueID>999999999</EventUniqueID>
-        <STATUS>active</STATUS>
-        <start>2022-04-12T20:00:00</start>
+        <EnabledForIAV>0</EnabledForIAV>
     </meeting>
 </meetings>
