@@ -1,0 +1,1036 @@
+﻿<users>
+  <user>
+    <SpeakID>4007</SpeakID>
+    <Speaker_First_Name>Suzanne</Speaker_First_Name>
+    <Speaker_last_name>Lenhart</Speaker_last_name>
+    <Speaker_email>slenhart@utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, Knoxville, U.S. and National Institute for Mathematical and Biological Synthesis, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>10328</SpeakID>
+    <Speaker_First_Name>Robert</Speaker_First_Name>
+    <Speaker_last_name>Krasny</Speaker_last_name>
+    <Speaker_email>krasny@umich.edu</Speaker_email>
+    <Speaker_company_name>University of Michigan, Ann Arbor, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>31568</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Edwards</Speaker_last_name>
+    <Speaker_email>dedwards@udel.edu</Speaker_email>
+    <Speaker_company_name>University of Delaware, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>31568</SpeakID>
+    <Speaker_First_Name>David</Speaker_First_Name>
+    <Speaker_last_name>Edwards</Speaker_last_name>
+    <Speaker_email>dedwards@udel.edu</Speaker_email>
+    <Speaker_company_name>University of Delaware, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>35611</SpeakID>
+    <Speaker_First_Name>James</Speaker_First_Name>
+    <Speaker_last_name>Nagy</Speaker_last_name>
+    <Speaker_email>nagy@mathcs.emory.edu</Speaker_email>
+    <Speaker_company_name>Emory University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>48079</SpeakID>
+    <Speaker_First_Name>Ron</Speaker_First_Name>
+    <Speaker_last_name>Buckmire</Speaker_last_name>
+    <Speaker_email> ron@oxy.edu</Speaker_email>
+    <Speaker_company_name>Occidental College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>48079</SpeakID>
+    <Speaker_First_Name>Ron</Speaker_First_Name>
+    <Speaker_last_name>Buckmire</Speaker_last_name>
+    <Speaker_email> ron@oxy.edu</Speaker_email>
+    <Speaker_company_name>Occidental College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>72042</SpeakID>
+    <Speaker_First_Name>Bjorn</Speaker_First_Name>
+    <Speaker_last_name>Sandstede</Speaker_last_name>
+    <Speaker_email>bjorn_sandstede@brown.edu</Speaker_email>
+    <Speaker_company_name>Brown University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>87940</SpeakID>
+    <Speaker_First_Name>Chad</Speaker_First_Name>
+    <Speaker_last_name>Topaz</Speaker_last_name>
+    <Speaker_email>cmt6@williams.edu</Speaker_email>
+    <Speaker_company_name>Williams College, U.S. and Institute for the Quantitative Study of Inclusion, Diversity, and Equity, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>89782</SpeakID>
+    <Speaker_First_Name>Timothy</Speaker_First_Name>
+    <Speaker_last_name>Chartier</Speaker_last_name>
+    <Speaker_email>tichartier@davidson.edu</Speaker_email>
+    <Speaker_company_name>Davidson College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>701395</SpeakID>
+    <Speaker_First_Name>Kathleen</Speaker_First_Name>
+    <Speaker_last_name>Hoffman</Speaker_last_name>
+    <Speaker_email>khoffman@umbc.edu</Speaker_email>
+    <Speaker_company_name>University of Maryland, Baltimore County, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>701395</SpeakID>
+    <Speaker_First_Name>Kathleen</Speaker_First_Name>
+    <Speaker_last_name>Hoffman</Speaker_last_name>
+    <Speaker_email>khoffman@umbc.edu</Speaker_email>
+    <Speaker_company_name>University of Maryland, Baltimore County, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>702229</SpeakID>
+    <Speaker_First_Name>Ricardo</Speaker_First_Name>
+    <Speaker_last_name>Cortez</Speaker_last_name>
+    <Speaker_email>rcortez@tulane.edu</Speaker_email>
+    <Speaker_company_name>Tulane University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>702229</SpeakID>
+    <Speaker_First_Name>Ricardo</Speaker_First_Name>
+    <Speaker_last_name>Cortez</Speaker_last_name>
+    <Speaker_email>rcortez@tulane.edu</Speaker_email>
+    <Speaker_company_name>Tulane University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>703625</SpeakID>
+    <Speaker_First_Name>Mansoor</Speaker_First_Name>
+    <Speaker_last_name>Haider</Speaker_last_name>
+    <Speaker_email>mahaider@ncsu.edu</Speaker_email>
+    <Speaker_company_name>North Carolina State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>704298</SpeakID>
+    <Speaker_First_Name>Roummel</Speaker_First_Name>
+    <Speaker_last_name>Marcia</Speaker_last_name>
+    <Speaker_email>rmarcia@ucmerced.edu</Speaker_email>
+    <Speaker_company_name>University of California, Merced, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>711505</SpeakID>
+    <Speaker_First_Name>Kurt</Speaker_First_Name>
+    <Speaker_last_name>Bryan</Speaker_last_name>
+    <Speaker_email>kurt.bryan@rose-hulman.edu</Speaker_email>
+    <Speaker_company_name>Rose-Hulman Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>715127</SpeakID>
+    <Speaker_First_Name>Taras</Speaker_First_Name>
+    <Speaker_last_name>Lakoba</Speaker_last_name>
+    <Speaker_email>tlakoba@uvm.edu</Speaker_email>
+    <Speaker_company_name>University of Vermont, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>716013</SpeakID>
+    <Speaker_First_Name>Christoph</Speaker_First_Name>
+    <Speaker_last_name>Borgers</Speaker_last_name>
+    <Speaker_email>christoph.borgers@tufts.edu</Speaker_email>
+    <Speaker_company_name>Tufts University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>716671</SpeakID>
+    <Speaker_First_Name>Richard</Speaker_First_Name>
+    <Speaker_last_name>Moore</Speaker_last_name>
+    <Speaker_email>moore@siam.org</Speaker_email>
+    <Speaker_company_name>SIAM, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>720567</SpeakID>
+    <Speaker_First_Name>Louis</Speaker_First_Name>
+    <Speaker_last_name>Gross</Speaker_last_name>
+    <Speaker_email>gross@tiem.utk.edu</Speaker_email>
+    <Speaker_company_name>University of Tennessee, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>721529</SpeakID>
+    <Speaker_First_Name>Mary Ann</Speaker_First_Name>
+    <Speaker_last_name>Leung</Speaker_last_name>
+    <Speaker_email>mleung@shinstitute.org</Speaker_email>
+    <Speaker_company_name>Sustainable Horizons Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>724456</SpeakID>
+    <Speaker_First_Name>Tony</Speaker_First_Name>
+    <Speaker_last_name>Harkin</Speaker_last_name>
+    <Speaker_email>harkin@rit.edu</Speaker_email>
+    <Speaker_company_name>Rochester Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>727601</SpeakID>
+    <Speaker_First_Name>TBA</Speaker_First_Name>
+    <Speaker_last_name>TBA</Speaker_last_name>
+    <Speaker_email>na</Speaker_email>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>729229</SpeakID>
+    <Speaker_First_Name>Brynja</Speaker_First_Name>
+    <Speaker_last_name>Kohler</Speaker_last_name>
+    <Speaker_email>Brynja.Kohler@usu.edu</Speaker_email>
+    <Speaker_company_name>Utah State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>729229</SpeakID>
+    <Speaker_First_Name>Brynja</Speaker_First_Name>
+    <Speaker_last_name>Kohler</Speaker_last_name>
+    <Speaker_email>Brynja.Kohler@usu.edu</Speaker_email>
+    <Speaker_company_name>Utah State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>729272</SpeakID>
+    <Speaker_First_Name>Andrea</Speaker_First_Name>
+    <Speaker_last_name>Barreiro</Speaker_last_name>
+    <Speaker_email>abarreiro@mail.smu.edu</Speaker_email>
+    <Speaker_company_name>Southern Methodist University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>732230</SpeakID>
+    <Speaker_First_Name>Karl</Speaker_First_Name>
+    <Speaker_last_name>Schmitt</Speaker_last_name>
+    <Speaker_email>Karl.Schmitt@trnty.edu</Speaker_email>
+    <Speaker_company_name>Trinity College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>732230</SpeakID>
+    <Speaker_First_Name>Karl</Speaker_First_Name>
+    <Speaker_last_name>Schmitt</Speaker_last_name>
+    <Speaker_email>Karl.Schmitt@trnty.edu</Speaker_email>
+    <Speaker_company_name>Trinity College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>733366</SpeakID>
+    <Speaker_First_Name>Padhu</Speaker_First_Name>
+    <Speaker_last_name>Seshaiyer</Speaker_last_name>
+    <Speaker_email>pseshaiy@gmu.edu</Speaker_email>
+    <Speaker_company_name>George Mason University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>733366</SpeakID>
+    <Speaker_First_Name>Padhu</Speaker_First_Name>
+    <Speaker_last_name>Seshaiyer</Speaker_last_name>
+    <Speaker_email>pseshaiy@gmu.edu</Speaker_email>
+    <Speaker_company_name>George Mason University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>739164</SpeakID>
+    <Speaker_First_Name>Burt</Speaker_First_Name>
+    <Speaker_last_name>Tilley</Speaker_last_name>
+    <Speaker_email>tilley@wpi.edu</Speaker_email>
+    <Speaker_company_name>Worcester Polytechnic Institute, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>744264</SpeakID>
+    <Speaker_First_Name>Josef</Speaker_First_Name>
+    <Speaker_last_name>Sifuentes</Speaker_last_name>
+    <Speaker_email>josef.sifuentes@utrgv.edu</Speaker_email>
+    <Speaker_company_name>University of Texas, Rio Grande Valley</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>750466</SpeakID>
+    <Speaker_First_Name>Francois</Speaker_First_Name>
+    <Speaker_last_name>Blanchette</Speaker_last_name>
+    <Speaker_email>fblanchette@ucmerced.edu</Speaker_email>
+    <Speaker_company_name>University of California, Merced, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>751042</SpeakID>
+    <Speaker_First_Name>Patrick</Speaker_First_Name>
+    <Speaker_last_name>Shipman</Speaker_last_name>
+    <Speaker_email>shipman@math.colostate.edu</Speaker_email>
+    <Speaker_company_name>Colorado State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>751042</SpeakID>
+    <Speaker_First_Name>Patrick</Speaker_First_Name>
+    <Speaker_last_name>Shipman</Speaker_last_name>
+    <Speaker_email>shipman@math.colostate.edu</Speaker_email>
+    <Speaker_company_name>Colorado State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>756849</SpeakID>
+    <Speaker_First_Name>Suzanne</Speaker_First_Name>
+    <Speaker_last_name>Sindi</Speaker_last_name>
+    <Speaker_email>ssindi@ucmerced.edu</Speaker_email>
+    <Speaker_company_name>University of California, Merced, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>756849</SpeakID>
+    <Speaker_First_Name>Suzanne</Speaker_First_Name>
+    <Speaker_last_name>Sindi</Speaker_last_name>
+    <Speaker_email>ssindi@ucmerced.edu</Speaker_email>
+    <Speaker_company_name>University of California, Merced, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>764425</SpeakID>
+    <Speaker_First_Name>Gerardo</Speaker_First_Name>
+    <Speaker_last_name>Hernandez-Duenas</Speaker_last_name>
+    <Speaker_email>hernandez@im.unam.mx</Speaker_email>
+    <Speaker_company_name>National University of Mexico, Mexico</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>769784</SpeakID>
+    <Speaker_First_Name>Paul</Speaker_First_Name>
+    <Speaker_last_name>Hand</Speaker_last_name>
+    <Speaker_email>paul.hand@gmail.com</Speaker_email>
+    <Speaker_company_name>Northeastern University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>771154</SpeakID>
+    <Speaker_First_Name>Pamela</Speaker_First_Name>
+    <Speaker_last_name>Pyzza</Speaker_last_name>
+    <Speaker_email>pyzza1@kenyon.edu</Speaker_email>
+    <Speaker_company_name>Kenyon College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>773369</SpeakID>
+    <Speaker_First_Name>Brian</Speaker_First_Name>
+    <Speaker_last_name>Winkel</Speaker_last_name>
+    <Speaker_email>BrianWinkel@simiode.org</Speaker_email>
+    <Speaker_company_name>SIMIODE, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>773369</SpeakID>
+    <Speaker_First_Name>Brian</Speaker_First_Name>
+    <Speaker_last_name>Winkel</Speaker_last_name>
+    <Speaker_email>BrianWinkel@simiode.org</Speaker_email>
+    <Speaker_company_name>SIMIODE, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>773408</SpeakID>
+    <Speaker_First_Name>Cynthia</Speaker_First_Name>
+    <Speaker_last_name>Anhalt</Speaker_last_name>
+    <Speaker_email>canhalt@math.arizona.edu</Speaker_email>
+    <Speaker_company_name>University of Arizona, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>774513</SpeakID>
+    <Speaker_First_Name>Katie</Speaker_First_Name>
+    <Speaker_last_name>Kavanagh</Speaker_last_name>
+    <Speaker_email>kkavanag@clarkson.edu</Speaker_email>
+    <Speaker_company_name>Clarkson University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>778806</SpeakID>
+    <Speaker_First_Name>Cristina</Speaker_First_Name>
+    <Speaker_last_name>Villalobos</Speaker_last_name>
+    <Speaker_email>cristina.villalobos@utrgv.edu</Speaker_email>
+    <Speaker_company_name>The University of Texas Rio Grande Valley, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>778806</SpeakID>
+    <Speaker_First_Name>Cristina</Speaker_First_Name>
+    <Speaker_last_name>Villalobos</Speaker_last_name>
+    <Speaker_email>cristina.villalobos@utrgv.edu</Speaker_email>
+    <Speaker_company_name>The University of Texas Rio Grande Valley, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>778808</SpeakID>
+    <Speaker_First_Name>Kamuela</Speaker_First_Name>
+    <Speaker_last_name>Yong</Speaker_last_name>
+    <Speaker_email>kamuela.yong@hawaii.edu</Speaker_email>
+    <Speaker_company_name>University of Hawaii, West Oahu, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>779079</SpeakID>
+    <Speaker_First_Name>Pamela</Speaker_First_Name>
+    <Speaker_last_name>Harris</Speaker_last_name>
+    <Speaker_email>peh2@williams.edu</Speaker_email>
+    <Speaker_company_name>Williams College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>779205</SpeakID>
+    <Speaker_First_Name>Jacob</Speaker_First_Name>
+    <Speaker_last_name>Price</Speaker_last_name>
+    <Speaker_email>jrprice@pugetsound.edu</Speaker_email>
+    <Speaker_company_name>University of Puget Sound, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>781853</SpeakID>
+    <Speaker_First_Name>Matthew</Speaker_First_Name>
+    <Speaker_last_name>Mizuhara</Speaker_last_name>
+    <Speaker_email>mizuharm@tcnj.edu</Speaker_email>
+    <Speaker_company_name>College of New Jersey, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>782398</SpeakID>
+    <Speaker_First_Name>Axel</Speaker_First_Name>
+    <Speaker_last_name>Brandt</Speaker_last_name>
+    <Speaker_email>brandta2@nku.edu</Speaker_email>
+    <Speaker_company_name>Northern Kentucky University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783188</SpeakID>
+    <Speaker_First_Name>Mihhail</Speaker_First_Name>
+    <Speaker_last_name>Berezovski</Speaker_last_name>
+    <Speaker_email>mihhail.berezovski@erau.edu</Speaker_email>
+    <Speaker_company_name>Embry-Riddle Aeronautical University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783243</SpeakID>
+    <Speaker_First_Name>Mel</Speaker_First_Name>
+    <Speaker_last_name>Henriksen</Speaker_last_name>
+    <Speaker_email>henriksenm@wit.edu</Speaker_email>
+    <Speaker_company_name>Wentworth Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783282</SpeakID>
+    <Speaker_First_Name>Corban</Speaker_First_Name>
+    <Speaker_last_name>Harwood</Speaker_last_name>
+    <Speaker_email>rharwood@georgefox.edu</Speaker_email>
+    <Speaker_company_name>George Fox University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783292</SpeakID>
+    <Speaker_First_Name>Solomon</Speaker_First_Name>
+    <Speaker_last_name>Garfunkel</Speaker_last_name>
+    <Speaker_email>Sol@comap.com</Speaker_email>
+    <Speaker_company_name>COMAP, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783721</SpeakID>
+    <Speaker_First_Name>Nicholas</Speaker_First_Name>
+    <Speaker_last_name>Battista</Speaker_last_name>
+    <Speaker_email>battistn@tcnj.edu</Speaker_email>
+    <Speaker_company_name>College of New Jersey, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783807</SpeakID>
+    <Speaker_First_Name>Diana</Speaker_First_Name>
+    <Speaker_last_name>White</Speaker_last_name>
+    <Speaker_email>dtwhite@clarkson.edu</Speaker_email>
+    <Speaker_company_name>Clarkson University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>783841</SpeakID>
+    <Speaker_First_Name>Chris</Speaker_First_Name>
+    <Speaker_last_name>Rasmussen</Speaker_last_name>
+    <Speaker_email>crasmussen@mail.sdsu.edu</Speaker_email>
+    <Speaker_company_name>San Diego State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>784709</SpeakID>
+    <Speaker_First_Name>Ben</Speaker_First_Name>
+    <Speaker_last_name>Galluzzo</Speaker_last_name>
+    <Speaker_email>bgalluzz@clarkson.edu</Speaker_email>
+    <Speaker_company_name>Clarkson University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>788318</SpeakID>
+    <Speaker_First_Name>Mario</Speaker_First_Name>
+    <Speaker_last_name>Banuelos</Speaker_last_name>
+    <Speaker_email>mbanuelos22@csufresno.edu</Speaker_email>
+    <Speaker_company_name>California State University, Fresno, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>792019</SpeakID>
+    <Speaker_First_Name>Matthew</Speaker_First_Name>
+    <Speaker_last_name>Lewis</Speaker_last_name>
+    <Speaker_email>lewisma@byui.edu</Speaker_email>
+    <Speaker_company_name>Brigham Young University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>793428</SpeakID>
+    <Speaker_First_Name>Matthew</Speaker_First_Name>
+    <Speaker_last_name>Beauregard</Speaker_last_name>
+    <Speaker_email>beauregama@sfasu.edu</Speaker_email>
+    <Speaker_company_name>Stephen F. Austin State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>793432</SpeakID>
+    <Speaker_First_Name>Rana</Speaker_First_Name>
+    <Speaker_last_name>Parshad</Speaker_last_name>
+    <Speaker_email>rparshad@iastate.edu</Speaker_email>
+    <Speaker_company_name>Iowa State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>795734</SpeakID>
+    <Speaker_First_Name>Alen</Speaker_First_Name>
+    <Speaker_last_name>Alexanderian</Speaker_last_name>
+    <Speaker_email>alexanderian@ncsu.edu</Speaker_email>
+    <Speaker_company_name>North Carolina State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>801430</SpeakID>
+    <Speaker_First_Name>Laura</Speaker_First_Name>
+    <Speaker_last_name>Miller</Speaker_last_name>
+    <Speaker_email>lauram9@math.arizona.edu</Speaker_email>
+    <Speaker_company_name>University of Arizona, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805296</SpeakID>
+    <Speaker_First_Name>Sima</Speaker_First_Name>
+    <Speaker_last_name>Caspari-Sadeghi</Speaker_last_name>
+    <Speaker_email>Sima.caspari-sadeghi@uni-passau.de</Speaker_email>
+    <Speaker_company_name>University of Passau, Germany</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805303</SpeakID>
+    <Speaker_First_Name>Nathan</Speaker_First_Name>
+    <Speaker_last_name>Alexander</Speaker_last_name>
+    <Speaker_email>nathan.alexander@morehouse.edu</Speaker_email>
+    <Speaker_company_name>Morehouse College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805361</SpeakID>
+    <Speaker_First_Name>Rikki</Speaker_First_Name>
+    <Speaker_last_name>Wagstrom</Speaker_last_name>
+    <Speaker_email>rikki.wagstrom@metrostate.edu</Speaker_email>
+    <Speaker_company_name>Metropolitan State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805420</SpeakID>
+    <Speaker_First_Name>Sarah</Speaker_First_Name>
+    <Speaker_last_name>Leupen</Speaker_last_name>
+    <Speaker_email>leupen@umbc.edu</Speaker_email>
+    <Speaker_company_name>University of Maryland, Baltimore County, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805420</SpeakID>
+    <Speaker_First_Name>Sarah</Speaker_First_Name>
+    <Speaker_last_name>Leupen</Speaker_last_name>
+    <Speaker_email>leupen@umbc.edu</Speaker_email>
+    <Speaker_company_name>University of Maryland, Baltimore County, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805430</SpeakID>
+    <Speaker_First_Name>Keith</Speaker_First_Name>
+    <Speaker_last_name>Weber</Speaker_last_name>
+    <Speaker_email>keith.weber@gse.rutgers.edu</Speaker_email>
+    <Speaker_company_name>Rutgers University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805431</SpeakID>
+    <Speaker_First_Name>Juan Pablo</Speaker_First_Name>
+    <Speaker_last_name>Mejia Ramos</Speaker_last_name>
+    <Speaker_email>pablo.mejia@gse.rutgers.edu</Speaker_email>
+    <Speaker_company_name>Rutgers University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805432</SpeakID>
+    <Speaker_First_Name>Kathleen</Speaker_First_Name>
+    <Speaker_last_name>Melhuish</Speaker_last_name>
+    <Speaker_email>kmm335@txstate.edu</Speaker_email>
+    <Speaker_company_name>Texas State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805515</SpeakID>
+    <Speaker_First_Name>Kwadwo</Speaker_First_Name>
+    <Speaker_last_name>Antwi-Fordjour</Speaker_last_name>
+    <Speaker_email>kantwifo@samford.edu</Speaker_email>
+    <Speaker_company_name>Samford University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805515</SpeakID>
+    <Speaker_First_Name>Kwadwo</Speaker_First_Name>
+    <Speaker_last_name>Antwi-Fordjour</Speaker_last_name>
+    <Speaker_email>kantwifo@samford.edu</Speaker_email>
+    <Speaker_company_name>Samford University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805517</SpeakID>
+    <Speaker_First_Name>Jan</Speaker_First_Name>
+    <Speaker_last_name>DeWaters</Speaker_last_name>
+    <Speaker_email>jdewater@clarkson.edu</Speaker_email>
+    <Speaker_company_name>Clarkson University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805518</SpeakID>
+    <Speaker_First_Name>Seema</Speaker_First_Name>
+    <Speaker_last_name>Rivera</Speaker_last_name>
+    <Speaker_email>riveras@clarkson.edu</Speaker_email>
+    <Speaker_company_name>Clarkson University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805523</SpeakID>
+    <Speaker_First_Name>Corey</Speaker_First_Name>
+    <Speaker_last_name>Ryder</Speaker_last_name>
+    <Speaker_email>cryder@wccsk12.org</Speaker_email>
+    <Speaker_company_name>Ayland-Cohocton Middle School, U.S. |</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805590</SpeakID>
+    <Speaker_First_Name>Vladimir</Speaker_First_Name>
+    <Speaker_last_name>Dubrovsky</Speaker_last_name>
+    <Speaker_email>vndubrovsky@gmail.com</Speaker_email>
+    <Speaker_company_name>Moscow State University, Russia</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805592</SpeakID>
+    <Speaker_First_Name>Henk</Speaker_First_Name>
+    <Speaker_last_name>van der Kooij</Speaker_last_name>
+    <Speaker_email>henkvanderkooij@gmail.com</Speaker_email>
+    <Speaker_company_name>University of Utrecht, Netherlands</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805593</SpeakID>
+    <Speaker_First_Name>Irene</Speaker_First_Name>
+    <Speaker_last_name>Ferrando Palomarese</Speaker_last_name>
+    <Speaker_email>irene.ferrando@uv.es</Speaker_email>
+    <Speaker_company_name>University of Valencia, Spain</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805602</SpeakID>
+    <Speaker_First_Name>Folashade</Speaker_First_Name>
+    <Speaker_last_name>Agusto</Speaker_last_name>
+    <Speaker_email>fbagusto@ku.edu</Speaker_email>
+    <Speaker_company_name>University of Kansas, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805605</SpeakID>
+    <Speaker_First_Name>Flavio</Speaker_First_Name>
+    <Speaker_last_name>Guiñez</Speaker_last_name>
+    <Speaker_email>flavioguinez@uchile.cl</Speaker_email>
+    <Speaker_company_name>Universidad de Chile, Chile</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805711</SpeakID>
+    <Speaker_First_Name>Matthew</Speaker_First_Name>
+    <Speaker_last_name>Hawks</Speaker_last_name>
+    <Speaker_email>mhawks@usna.edu</Speaker_email>
+    <Speaker_company_name>US Naval Academy, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805726</SpeakID>
+    <Speaker_First_Name>Carrie</Speaker_First_Name>
+    <Speaker_last_name>Diaz Eaton</Speaker_last_name>
+    <Speaker_email>cdeaton@bates.edu</Speaker_email>
+    <Speaker_company_name>Bates College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805726</SpeakID>
+    <Speaker_First_Name>Carrie</Speaker_First_Name>
+    <Speaker_last_name>Diaz Eaton</Speaker_last_name>
+    <Speaker_email>cdeaton@bates.edu</Speaker_email>
+    <Speaker_company_name>Bates College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805735</SpeakID>
+    <Speaker_First_Name>Kenneth</Speaker_First_Name>
+    <Speaker_last_name>Monks</Speaker_last_name>
+    <Speaker_email>kenneth.monks@frontrange.edu</Speaker_email>
+    <Speaker_company_name>Front Range Community College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805736</SpeakID>
+    <Speaker_First_Name>Alan</Speaker_First_Name>
+    <Speaker_last_name>von Herrmann</Speaker_last_name>
+    <Speaker_email>avonherrmann@mines.edu</Speaker_email>
+    <Speaker_company_name>Colorado School of Mines, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805742</SpeakID>
+    <Speaker_First_Name>Will</Speaker_First_Name>
+    <Speaker_last_name>Tidwell</Speaker_last_name>
+    <Speaker_email>w.tidwell@moreheadstate.edu</Speaker_email>
+    <Speaker_company_name>Morehead State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805744</SpeakID>
+    <Speaker_First_Name>Amy</Speaker_First_Name>
+    <Speaker_last_name>Bennett</Speaker_last_name>
+    <Speaker_email>abennett14@unl.edu</Speaker_email>
+    <Speaker_company_name>University of Nebraska, Lincoln, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805748</SpeakID>
+    <Speaker_First_Name>Wesley</Speaker_First_Name>
+    <Speaker_last_name>Hamilton</Speaker_last_name>
+    <Speaker_email>hamilton@math.utah.edu</Speaker_email>
+    <Speaker_company_name>University of Utah, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805751</SpeakID>
+    <Speaker_First_Name>Jakob</Speaker_First_Name>
+    <Speaker_last_name>Kotas</Speaker_last_name>
+    <Speaker_email>jakob.kotas@menlo.edu</Speaker_email>
+    <Speaker_company_name>Menlo College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805751</SpeakID>
+    <Speaker_First_Name>Jakob</Speaker_First_Name>
+    <Speaker_last_name>Kotas</Speaker_last_name>
+    <Speaker_email>jakob.kotas@menlo.edu</Speaker_email>
+    <Speaker_company_name>Menlo College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805752</SpeakID>
+    <Speaker_First_Name>Eli</Speaker_First_Name>
+    <Speaker_last_name>Goldwyn</Speaker_last_name>
+    <Speaker_email>goldwyn@up.edu</Speaker_email>
+    <Speaker_company_name>University of Portland, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805785</SpeakID>
+    <Speaker_First_Name>Adam</Speaker_First_Name>
+    <Speaker_last_name>Parker</Speaker_last_name>
+    <Speaker_email>aparker@wittenberg.edu</Speaker_email>
+    <Speaker_company_name>Wittenberg University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805836</SpeakID>
+    <Speaker_First_Name>Natalie</Speaker_First_Name>
+    <Speaker_last_name>Valla</Speaker_last_name>
+    <Speaker_email>nv6valla@gmail.com</Speaker_email>
+    <Speaker_company_name>Lake George High School, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805838</SpeakID>
+    <Speaker_First_Name>Eun Heui</Speaker_First_Name>
+    <Speaker_last_name>Kim</Speaker_last_name>
+    <Speaker_email>eukim@nsf.gov</Speaker_email>
+    <Speaker_company_name>National Science Foundation, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805839</SpeakID>
+    <Speaker_First_Name>Xiaoyi</Speaker_First_Name>
+    <Speaker_last_name>Yang</Speaker_last_name>
+    <Speaker_email>xya32436@creighton.edu</Speaker_email>
+    <Speaker_company_name>Creighton University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805839</SpeakID>
+    <Speaker_First_Name>Xiaoyi</Speaker_First_Name>
+    <Speaker_last_name>Yang</Speaker_last_name>
+    <Speaker_email>xya32436@creighton.edu</Speaker_email>
+    <Speaker_company_name>Creighton University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>805922</SpeakID>
+    <Speaker_First_Name>Emek</Speaker_First_Name>
+    <Speaker_last_name>Kose</Speaker_last_name>
+    <Speaker_email>emek.kose@nih.gov</Speaker_email>
+    <Speaker_company_name>St. Mary's College of Maryland, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806085</SpeakID>
+    <Speaker_First_Name>Anthony</Speaker_First_Name>
+    <Speaker_last_name>Stefan</Speaker_last_name>
+    <Speaker_email>astefan2015@my.fit.edu</Speaker_email>
+    <Speaker_company_name>Florida Institute of Technology, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806192</SpeakID>
+    <Speaker_First_Name>Harvey</Speaker_First_Name>
+    <Speaker_last_name>Diamond</Speaker_last_name>
+    <Speaker_email>hdiamond@mail.wvu.edu</Speaker_email>
+    <Speaker_company_name>West Virginia University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806412</SpeakID>
+    <Speaker_First_Name>Jayson</Speaker_First_Name>
+    <Speaker_last_name>Nissen</Speaker_last_name>
+    <Speaker_email>jayson.nissen@gmail.com</Speaker_email>
+    <Speaker_company_name>Nissen Education Research and Design, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806414</SpeakID>
+    <Speaker_First_Name>Ben</Speaker_First_Name>
+    <Speaker_last_name>Van Dusen</Speaker_last_name>
+    <Speaker_email>bvd@iastate.edu</Speaker_email>
+    <Speaker_company_name>Iowa State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806414</SpeakID>
+    <Speaker_First_Name>Ben</Speaker_First_Name>
+    <Speaker_last_name>Van Dusen</Speaker_last_name>
+    <Speaker_email>bvd@iastate.edu</Speaker_email>
+    <Speaker_company_name>Iowa State University, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806415</SpeakID>
+    <Speaker_First_Name>Mollee</Speaker_First_Name>
+    <Speaker_last_name>Schulz</Speaker_last_name>
+    <Speaker_email>mollee@txstate.edu</Speaker_email>
+    <Speaker_company_name>Texas State University, San Marcos, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806682</SpeakID>
+    <Speaker_First_Name>Celil</Speaker_First_Name>
+    <Speaker_last_name>Ekici</Speaker_last_name>
+    <Speaker_email>celil.ekici@tamucc.edu</Speaker_email>
+    <Speaker_company_name>Texas A&amp;M University, Corpus Christi, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>806682</SpeakID>
+    <Speaker_First_Name>Celil</Speaker_First_Name>
+    <Speaker_last_name>Ekici</Speaker_last_name>
+    <Speaker_email>celil.ekici@tamucc.edu</Speaker_email>
+    <Speaker_company_name>Texas A&amp;M University, Corpus Christi, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>807334</SpeakID>
+    <Speaker_First_Name>Michelle</Speaker_First_Name>
+    <Speaker_last_name>Isenhour</Speaker_last_name>
+    <Speaker_email>m.isenhour@comap.com</Speaker_email>
+    <Speaker_company_name>COMAP, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>807334</SpeakID>
+    <Speaker_First_Name>Michelle</Speaker_First_Name>
+    <Speaker_last_name>Isenhour</Speaker_last_name>
+    <Speaker_email>m.isenhour@comap.com</Speaker_email>
+    <Speaker_company_name>COMAP, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>807335</SpeakID>
+    <Speaker_First_Name>Kathi</Speaker_First_Name>
+    <Speaker_last_name>Snook</Speaker_last_name>
+    <Speaker_email>k.snook@comap.com</Speaker_email>
+    <Speaker_company_name>COMAP, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Speaker</Ribbon>
+  </user>
+  <user>
+    <SpeakID>807375</SpeakID>
+    <Speaker_First_Name>Carrie</Speaker_First_Name>
+    <Speaker_last_name>Diaz-Eaton</Speaker_last_name>
+    <Speaker_email>cdeaton@bates.edu</Speaker_email>
+    <Speaker_company_name>Bates College, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>807376</SpeakID>
+    <Speaker_First_Name>Shelley</Speaker_First_Name>
+    <Speaker_last_name>Poole</Speaker_last_name>
+    <Speaker_email>srohde2@msudenver.edu</Speaker_email>
+    <Speaker_company_name>Metropolitan State University of Denver, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+  <user>
+    <SpeakID>807377</SpeakID>
+    <Speaker_First_Name>Aubrey</Speaker_First_Name>
+    <Speaker_last_name>Kemp</Speaker_last_name>
+    <Speaker_email>Akemp2@csub.edu</Speaker_email>
+    <Speaker_company_name>California State University, Bakersfield, U.S.</Speaker_company_name>
+    <STATUS>active</STATUS>
+    <Ribbon>Session Chair</Ribbon>
+  </user>
+</users>
